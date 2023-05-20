@@ -1,0 +1,10 @@
+.tabs{
+    width: fit-content;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.img{
+    display: block;
+    padding: 1em;
+}
