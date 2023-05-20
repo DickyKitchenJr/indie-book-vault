@@ -1,0 +1,7 @@
+.body{
+    background-image: url(../assets/images/book-vault.webp);
+}
+
+.main{
+    backdrop-filter: sepia(30%);
+}

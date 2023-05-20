@@ -1,0 +1,12 @@
+.h1{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+/* TODO: Is this really better than using an img tag next to the h1? media query for only cell phones? */
+.header{
+    background-image: url(../assets/images/book-vault-small.webp);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: right;
+}

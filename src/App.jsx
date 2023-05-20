@@ -1,11 +1,18 @@
-import GenreTabs from "./components/GenreTabs"
+import GenreTabs from "./components/GenreTabs";
+import Header from "./components/Header";
+import styles from './styles/main-page.module.css';
 
 function App() {
 
   return (
     <>
-      <h1>Indie Book Vault</h1>
+    {/* TODO: Keep background image? */}
+    <body className={styles.body}>
+      <main className={styles.main}>
+        <Header />
       <GenreTabs />
+      </main>
+    </body>
     </>
   )
 }
