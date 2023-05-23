@@ -1,4 +1,27 @@
+@font-face {
+  font-family: "Castoro";
+  src: url(../assets/fonts/CastoroTitling-Regular.ttf);
+  font-display: swap;
+}
+
+.header{
+    display: flex;
+    justify-content: center;
+}
+
 .h1{
-    text-align: center;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: "Castoro", Georgia, 'Times New Roman', Times, serif;
+    font-size: 9vw;
+    padding: .5rem;
+}
+
+.centerVertical{
+    width: fit-content;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.img{
+    max-width: 40%;
+    padding: 1rem;
 }
