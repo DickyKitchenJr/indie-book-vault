@@ -1,0 +1,38 @@
+.main{
+    backdrop-filter: blur(3px);
+}
+
+.h1{
+    font-family: "Castoro";
+    text-align: center;
+    font-size: 19vw;
+}
+
+.faqs{
+    padding: 1rem;
+}
+
+.h2{
+    text-decoration: underline;
+    color: hsla(168, 35%, 19%, .7);
+}
+
+.ul{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 2rem;
+    padding-right: 1rem;
+    list-style: square;
+    font-weight: bold;
+    font-size: 1.25rem;
+}
+
+@media only screen and (min-width: 700px) {
+    .h1{
+        font-size: 8vw;
+    }
+
+    .faqs{
+        padding: 2rem;
+    }
+}
