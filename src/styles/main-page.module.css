@@ -1,6 +1,5 @@
-.body{
+body{
     background-image: url(../assets/images/background.webp);
-    background-size: contain;
 }
 
 .main{
