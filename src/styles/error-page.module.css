@@ -1,0 +1,48 @@
+@font-face {
+  font-family: "Castoro";
+  src: url(../assets/fonts/CastoroTitling-Regular.ttf);
+  font-display: swap;
+}
+
+.errorBackground{
+    background-image: url(../assets/images/book-vault.webp);
+    padding: 4rem;
+    height: 100vh;
+}
+
+.errorMessage{
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 4rem;
+    background-color: hsla(168, 35%, 19%, 0.7);
+    color: hsl(0, 0%, 100%);
+    padding: 1rem;
+    font-family: "Castoro", Georgia, 'Times New Roman', Times, serif;
+}
+
+.center{
+    text-align: center;
+    padding: 1rem;
+    font-size: 5vw;
+}
+
+.p{
+    font-size: 4vw;
+    font-weight: bold;
+    padding: .5rem;
+}
+
+@media only screen and (min-width: 700px) {
+    .center{
+        font-size: 3vw;
+    }
+
+    .p{
+        font-size: 2vw;
+    }
+}
+
+.link{
+    color: hsl(182, 100%, 78%);
+}
