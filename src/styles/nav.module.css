@@ -1,0 +1,21 @@
+.nav{
+    background-color: hsla(168, 35%, 19%, 0.7);
+}
+
+.navList{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 1rem;
+    list-style: none;
+    font-size: 1rem;
+}
+
+@media only screen and (min-width: 600px) {
+    .navList{
+        font-size: 1.75rem;
+    }
+}
+
+.link{
+    color: hsl(182, 100%, 78%);
+}
