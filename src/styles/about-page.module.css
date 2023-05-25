@@ -1,0 +1,15 @@
+.main{
+    backdrop-filter: blur(3px);
+}
+
+.h1{
+    font-family: "Castoro";
+    text-align: center;
+    font-size: 19vw;
+}
+
+@media only screen and (min-width: 700px) {
+    .h1{
+        font-size: 8vw;
+    }
+}
