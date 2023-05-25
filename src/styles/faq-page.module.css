@@ -27,6 +27,14 @@
     font-size: 1.25rem;
 }
 
+.innerUl{
+    padding-top: .5rem;
+    padding-left: 1.5rem;
+    padding-right: 1rem;
+    font-weight: bold;
+    font-size: 1.25rem;
+}
+
 @media only screen and (min-width: 700px) {
     .h1{
         font-size: 8vw;
