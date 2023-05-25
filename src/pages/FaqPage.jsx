@@ -33,6 +33,28 @@ function FaqPage() {
           <ul className={styles.ul}>
             <li>One of the criteria for authors to be included is that their work(s) must be commercially available, meaning readers can purchase their work(s) from various reputable websites (i.e. Amazon, Kobo, Smashwords, etc). While some authors may choose to include free-to-read material on their websites, all authors listed on Indie Book Vault have works available for purchase and we encourage you to help support them by buying something from those you find interesting.</li>
           </ul>
+          <h2 className={styles.h2}>What criteria do authors have to meet to be listed?</h2>
+          <ul className={styles.ul}>
+            <li>Authors must meet the following criteria to be listed:</li>
+            <ul className={styles.innerUl}>
+                <li>They are required to be published and have their work(s) available for purchase from a reputable websites (i.e. Amazon, Kobo, Smashwords, etc)</li>
+                <li>They must have a link to this site clearly labeled on their website to help readers find us and support the community</li>
+                <li>The must post at least one social media post informing readers and other writers that we exist</li>
+            </ul>
+          </ul>
+          <h2 className={styles.h2}>What information does an author need to provide to be listed?</h2>
+          <ul className={styles.ul}>
+            <li>Authors provide us with the following information to be listed:</li>
+            <ul className={styles.innerUl}>
+                <li>Their author name to be listed under</li>
+                <li>An email address (this is not shared on the site and is strictly used for contacting the author regarding information pertaining to the site)</li>
+                <li>Their website address to be listed on the site (and to verify a link to this site is included on their website)</li>
+                <li>Their main genre(s) they have published books in to appropriately list them (currently the available major genres to choose from are: romance, fantasy, sci-fi, thriller, horror, dystopian, western, children's,  drama, comedy, and nonfiction)</li>
+                <li>What sub-genre(s) they have published books in (these are listed on the site to help readers better narrow down which authors interest them)</li>
+                <li>An author bio that will be listed on the site</li>
+                <li>Their social media accounts to be listed on the site</li>
+            </ul>
+          </ul>
         </div>
       </main>
     </>
