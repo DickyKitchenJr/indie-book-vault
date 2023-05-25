@@ -1,5 +1,6 @@
 import React from 'react'
 import Nav from '../components/Nav'
+import Footer from '../components/Footer'
 import styles from '../styles/faq-page.module.css'
 
 function FaqPage() {
@@ -55,8 +56,13 @@ function FaqPage() {
                 <li>Their social media accounts to be listed on the site</li>
             </ul>
           </ul>
+          <h2 className={styles.h2}>I love this! How can I help support Indie Book Vault?</h2>
+          <ul className={styles.ul}>
+            <li>We accept donations through the link at the bottom of the page, and use those donations to help us cover the cost of site maintenance and grow as a community. We greatly appreciate all donations. In addition to donations, you can also spread the word about us on social media and by word of mouth. The more authors and readers know about us, the happier we are.</li>
+          </ul>
         </div>
       </main>
+      <Footer />
     </>
   )
 }
