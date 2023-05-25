@@ -1,5 +1,6 @@
 import React from 'react'
 import Nav from '../components/Nav'
+import Footer from '../components/Footer'
 import styles from '../styles/about-page.module.css'
 
 function AboutPage() {
@@ -9,7 +10,7 @@ function AboutPage() {
         <h1 className={styles.h1}>About</h1>
         <Nav />
       </main>
-      
+      <Footer />
     </>
   )
 }
