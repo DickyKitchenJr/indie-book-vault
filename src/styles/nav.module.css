@@ -10,12 +10,18 @@
     font-size: 1rem;
 }
 
+.link{
+    color: hsl(182, 100%, 78%);
+}
+
 @media only screen and (min-width: 600px) {
     .navList{
         font-size: 1.75rem;
     }
 }
 
-.link{
-    color: hsl(182, 100%, 78%);
+@media only screen and (min-width: 1000px) {
+    .navList{
+        font-size: 1.75vw;
+    }
 }
