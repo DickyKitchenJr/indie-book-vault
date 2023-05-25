@@ -1,0 +1,51 @@
+.footer{
+    background-color: hsla(168, 35%, 19%, 0.7);
+    padding: 1rem;
+    color: hsl(182, 100%, 78%);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: .9rem;
+}
+
+.a{
+    display: flex;
+    justify-content: center;
+}
+
+.p{
+    text-align: center;
+}
+
+.img{
+        max-width: 50%;
+    }
+
+@media only screen and (min-width: 600px){
+    .footer{
+        font-size: 1.1rem;
+    }
+
+    .img{
+        max-width: 100%;
+    }
+}
+
+@media only screen and (min-width: 930px) {
+    .footer{
+        display: flex;
+        justify-content: center;
+    }
+    
+    .p{
+    align-self: center;
+    }
+}
+
+@media only screen and (min-width: 1000px) {
+    .footer{
+        font-size: 1.7vw;
+    }
+    
+    .img{
+        width: 15vw;
+    }
+}
