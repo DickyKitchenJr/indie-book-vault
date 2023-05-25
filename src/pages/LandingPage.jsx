@@ -2,7 +2,7 @@ import React from 'react';
 import GenreTabs from '../components/GenreTabs';
 import Header from '../components/Header';
 import Nav from '../components/Nav';
-import styles from '../styles/main-page.module.css';
+import styles from '../styles/landing-page.module.css';
 
 function LandingPage() {
   return (
@@ -11,6 +11,7 @@ function LandingPage() {
         <main className={styles.main}>
         <Header />
         <Nav />
+        <h2 className={styles.h2}>Pick A Genre</h2>
         <GenreTabs />
         </main>
       </div> 
