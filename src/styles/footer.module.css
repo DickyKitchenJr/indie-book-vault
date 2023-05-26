@@ -4,6 +4,7 @@
     color: hsl(182, 100%, 78%);
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: .9rem;
+    backdrop-filter: blur(3px);
 }
 
 .a{
@@ -44,7 +45,7 @@
     .footer{
         font-size: 1.7vw;
     }
-    
+
     .img{
         width: 15vw;
     }
