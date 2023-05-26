@@ -38,10 +38,15 @@ function FaqPage() {
           <ul className={styles.ul}>
             <li>Authors must meet the following criteria to be listed:</li>
             <ul className={styles.innerUl}>
-                <li>They are required to be published and have their work(s) available for purchase from a reputable websites (i.e. Amazon, Kobo, Smashwords, etc)</li>
+                <li>They are required to be published and have their work(s) available for purchase from a reputable website (i.e. Amazon, Kobo, Smashwords, etc)</li>
                 <li>They must have a link to this site clearly labeled on their website to help readers find us and support the community</li>
                 <li>The must post at least one social media post informing readers and other writers that we exist</li>
+                <li>Authors that <span className={styles.underline}>do not</span> have a website can be considered if they are willing to put monthly social media post up promoting Indie Book Vault</li>
             </ul>
+          </ul>
+          <h2 className={styles.h2}>Why is it so important that authors include a link or their website for Indie Book Vault or do monthly social media post?</h2>
+          <ul className={styles.ul}>
+            <li>In order for Indie Book Vault to remain a free resource for authors and readers we rely on authors listed on the site to spread the word of our existence. The easiest way for an author to do this is to include a link to our site on their author website, but since not all published authors have a website we offer the option to post monthly on social media as an alternative option. Due to the fleeting nature of a social media post vs the permanence of a link on a website, we require authors without a website to post monthly on social media.</li>
           </ul>
           <h2 className={styles.h2}>What information does an author need to provide to be listed?</h2>
           <ul className={styles.ul}>
