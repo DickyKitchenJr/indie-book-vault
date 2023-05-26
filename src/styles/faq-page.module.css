@@ -3,9 +3,10 @@
 }
 
 .h1{
-    font-family: "Castoro";
+    font-family: "Castoro", Georgia, 'Times New Roman', Times, serif;
     text-align: center;
-    font-size: 19vw;
+    font-size: 17vw;
+    padding: 1rem;
 }
 
 .faqs{
@@ -33,6 +34,10 @@
     padding-right: 1rem;
     font-weight: bold;
     font-size: 1.25rem;
+}
+
+.underline{
+    text-decoration: underline;
 }
 
 @media only screen and (min-width: 700px) {
