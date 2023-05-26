@@ -1,0 +1,22 @@
+.main{
+    backdrop-filter: blur(3px);
+}
+
+.h1{
+    font-family: "Castoro", Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 17vw;
+    padding: 1rem;
+}
+
+@media only screen and (min-width: 700px) {
+    .h1{
+        font-size: 8vw;
+    }
+}
+
+.p{
+    text-align: center;
+    font-size: 9vw;
+    padding: 1rem;
+}
