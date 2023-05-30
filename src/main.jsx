@@ -18,6 +18,65 @@ import Romance from './pages/GenrePages/Romance'
 import SciFi from './pages/GenrePages/SciFi'
 import Thriller from './pages/GenrePages/Thriller'
 import Western from './pages/GenrePages/Western'
+import { Authors } from './components/Authors'
+
+const childrensGenre = [];
+const comedyGenre = [];
+const dramaGenre = [];
+const dystopianGenre = [];
+const fantasyGenre = [];
+const horrorGenre = [];
+const nonfictionGenre = [];
+const romanceGenre = [];
+const scifiGenre = [];
+const thrillerGenre = [];
+const westernGenre = [];
+
+function SortAuthorByGenre(authors) {
+  authors.map(author => {
+    author.umbrellaGenre.map(genre =>{
+        switch(genre){
+            case "childrens":
+                childrensGenre.push(author);
+                break;
+            case "comedy":
+                comedyGenre.push(author);
+                break;
+            case "drama":
+                dramaGenre.push(author);
+                break;
+            case "dystopian":
+                dystopianGenre.push(author);
+                break;
+            case "fantasy":
+                fantasyGenre.push(author);
+                break;
+            case "horror":
+                horrorGenre.push(author);
+                break;
+            case "nonfiction":
+                nonfictionGenre.push(author);
+                break;
+            case "romance":
+                romanceGenre.push(author);
+                break;
+            case "scifi":
+                scifiGenre.push(author);
+                break;
+            case "thriller":
+                thrillerGenre.push(author);
+                break;
+            case "western":
+                westernGenre.push(author);
+                break;
+            default:
+                null;
+        }
+    })
+  })
+}
+
+SortAuthorByGenre(Authors)
 
 const router = createBrowserRouter([
   {
@@ -39,47 +98,47 @@ const router = createBrowserRouter([
   },
   {
     path: "childrens",
-    element: <Childrens />
+    element: <Childrens authors={childrensGenre}/>
   },
   {
     path: "comedy",
-    element: <Comedy />
+    element: <Comedy authors={comedyGenre}/>
   },
   {
     path: "drama",
-    element: <Drama />
+    element: <Drama authors={dramaGenre}/>
   },
   {
     path: "dystopian",
-    element: <Dystopian />
+    element: <Dystopian authors={dystopianGenre}/>
   },
   {
     path: "fantasy",
-    element: <Fantasy />
+    element: <Fantasy authors={fantasyGenre}/>
   },
   {
     path: "horror",
-    element: <Horror />
+    element: <Horror authors={horrorGenre}/>
   },
   {
     path: "nonfiction",
-    element: <NonFiction />
+    element: <NonFiction authors={nonfictionGenre}/>
   },
   {
     path: "romance",
-    element: <Romance />
+    element: <Romance authors={romanceGenre}/>
   },
   {
     path: "scifi",
-    element: <SciFi />
+    element: <SciFi authors={scifiGenre}/>
   },
   {
     path: "thriller",
-    element: <Thriller />
+    element: <Thriller authors={thrillerGenre}/>
   },
   {
     path: "western",
-    element: <Western />
+    element: <Western authors={westernGenre}/>
   },
 ])
 
