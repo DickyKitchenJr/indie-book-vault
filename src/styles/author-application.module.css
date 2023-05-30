@@ -20,6 +20,16 @@
     font-weight: bold;
 }
 
+.checkbox{
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+
+.checkboxItems{
+    display: flex;
+    justify-content: flex-start;
+}
+
 .submit{
     width: fit-content;
     margin-left: auto;
