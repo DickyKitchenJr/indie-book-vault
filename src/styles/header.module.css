@@ -4,30 +4,30 @@
   font-display: swap;
 }
 
-.header{
-    display: flex;
-    justify-content: center;
+.header {
+  display: flex;
+  justify-content: center;
 }
 
-.h1{
-    font-family: "Castoro", Georgia, 'Times New Roman', Times, serif;
-    font-size: 9vw;
-    padding: .5rem;
+.h1 {
+  font-family: "Castoro", Georgia, "Times New Roman", Times, serif;
+  font-size: 9vw;
+  padding: 0.5rem;
 }
 
-.centerVertical{
-    width: fit-content;
-    margin-top: auto;
-    margin-bottom: auto;
+.centerVertical {
+  width: fit-content;
+  margin-top: auto;
+  margin-bottom: auto;
 }
 
-.img{
-    max-width: 40%;
-    padding: 1rem;
+.img {
+  max-width: 40%;
+  padding: 1rem;
 }
 
 @media only screen and (min-width: 1400px) {
-    .h1{
-        font-size: 6vw;
-    }
+  .h1 {
+    font-size: 6vw;
+  }
 }

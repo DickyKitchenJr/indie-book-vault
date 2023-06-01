@@ -1,22 +1,48 @@
-.main{
-    backdrop-filter: blur(3px);
+.main {
+  backdrop-filter: blur(3px);
+  min-height: 93vh;
 }
 
-.h1{
-    font-family: "Castoro", Georgia, 'Times New Roman', Times, serif;
-    text-align: center;
-    font-size: 17vw;
-    padding: 1rem;
+.h1 {
+  font-family: "Castoro", Georgia, "Times New Roman", Times, serif;
+  text-align: center;
+  font-size: 17vw;
+  padding: 1rem;
 }
 
 @media only screen and (min-width: 700px) {
-    .h1{
-        font-size: 8vw;
-    }
+  .h1 {
+    font-size: 8vw;
+  }
 }
 
-.p{
-    text-align: center;
-    font-size: 9vw;
-    padding: 1rem;
+.awaitingAuthors {
+  padding-top: 5rem;
+  padding-left: 3rem;
+  padding-right: 3rem;
+  text-align: center;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.awaitingH3 {
+  font-size: 1.2rem;
+  padding: 1rem;
+}
+
+.awaitingP {
+  font-size: 1.1rem;
+}
+
+@media only screen and (min-width: 1000px) {
+  .awaitingH3 {
+    font-size: 1.6vw;
+  }
+
+  .awaitingP {
+    font-size: 1.4vw;
+  }
+}
+
+.authorInfo {
+  font-family: Georgia, "Times New Roman", Times, serif;
 }

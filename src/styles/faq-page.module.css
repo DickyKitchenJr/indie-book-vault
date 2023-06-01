@@ -1,51 +1,52 @@
-.main{
-    backdrop-filter: blur(3px);
+.main {
+  backdrop-filter: blur(3px);
 }
 
-.h1{
-    font-family: "Castoro", Georgia, 'Times New Roman', Times, serif;
-    text-align: center;
-    font-size: 17vw;
-    padding: 1rem;
+.h1 {
+  font-family: "Castoro", Georgia, "Times New Roman", Times, serif;
+  text-align: center;
+  font-size: 17vw;
+  padding: 1rem;
 }
 
-.faqs{
-    padding: 1rem;
+.faqs {
+  padding: 1rem;
+  font-family: Georgia, "Times New Roman", Times, serif;
 }
 
-.h2{
-    text-decoration: underline;
-    color: hsla(168, 35%, 19%, .7);
+.h2 {
+  text-decoration: underline;
+  color: hsla(168, 35%, 19%, 0.7);
 }
 
-.ul{
-    padding-top: 1rem;
-    padding-bottom: 1rem;
-    padding-left: 2rem;
-    padding-right: 1rem;
-    list-style: square;
-    font-weight: bold;
-    font-size: 1.25rem;
+.ul {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  padding-left: 2rem;
+  padding-right: 1rem;
+  list-style: square;
+  font-weight: bold;
+  font-size: 1.25rem;
 }
 
-.innerUl{
-    padding-top: .5rem;
-    padding-left: 1.5rem;
-    padding-right: 1rem;
-    font-weight: bold;
-    font-size: 1.25rem;
+.innerUl {
+  padding-top: 0.5rem;
+  padding-left: 1.5rem;
+  padding-right: 1rem;
+  font-weight: bold;
+  font-size: 1.25rem;
 }
 
-.underline{
-    text-decoration: underline;
+.underline {
+  text-decoration: underline;
 }
 
 @media only screen and (min-width: 700px) {
-    .h1{
-        font-size: 8vw;
-    }
+  .h1 {
+    font-size: 8vw;
+  }
 
-    .faqs{
-        padding: 2rem;
-    }
+  .faqs {
+    padding: 2rem;
+  }
 }

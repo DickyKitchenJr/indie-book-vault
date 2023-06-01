@@ -1,17 +1,17 @@
-.tabs{
-    width: fit-content;
-    margin-right: auto;
-    margin-left: auto;
+.tabs {
+  width: fit-content;
+  margin-right: auto;
+  margin-left: auto;
 }
 
-.img{
-    display: block;
-    padding: 1em;
-    width: 85vw;
+.img {
+  display: block;
+  padding: 1em;
+  width: 85vw;
 }
 
 @media only screen and (min-width: 750px) {
-    .img{
-        width: 60vw;
-    }
+  .img {
+    width: 60vw;
+  }
 }

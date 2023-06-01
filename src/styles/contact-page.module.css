@@ -1,37 +1,37 @@
-.main{
-    backdrop-filter: blur(3px);
-    padding-bottom: 1rem;
-    font-weight: bold;
+.main {
+  backdrop-filter: blur(3px);
+  padding-bottom: 1rem;
+  font-weight: bold;
 }
 
-.h1{
-    font-family: "Castoro", Georgia, 'Times New Roman', Times, serif;
-    text-align: center;
-    font-size: 17vw;
-    padding: 1rem;
+.h1 {
+  font-family: "Castoro", Georgia, "Times New Roman", Times, serif;
+  text-align: center;
+  font-size: 17vw;
+  padding: 1rem;
 }
 
 @media only screen and (min-width: 700px) {
-    .h1{
-        font-size: 8vw;
-    }
+  .h1 {
+    font-size: 8vw;
+  }
 }
 
-.explanation{
-    padding: 1rem;
-    font-size: 1.1rem;
+.explanation {
+  padding: 1rem;
+  font-size: 1.1rem;
 }
 
-.ul{
-    padding-left: 1.5rem;
+.ul {
+  padding-left: 1.5rem;
 }
 
-.underline{
-    text-decoration: underline;
+.underline {
+  text-decoration: underline;
 }
 
-@media only screen and (min-width:1000px) {
-    .explanation{
-        font-size: 1.25rem;
-    }
+@media only screen and (min-width: 1000px) {
+  .explanation {
+    font-size: 1.25rem;
+  }
 }

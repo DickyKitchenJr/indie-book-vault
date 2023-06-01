@@ -1,7 +1,7 @@
-import React from 'react'
-import Nav from '../components/Nav'
-import Footer from '../components/Footer'
-import styles from '../styles/about-page.module.css'
+import React from "react";
+import Nav from "../components/Nav";
+import Footer from "../components/Footer";
+import styles from "../styles/about-page.module.css";
 
 function AboutPage() {
   return (
@@ -12,7 +12,7 @@ function AboutPage() {
       </main>
       <Footer />
     </>
-  )
+  );
 }
 
-export default AboutPage
+export default AboutPage;

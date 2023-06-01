@@ -1,46 +1,46 @@
-.form{
-    display: flex;
-    flex-direction: column;
-    width: fit-content;
-    margin-right: auto;
-    margin-left: auto;
-    margin-top: 1rem;
-    margin-bottom: 1rem;
-    padding: 1rem;
-    border: solid 4px hsla(168, 35%, 19%, 0.7);
-    background-color: hsla(168, 35%, 45%, 0.2)
+.form {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  padding: 1rem;
+  border: solid 4px hsla(168, 35%, 19%, 0.7);
+  background-color: hsla(168, 35%, 45%, 0.2);
 }
 
-.h2{
-    text-align: center;
-    padding: 1rem;
+.h2 {
+  text-align: center;
+  padding: 1rem;
 }
 
-.label{
-    font-weight: bold;
+.label {
+  font-weight: bold;
 }
 
-.checkbox{
-    display: grid;
-    grid-template-columns: auto auto auto;
+.checkbox {
+  display: grid;
+  grid-template-columns: auto auto auto;
 }
 
-.checkboxItems{
-    display: flex;
-    justify-content: flex-start;
+.checkboxItems {
+  display: flex;
+  justify-content: flex-start;
 }
 
-.submit{
-    width: fit-content;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 1rem;
-    padding: .7rem;
-    font-weight: bold;
+.submit {
+  width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 1rem;
+  padding: 0.7rem;
+  font-weight: bold;
 }
 
-@media only screen and (min-width:1000px) {
-    .form{
-        font-size: 1.25rem;
-    }
+@media only screen and (min-width: 1000px) {
+  .form {
+    font-size: 1.25rem;
+  }
 }
