@@ -129,9 +129,11 @@ function RandomAuthors({ authors }) {
               );
             })}
           </div>
+          
           {console.log('Yes this is working')}
           {shuffledList ? console.log("This works too") : null}
           {shuffledList ? <h1>This also works, must be your tenary operator</h1> : null}
+          {/* WHY ISN'T THIS WORKING??? */}
           {isModalOpen.current &&
           authorID.current
             ? console.log(`The current authorID is ${authorID.current}`)
