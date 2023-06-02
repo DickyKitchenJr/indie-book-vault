@@ -47,3 +47,9 @@
   font-family: Georgia, "Times New Roman", Times, serif;
   padding: 1rem;
 }
+
+.authorBox{
+    border: black solid 3px;
+    border-radius: 5px;
+    padding: 1rem;
+}
