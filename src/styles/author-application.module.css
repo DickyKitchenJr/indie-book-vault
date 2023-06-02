@@ -40,7 +40,31 @@
 }
 
 @media only screen and (min-width: 1000px) {
-  .form {
-    font-size: 1.25rem;
+  .h2 {
+    font-size: 1.7vw;
+  }
+
+  .label{
+    font-size: 1.6vw;
+  }
+
+  .checkboxItems{
+    font-size: 1.6vw;
+  }
+
+  input.text{
+    font-size: 1.4vw;
+  }
+
+  input.inputBox{
+    width: 1vw;
+  }
+
+  textarea.text{
+    font-size: 1.4vw;
+  }
+
+  .submit{
+    font-size: 1.4vw;
   }
 }
