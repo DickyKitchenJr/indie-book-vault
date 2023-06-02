@@ -138,6 +138,7 @@ function AuthorApplication() {
           Author Name:&nbsp;
         </label>
         <input
+          className={styles.text}
           type="text"
           id="name"
           name="name"
@@ -150,6 +151,7 @@ function AuthorApplication() {
           Email:&nbsp;
         </label>
         <input
+          className={styles.text}
           type="email"
           id="email"
           name="email"
@@ -162,6 +164,7 @@ function AuthorApplication() {
           Website:&nbsp;
         </label>
         <input
+          className={styles.text}
           type="text"
           id="website"
           name="website"
@@ -177,6 +180,7 @@ function AuthorApplication() {
             <>
               <div className={styles.checkboxItems}>
                 <input
+                  className={styles.inputBox}
                   type="checkbox"
                   id="romance"
                   name="romance"
@@ -187,6 +191,7 @@ function AuthorApplication() {
               </div>
               <div className={styles.checkboxItems}>
                 <input
+                  className={styles.inputBox}
                   type="checkbox"
                   id="fantasy"
                   name="fantasy"
@@ -197,6 +202,7 @@ function AuthorApplication() {
               </div>
               <div className={styles.checkboxItems}>
                 <input
+                  className={styles.inputBox}
                   type="checkbox"
                   id="thriller"
                   name="thriller"
@@ -207,6 +213,7 @@ function AuthorApplication() {
               </div>
               <div className={styles.checkboxItems}>
                 <input
+                  className={styles.inputBox}
                   type="checkbox"
                   id="scifi"
                   name="scifi"
@@ -217,6 +224,7 @@ function AuthorApplication() {
               </div>
               <div className={styles.checkboxItems}>
                 <input
+                  className={styles.inputBox}
                   type="checkbox"
                   id="childrens"
                   name="childrens"
@@ -227,6 +235,7 @@ function AuthorApplication() {
               </div>
               <div className={styles.checkboxItems}>
                 <input
+                  className={styles.inputBox}
                   type="checkbox"
                   id="drama"
                   name="drama"
@@ -237,6 +246,7 @@ function AuthorApplication() {
               </div>
               <div className={styles.checkboxItems}>
                 <input
+                  className={styles.inputBox}
                   type="checkbox"
                   id="horror"
                   name="horror"
@@ -247,6 +257,7 @@ function AuthorApplication() {
               </div>
               <div className={styles.checkboxItems}>
                 <input
+                  className={styles.inputBox}
                   type="checkbox"
                   id="comedy"
                   name="comedy"
@@ -257,6 +268,7 @@ function AuthorApplication() {
               </div>
               <div className={styles.checkboxItems}>
                 <input
+                  className={styles.inputBox}
                   type="checkbox"
                   id="dystopian"
                   name="dystopian"
@@ -267,6 +279,7 @@ function AuthorApplication() {
               </div>
               <div className={styles.checkboxItems}>
                 <input
+                  className={styles.inputBox}
                   type="checkbox"
                   id="nonfiction"
                   name="nonfiction"
@@ -277,6 +290,7 @@ function AuthorApplication() {
               </div>
               <div className={styles.checkboxItems}>
                 <input
+                  className={styles.inputBox}
                   type="checkbox"
                   id="western"
                   name="western"
@@ -290,6 +304,7 @@ function AuthorApplication() {
             <>
               <div className={styles.checkboxItems}>
                 <input
+                  className={styles.inputBox}
                   type="checkbox"
                   id="romance"
                   name="romance"
@@ -301,6 +316,7 @@ function AuthorApplication() {
               </div>
               <div className={styles.checkboxItems}>
                 <input
+                  className={styles.inputBox}
                   type="checkbox"
                   id="fantasy"
                   name="fantasy"
@@ -312,6 +328,7 @@ function AuthorApplication() {
               </div>
               <div className={styles.checkboxItems}>
                 <input
+                  className={styles.inputBox}
                   type="checkbox"
                   id="thriller"
                   name="thriller"
@@ -323,6 +340,7 @@ function AuthorApplication() {
               </div>
               <div className={styles.checkboxItems}>
                 <input
+                  className={styles.inputBox}
                   type="checkbox"
                   id="scifi"
                   name="scifi"
@@ -334,6 +352,7 @@ function AuthorApplication() {
               </div>
               <div className={styles.checkboxItems}>
                 <input
+                  className={styles.inputBox}
                   type="checkbox"
                   id="childrens"
                   name="childrens"
@@ -345,6 +364,7 @@ function AuthorApplication() {
               </div>
               <div className={styles.checkboxItems}>
                 <input
+                  className={styles.inputBox}
                   type="checkbox"
                   id="drama"
                   name="drama"
@@ -356,6 +376,7 @@ function AuthorApplication() {
               </div>
               <div className={styles.checkboxItems}>
                 <input
+                  className={styles.inputBox}
                   type="checkbox"
                   id="horror"
                   name="horror"
@@ -367,6 +388,7 @@ function AuthorApplication() {
               </div>
               <div className={styles.checkboxItems}>
                 <input
+                  className={styles.inputBox}
                   type="checkbox"
                   id="comedy"
                   name="comedy"
@@ -378,6 +400,7 @@ function AuthorApplication() {
               </div>
               <div className={styles.checkboxItems}>
                 <input
+                  className={styles.inputBox}
                   type="checkbox"
                   id="dystopian"
                   name="dystopian"
@@ -389,6 +412,7 @@ function AuthorApplication() {
               </div>
               <div className={styles.checkboxItems}>
                 <input
+                  className={styles.inputBox}
                   type="checkbox"
                   id="nonfiction"
                   name="nonfiction"
@@ -400,6 +424,7 @@ function AuthorApplication() {
               </div>
               <div className={styles.checkboxItems}>
                 <input
+                  className={styles.inputBox}
                   type="checkbox"
                   id="western"
                   name="western"
@@ -418,6 +443,7 @@ function AuthorApplication() {
           Sub-Genre:&nbsp;
         </label>
         <textarea
+          className={styles.text}
           id="sub-genre"
           name="Sub-Genre"
           placeholder="Sub-Genre(s)"
@@ -429,6 +455,7 @@ function AuthorApplication() {
           Social Media Account(s):&nbsp;
         </label>
         <textarea
+          className={styles.text}
           id="social-media"
           name="social media accounts"
           placeholder="Social Media"
@@ -441,6 +468,7 @@ function AuthorApplication() {
           Bio:&nbsp;
         </label>
         <textarea
+          className={styles.text}
           placeholder="Author Bio"
           id="bio"
           name="message"
