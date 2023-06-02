@@ -1,5 +1,6 @@
 .main {
   backdrop-filter: blur(3px);
+  min-height: 93vh;
 }
 
 .h1 {
@@ -9,8 +10,45 @@
   padding: 1rem;
 }
 
+.about {
+  padding: 1rem;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.h2 {
+  font-size: 1.15;
+  padding: 1rem;
+  text-align: center;
+  color: hsla(168, 35%, 19%, 0.7);
+}
+
+.p {
+  font-size: 1.1rem;
+  font-weight: bold;
+  padding-top: 1rem;
+}
+
+.standOut{
+  font-style: italic;
+  text-decoration: underline;
+}
+
 @media only screen and (min-width: 700px) {
   .h1 {
     font-size: 8vw;
+  }
+
+  .about{
+    padding: 2rem;
+  }
+}
+
+@media only screen and (min-width: 1000px) {
+  .h2 {
+    font-size: 1.6vw;
+  }
+
+  .p {
+    font-size: 1.4vw;
   }
 }

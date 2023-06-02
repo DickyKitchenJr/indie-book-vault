@@ -1,5 +1,6 @@
 .main {
   backdrop-filter: blur(3px);
+  min-height: 93vh;
 }
 
 .h1 {
@@ -15,6 +16,7 @@
 }
 
 .h2 {
+  font-size: 1.15rem;
   text-decoration: underline;
   color: hsla(168, 35%, 19%, 0.7);
 }
@@ -26,7 +28,7 @@
   padding-right: 1rem;
   list-style: square;
   font-weight: bold;
-  font-size: 1.25rem;
+  font-size: 1.1rem;
 }
 
 .innerUl {
@@ -34,7 +36,7 @@
   padding-left: 1.5rem;
   padding-right: 1rem;
   font-weight: bold;
-  font-size: 1.25rem;
+  font-size: 1.1rem;
 }
 
 .underline {
@@ -48,5 +50,19 @@
 
   .faqs {
     padding: 2rem;
+  }
+}
+
+@media only screen and (min-width: 1000px) {
+  .ul{
+    font-size: 1.4vw;
+  }
+
+  .innerUl{
+    font-size: 1.4vw;
+  }
+
+  .h2{
+    font-size: 1.6vw;
   }
 }
