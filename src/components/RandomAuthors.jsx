@@ -80,7 +80,7 @@ function RandomAuthors({ authors }) {
                     <h3>
                       {author.firstName} {author.lastName}
                     </h3>
-                    <p>
+                    <p className={styles.authorBoxP}>
                       {author.subGenre.length === 1 ? (
                         <span key={"0G" + author.lastName}>
                           ▪ {author.subGenre[0]}
@@ -103,7 +103,7 @@ function RandomAuthors({ authors }) {
                         })
                       )}
                     </p>
-                    <p>
+                    <p className={styles.authorBoxP}>
                       Bio:{" "}
                       {author.bio.length === 1
                         ? author.bio[0]
@@ -137,7 +137,7 @@ function RandomAuthors({ authors }) {
           {isModalOpen.current &&
           authorID.current
             ? console.log(`The current authorID is ${authorID.current}`)
-            : null}
+            : console.log('Still not working')}
         </>
       )}
     </>
