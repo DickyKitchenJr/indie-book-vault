@@ -3,47 +3,55 @@ import styles from "../styles/genre-pages.module.css";
 import { Link } from "react-router-dom";
 
 // PURPOSE: take all authors in the genre and randomize them then display
-function RandomAuthors({ authors }) {
-  let isModalOpen = useRef(false);
-  let authorID = useRef("");
+function RandomAuthors({ authors, shuffledList }) {
+  // console.log(authors, shuffledList)
+  // let isModalOpen = useRef(false);
+  // let authorID = useRef("");
+  const [isModalOpen, setIsModalOpen] = useState(false)
+  const [modalId, setModalId] = useState(1)
+  // const randomizeAuthors = (genreAuthors) => {
+  //   let count = genreAuthors.length;
+  //   let firstItemHolder;
+  //   let swappedItem;
 
-  const randomizeAuthors = (genreAuthors) => {
-    let count = genreAuthors.length;
-    let firstItemHolder;
-    let swappedItem;
+  //   // PURPOSE: while count is above 0
+  //   while (count) {
+  //     // PURPOSE: pick a random item and subtract 1 from count
+  //     swappedItem = Math.floor(Math.random() * count--);
+  //     // PURPOSE: temporarily hold the information about to be replaced by the swap
+  //     firstItemHolder = genreAuthors[count];
+  //     // PURPOSE: swap the current item with secondItem
+  //     genreAuthors[count] = genreAuthors[swappedItem];
+  //     // PURPOSE: put the replaced item where secondItem originally was
+  //     genreAuthors[swappedItem] = firstItemHolder;
+  //   }
+  //   return genreAuthors;
+  // };
 
-    // PURPOSE: while count is above 0
-    while (count) {
-      // PURPOSE: pick a random item and subtract 1 from count
-      swappedItem = Math.floor(Math.random() * count--);
-      // PURPOSE: temporarily hold the information about to be replaced by the swap
-      firstItemHolder = genreAuthors[count];
-      // PURPOSE: swap the current item with secondItem
-      genreAuthors[count] = genreAuthors[swappedItem];
-      // PURPOSE: put the replaced item where secondItem originally was
-      genreAuthors[swappedItem] = firstItemHolder;
-    }
-    return genreAuthors;
-  };
+  // // PURPOSE: create randomized list of authors
+  // const shuffledList = randomizeAuthors(authors);
 
-  // PURPOSE: create randomized list of authors
-  const shuffledList = randomizeAuthors(authors);
+  // // PURPOSE: assign a unique number to each author to be used when choosing which modal to show
+  // let authorNumber = 0;
+  // shuffledList.forEach(author => author.number = authorNumber++)
 
-  // PURPOSE: assign a unique number to each author to be used when choosing which modal to show
-  let authorNumber = 0;
-  shuffledList.forEach(author => author.number = authorNumber++)
+  const handleClick = (authorID) =>{
+    // if (!isModalOpen.current) {
+    //   isModalOpen.current =true;
+    //   authorID.current = authorUniqueID;
+    //   console.log(isModalOpen)
+    //   console.log(authorID.current)
+    // } else {
+    //   isModalOpen.current =false;
+    //   authorID.current = "";
+    //   console.log(isModalOpen.current);
+    //   console.log(authorID.current);
+    // }
 
-  const handleClick = (authorUniqueID) =>{
-    if (!isModalOpen.current) {
-      isModalOpen.current =true;
-      authorID.current = authorUniqueID;
-      console.log(isModalOpen)
-      console.log(authorID.current)
-    } else {
-      isModalOpen.current =false;
-      authorID.current = "";
-      console.log(isModalOpen.current);
-      console.log(authorID.current);
+    const clickedAuthorId = shuffledList.find(author => author.id === authorID).id
+    setModalId(clickedAuthorId)
+    if(clickedAuthorId) {
+      setIsModalOpen(!isModalOpen)
     }
   }
 
@@ -75,7 +83,7 @@ function RandomAuthors({ authors }) {
                       shuffledList[shuffledList.indexOf(author)] +
                       author.lastName
                     }
-                    onClick={() => handleClick(author.lastName + author.number)}
+                    onClick={() => handleClick(author.id)}
                   >
                     <h3>
                       {author.firstName} {author.lastName}
@@ -125,19 +133,27 @@ function RandomAuthors({ authors }) {
                           })}
                     </p>
                   </div>
+                  {
+                    isModalOpen && modalId === author.id && 
+                    (<div className={styles.modal}>
+                      <h1>
+                        {author.firstName}
+                      </h1>
+                    </div>)
+                    }
                 </>
               );
             })}
           </div>
           
-          {console.log('Yes this is working')}
+          {/* {console.log('Yes this is working')}
           {shuffledList ? console.log("This works too") : null}
-          {shuffledList ? <h1>This also works, must be your tenary operator</h1> : null}
+          {shuffledList ? <h1>This also works, must be your tenary operator</h1> : null} */}
           {/* WHY ISN'T THIS WORKING??? */}
-          {isModalOpen.current &&
+          {/* {isModalOpen.current &&
           authorID.current
             ? console.log(`The current authorID is ${authorID.current}`)
-            : null}
+            : null} */}
         </>
       )}
     </>

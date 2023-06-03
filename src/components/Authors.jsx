@@ -1,5 +1,6 @@
 export const Authors = [
   {
+    id: 1,
     firstName: "Dicky",
     lastName: "Kitchen Jr",
     website: "https://dickykitchenjr.com/",
@@ -15,6 +16,7 @@ export const Authors = [
     ],
   },
   {
+    id: 2,
     firstName: "Elisa",
     lastName: "Menz",
     website: "www.elisamenz.com",
@@ -28,6 +30,7 @@ export const Authors = [
     ],
   },
   {
+    id: 3,
     firstName: "Brittany",
     lastName: "Putzer",
     website: "www.brittanyputzer.com",
@@ -42,6 +45,7 @@ export const Authors = [
     ],
   },
   {
+    id: 4,
     firstName: "Stephen",
     lastName: "Mills",
     website: "www.mayhemmills.com",
@@ -58,6 +62,7 @@ export const Authors = [
     ],
   },
   {
+    id: 5,
     firstName: "Miriam A",
     lastName: "Maddock",
     website: "https://mamaddockauthor.ie",
