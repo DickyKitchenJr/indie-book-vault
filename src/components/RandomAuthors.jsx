@@ -31,22 +31,21 @@ function RandomAuthors({ authors }) {
 
   // PURPOSE: assign a unique number to each author to be used when choosing which modal to show
   let authorNumber = 0;
-  shuffledList.forEach(author => author.number = authorNumber++)
+  shuffledList.forEach((author) => (author.number = authorNumber++));
 
-  const handleClick = (authorUniqueID) =>{
+  const handleClick = (authorUniqueID) => {
     if (!isModalOpen.current) {
-      isModalOpen.current =true;
+      isModalOpen.current = true;
       authorID.current = authorUniqueID;
-      console.log(isModalOpen)
-      console.log(authorID.current)
+      console.log(isModalOpen);
+      console.log(authorID.current);
     } else {
-      isModalOpen.current =false;
+      isModalOpen.current = false;
       authorID.current = "";
       console.log(isModalOpen.current);
       console.log(authorID.current);
     }
-  }
-
+  };
 
   return (
     <>
@@ -129,15 +128,29 @@ function RandomAuthors({ authors }) {
               );
             })}
           </div>
-          
-          {console.log('Yes this is working')}
+            {/* Testing if console.log is working after the div */}
+          {console.log("Yes this is working")}
+          {/* Testing if shuffledList evaluates to true */}
           {shuffledList ? console.log("This works too") : null}
-          {shuffledList ? <h1>This also works, must be your tenary operator</h1> : null}
+          {/* Testing if shuffledList being true can be used in ternary operator to create a div */}
+          {shuffledList ? (
+            <h1>This also works, must be your tenary operator</h1>
+          ) : null}
           {/* WHY ISN'T THIS WORKING??? */}
-          {isModalOpen.current &&
-          authorID.current
+          {isModalOpen.current && authorID.current
             ? console.log(`The current authorID is ${authorID.current}`)
-            : console.log('Still not working')}
+            : console.log("Still not working")}
+          {/* Testing if the useRef for isModalOpen evaluates to true */}
+          {(isModalOpen.current = true)}
+          {isModalOpen.current
+            ? console.log("isModalOpen.current evaluates to true")
+            : console.log("isModalOpen.current evaluates to false")}
+          {/* Testing if authorID.current assigned to a string can evaluate to true */}
+          {authorID.current = "I am the current author"}
+          {authorID.current === "I am the current author" ? console.log("authorID.current is found") : console.log("authorID.current is not found")}
+          {/* Testing if two refs can be evaulated with && connecting them */}
+          {isModalOpen.current && authorID.current === "I am the current author" ? console.log('both refs evaluated to true'): console.log("I don't see both refs as true")}
+
         </>
       )}
     </>
@@ -146,7 +159,8 @@ function RandomAuthors({ authors }) {
 
 export default RandomAuthors;
 
-{/* <div
+{
+  /* <div
   className={styles.authorInfo}
   key={shuffledList[shuffledList.indexOf(author)] + author.lastName}
 >
@@ -217,4 +231,5 @@ export default RandomAuthors;
     )}
   </ul>
   <br />
-</div>; */}
+</div>; */
+}
