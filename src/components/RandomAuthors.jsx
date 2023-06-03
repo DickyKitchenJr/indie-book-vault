@@ -1,55 +1,24 @@
-import React, { useRef, useState } from "react";
+import React, { useState } from "react";
 import styles from "../styles/genre-pages.module.css";
 import { Link } from "react-router-dom";
 
-// PURPOSE: take all authors in the genre and randomize them then display
 function RandomAuthors({ authors }) {
-  let isModalOpen = useRef(false);
-  let authorID = useRef("");
-
-  const randomizeAuthors = (genreAuthors) => {
-    let count = genreAuthors.length;
-    let firstItemHolder;
-    let swappedItem;
-
-    // PURPOSE: while count is above 0
-    while (count) {
-      // PURPOSE: pick a random item and subtract 1 from count
-      swappedItem = Math.floor(Math.random() * count--);
-      // PURPOSE: temporarily hold the information about to be replaced by the swap
-      firstItemHolder = genreAuthors[count];
-      // PURPOSE: swap the current item with secondItem
-      genreAuthors[count] = genreAuthors[swappedItem];
-      // PURPOSE: put the replaced item where secondItem originally was
-      genreAuthors[swappedItem] = firstItemHolder;
-    }
-    return genreAuthors;
-  };
-
-  // PURPOSE: create randomized list of authors
-  const shuffledList = randomizeAuthors(authors);
-
-  // PURPOSE: assign a unique number to each author to be used when choosing which modal to show
-  let authorNumber = 0;
-  shuffledList.forEach((author) => (author.number = authorNumber++));
+  let [isModalOpen, setIsModalOpen] = useState(false);
+  let [authorID, setAuthorID] = useState("");
 
   const handleClick = (authorUniqueID) => {
-    if (!isModalOpen.current) {
-      isModalOpen.current = true;
-      authorID.current = authorUniqueID;
-      console.log(isModalOpen);
-      console.log(authorID.current);
+    if (!isModalOpen) {
+      setIsModalOpen(true);
+      setAuthorID(authorUniqueID);
     } else {
-      isModalOpen.current = false;
-      authorID.current = "";
-      console.log(isModalOpen.current);
-      console.log(authorID.current);
+      setIsModalOpen(false);
+      setAuthorID("");
     }
   };
 
   return (
     <>
-      {shuffledList.length === 0 ? (
+      {authors.length === 0 ? (
         <div className={styles.awaitingAuthors}>
           <h3 className={styles.awaitingH3}>Awaiting Authors</h3>
           <p className={styles.awaitingP}>
@@ -65,15 +34,12 @@ function RandomAuthors({ authors }) {
       ) : (
         <>
           <div className={styles.authorsListed}>
-            {shuffledList.map((author) => {
+            {authors.map((author) => {
               return (
                 <>
                   <div
                     className={styles.authorBox}
-                    key={
-                      shuffledList[shuffledList.indexOf(author)] +
-                      author.lastName
-                    }
+                    key={authors[authors.indexOf(author)] + author.lastName}
                     onClick={() => handleClick(author.lastName + author.number)}
                   >
                     <h3>
@@ -124,33 +90,45 @@ function RandomAuthors({ authors }) {
                           })}
                     </p>
                   </div>
+
+                  {isModalOpen &&
+                  authorID === author.lastName + author.number ? (
+                    <div className={styles.authorModal}>
+                      <div className={styles.modalInfo}>
+                        <h3>
+                          {author.firstName} {author.lastName}
+                        </h3>
+                        <h4>Genres:</h4>
+                        {author.subGenre.length === 1 ? (
+                          <>
+                          <p key={"0G" + author.lastName}>
+                            ▪ {author.subGenre[0]}
+                          </p>
+                          </>
+                        ) : (
+                          author.subGenre.map((genre) => {
+                            return (
+                              <p
+                                key={
+                                  author.subGenre[
+                                    author.subGenre.indexOf(genre)
+                                  ] +
+                                  "G" +
+                                  author.lastName
+                                }
+                              >
+                                ▪ {genre}{" "}
+                              </p>
+                            );
+                          })
+                        )}
+                      </div>
+                    </div>
+                  ) : null}
                 </>
               );
             })}
           </div>
-            {/* Testing if console.log is working after the div */}
-          {console.log("Yes this is working")}
-          {/* Testing if shuffledList evaluates to true */}
-          {shuffledList ? console.log("This works too") : null}
-          {/* Testing if shuffledList being true can be used in ternary operator to create a div */}
-          {shuffledList ? (
-            <h1>This also works, must be your tenary operator</h1>
-          ) : null}
-          {/* WHY ISN'T THIS WORKING??? */}
-          {isModalOpen.current && authorID.current
-            ? console.log(`The current authorID is ${authorID.current}`)
-            : console.log("Still not working")}
-          {/* Testing if the useRef for isModalOpen evaluates to true */}
-          {(isModalOpen.current = true)}
-          {isModalOpen.current
-            ? console.log("isModalOpen.current evaluates to true")
-            : console.log("isModalOpen.current evaluates to false")}
-          {/* Testing if authorID.current assigned to a string can evaluate to true */}
-          {authorID.current = "I am the current author"}
-          {authorID.current === "I am the current author" ? console.log("authorID.current is found") : console.log("authorID.current is not found")}
-          {/* Testing if two refs can be evaulated with && connecting them */}
-          {isModalOpen.current && authorID.current === "I am the current author" ? console.log('both refs evaluated to true'): console.log("I don't see both refs as true")}
-
         </>
       )}
     </>
