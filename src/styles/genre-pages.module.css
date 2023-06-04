@@ -6,7 +6,7 @@
 .h1 {
   font-family: "Castoro", Georgia, "Times New Roman", Times, serif;
   text-align: center;
-  font-size: 17vw;
+  font-size: 14vw;
   padding: 1rem;
 }
 
@@ -43,19 +43,69 @@
   }
 }
 
+.authorsListed{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
 .authorInfo {
   font-family: Georgia, "Times New Roman", Times, serif;
   padding: 1rem;
 }
 
 .authorBox{
-    border: black solid 3px;
+    border: hsla(168, 35%, 19%, 0.7) solid 5px;
     border-radius: 5px;
     padding: 1rem;
+    margin: 1rem;
+    max-width: 80vw;
+}
+
+@media only screen and (min-width: 600px) {
+  .authorBox{
+    width: 25vw;
+  }
 }
 
 .authorBoxP{
     white-space: nowrap;
     text-overflow: ellipsis;
     overflow: hidden;
+}
+
+.authorBoxModalArrow{
+  text-align: right;
+}
+
+.authorModal{
+  background-color: hsla(168, 35%, 19%, 0.7);
+  position: absolute;
+  width: 100vw;
+  height: 100vh;
+  z-index: 100;
+  display: flex;
+  justify-content: center;
+  top: 50%;
+  transform: translate(0, -50%);
+}
+
+.modalInfo{
+  background-color: whitesmoke;
+  border: hsl(168, 35%, 19%) solid 3px;
+  border-radius: 5px;
+  align-self: center;
+  max-width: 83vw;
+  max-height: 70vh;
+  padding: 1rem;
+  overflow: scroll;
+}
+
+.modalH1{
+  text-align: center;
+}
+
+.modalUl{
+  list-style: none;
+  padding-left: .5rem;
 }
