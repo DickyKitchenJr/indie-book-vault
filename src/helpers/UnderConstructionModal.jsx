@@ -36,8 +36,6 @@ function UnderConstructionModal() {
             <br />
             <p>Areas still being worked on:</p>
             <ul className={styles.ul}>
-              <li>minor tweaks possible to the Home page</li>
-              <li>About page</li>
               <li>all genre specific pages</li>
               <li>minor tweaks to Contact Page</li>
             </ul>
