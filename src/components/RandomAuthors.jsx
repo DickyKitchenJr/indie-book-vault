@@ -45,6 +45,7 @@ function RandomAuthors({ authors }) {
                     <h3>
                       {author.firstName} {author.lastName}
                     </h3>
+                    <br />
                     <p className={styles.authorBoxP}>
                       {author.subGenre.length === 1 ? (
                         <span key={"0G" + author.lastName}>
@@ -68,6 +69,7 @@ function RandomAuthors({ authors }) {
                         })
                       )}
                     </p>
+                    <br />
                     <p className={styles.authorBoxP}>
                       Bio:{" "}
                       {author.bio.length === 1
@@ -89,26 +91,33 @@ function RandomAuthors({ authors }) {
                             );
                           })}
                     </p>
+                    <p className={styles.authorBoxModalArrow}>▼</p>
                   </div>
 
                   {isModalOpen &&
                   authorID === author.lastName + author.number ? (
-                    <div className={styles.authorModal}>
+                    <div
+                      className={styles.authorModal}
+                      onClick={() => handleClick()}
+                    >
                       <div className={styles.modalInfo}>
-                        <h3>
+                        <h3 className={styles.modalH1}>
                           {author.firstName} {author.lastName}
                         </h3>
+                        <br />
                         <h4>Genres:</h4>
                         {author.subGenre.length === 1 ? (
-                          <>
-                          <p key={"0G" + author.lastName}>
-                            ▪ {author.subGenre[0]}
-                          </p>
-                          </>
+                          <ul
+                            className={styles.modalUl}
+                            key={"0G" + author.lastName}
+                          >
+                            <li>▪ {author.subGenre[0]}</li>
+                          </ul>
                         ) : (
                           author.subGenre.map((genre) => {
                             return (
-                              <p
+                              <ul
+                                className={styles.modalUl}
                                 key={
                                   author.subGenre[
                                     author.subGenre.indexOf(genre)
@@ -117,11 +126,65 @@ function RandomAuthors({ authors }) {
                                   author.lastName
                                 }
                               >
-                                ▪ {genre}{" "}
-                              </p>
+                                <li>▪ {genre} </li>
+                              </ul>
                             );
                           })
                         )}
+                        <br />
+                        <h4>Bio:</h4>
+                        {author.bio.length === 1
+                          ? author.bio[0]
+                          : author.bio.map((sentence) => {
+                              return (
+                                <>
+                                  <p
+                                    key={
+                                      author.bio[author.bio.indexOf(sentence)] +
+                                      "B" +
+                                      author.lastName
+                                    }
+                                  >
+                                    {sentence}
+                                  </p>
+                                  <br />
+                                </>
+                              );
+                            })}
+                        <br />
+                        <br />
+                        <h4>Website:</h4>
+                        <a href={author.website}>{author.website}</a>
+                        <br />
+                        <br />
+                        <h4>Social Media:</h4>
+                        <ul className={styles.modalUl}>
+                          {author.socialMedia.length === 1 ? (
+                            <li key={"0SM" + author.lastName}>
+                              ▪{" "}
+                              <a href={author.socialMedia[0]}>
+                                {author.socialMedia[0]}
+                              </a>
+                            </li>
+                          ) : (
+                            author.socialMedia.map((platform) => {
+                              return (
+                                <li
+                                  key={
+                                    author.socialMedia[
+                                      author.socialMedia.indexOf(platform)
+                                    ] +
+                                    "SM" +
+                                    author.lastName
+                                  }
+                                >
+                                  ▪ <a href={platform}>{platform}</a>
+                                </li>
+                              );
+                            })
+                          )}
+                        </ul>
+                        <p className={styles.authorBoxModalArrow}>▲</p>
                       </div>
                     </div>
                   ) : null}
@@ -136,78 +199,3 @@ function RandomAuthors({ authors }) {
 }
 
 export default RandomAuthors;
-
-{
-  /* <div
-  className={styles.authorInfo}
-  key={shuffledList[shuffledList.indexOf(author)] + author.lastName}
->
-  <p>
-    Name: {author.firstName} {author.lastName}
-  </p>
-  <p>Genres:</p>
-  <ul>
-    {author.subGenre.length === 1 ? (
-      <li key={"0G" + author.lastName}>{author.subGenre[0]}</li>
-    ) : (
-      author.subGenre.map((genre) => {
-        return (
-          <li
-            key={
-              author.subGenre[author.subGenre.indexOf(genre)] +
-              "G" +
-              author.lastName
-            }
-          >
-            {genre}
-          </li>
-        );
-      })
-    )}
-  </ul>
-  <p>
-    Bio:{" "}
-    {author.bio.length === 1
-      ? author.bio[0]
-      : author.bio.map((sentence) => {
-          return (
-            <>
-              <span
-                key={
-                  author.bio[author.bio.indexOf(sentence)] +
-                  "B" +
-                  author.lastName
-                }
-              >
-                {sentence}
-              </span>
-              <br />
-              <br />
-            </>
-          );
-        })}
-  </p>
-  <p>Website: {author.website}</p>
-  <p>Social Media:</p>
-  <ul>
-    {author.socialMedia.length === 1 ? (
-      <li key={"0SM" + author.lastName}>{author.socialMedia[0]}</li>
-    ) : (
-      author.socialMedia.map((platform) => {
-        return (
-          <li
-            key={
-              author.socialMedia[author.socialMedia.indexOf(platform)] +
-              "SM" +
-              author.lastName
-            }
-          >
-            {platform}
-          </li>
-        );
-      })
-    )}
-  </ul>
-  <br />
-</div>; */
-}
