@@ -3,7 +3,7 @@ export const Authors = [
     firstName: "Dicky",
     lastName: "Kitchen Jr",
     website: "https://dickykitchenjr.com/",
-    socialMedia: ["https://www.instagram.com/dicky_kitchen_jr/"],
+    socialMedia: { instagram: "https://www.instagram.com/dicky_kitchen_jr/" },
     umbrellaGenre: ["thriller", "childrens"],
     subGenre: [
       "Psychological Thriller",
@@ -17,8 +17,8 @@ export const Authors = [
   {
     firstName: "Elisa",
     lastName: "Menz",
-    website: "www.elisamenz.com",
-    socialMedia: ["https://www.instagram.com/mayaseranawriter/"],
+    website: "https://sites.google.com/view/elisamenz",
+    socialMedia: { instagram: "https://www.instagram.com/mayaseranawriter/" },
     umbrellaGenre: ["fantasy", "romance"],
     subGenre: ["Urban Fantasy", "Romantic Comedy", "High Fantasy"],
     bio: [
@@ -30,8 +30,13 @@ export const Authors = [
   {
     firstName: "Brittany",
     lastName: "Putzer",
-    website: "www.brittanyputzer.com",
-    socialMedia: ["https://linktr.ee/brittany.putzer"],
+    website: "https://brittanyputzer.com",
+    socialMedia: {
+      instagram: "https://www.instagram.com/author.brittanyputzer/",
+      facebook: "https://www.facebook.com/authorbrittanyputzer/",
+      tiktok: "https://www.tiktok.com/@Brittany.putzer",
+      twitter: "https://twitter.com/brittanyputzer",
+    },
     umbrellaGenre: ["romance"],
     subGenre: ["Rom Com", "Paranormal Romance", "Adventure", "Women's Fiction"],
     bio: [
@@ -44,11 +49,11 @@ export const Authors = [
   {
     firstName: "Stephen",
     lastName: "Mills",
-    website: "www.mayhemmills.com",
-    socialMedia: [
-      "IG: Stephen.mills.writes",
-      "FB: PursuitOfMayhem (Stephen Mills)",
-    ],
+    website: "https://mayhemmills.com",
+    socialMedia: {
+      instagram: "https://www.instagram.com/Stephen.mills.writes/",
+      facebook: "https://www.facebook.com/pursuitofmayhem",
+    },
     umbrellaGenre: ["horror", "fantasy"],
     subGenre: ["Dark Urban Fantasy", "Dark Historical Fantasy"],
     bio: [
@@ -61,7 +66,12 @@ export const Authors = [
     firstName: "Miriam A",
     lastName: "Maddock",
     website: "https://mamaddockauthor.ie",
-    socialMedia: ["Instagram", "Facebook", "Goodreads", "Bookbub", "Tik Tok"],
+    socialMedia: {
+      instagram: "https://www.instagram.com/ma.maddock_author",
+      facebook: "https://www.facebook.com/thesixthamuletseries",
+      goodreads: "https://www.goodreads.com/author/show/21176498.M_A_Maddock",
+      twitter: "https://twitter.com/mamaddock1_a?t=kW8VZpxP001bt4JBk8S0DQ&s=09",
+    },
     umbrellaGenre: ["fantasy"],
     subGenre: ["Historical Fantasy Fiction"],
     bio: [
