@@ -1,6 +1,6 @@
-.main {
+.fullPage {
   backdrop-filter: blur(3px);
-  min-height: 93vh;
+  min-height: 100vh;
 }
 
 .h1 {
@@ -13,6 +13,16 @@
 @media only screen and (min-width: 700px) {
   .h1 {
     font-size: 8vw;
+  }
+}
+
+.main{
+  min-height: 67vh;
+}
+
+@media only screen and (min-width: 1000px) {
+  .main{
+    min-height: 74vh;
   }
 }
 
@@ -44,14 +54,7 @@
 }
 
 .authorsListed{
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-evenly;
-}
-
-.authorInfo {
   font-family: Georgia, "Times New Roman", Times, serif;
-  padding: 1rem;
 }
 
 .authorBox{
@@ -63,8 +66,20 @@
 }
 
 @media only screen and (min-width: 600px) {
+  .authorsListed{
+    display: grid;
+    grid-template-columns: auto auto;
+    justify-content: space-evenly;
+  }  
+  
   .authorBox{
     width: 25vw;
+  }
+}
+
+@media only screen and (min-width: 800px) {
+  .authorsListed{
+    grid-template-columns: auto auto auto;
   }
 }
 
@@ -74,15 +89,37 @@
     overflow: hidden;
 }
 
+@media only screen and (min-width: 600px) {
+  .authorBoxH3{
+    font-size: 1.3rem
+  }
+
+  .authorBoxP{
+    font-size: 1.1rem;
+  }
+}
+
+@media only screen and (min-width: 1000px) {
+  .authorBoxP{
+    font-size: 1.4vw;
+  }
+}
+
 .authorBoxModalArrow{
   text-align: right;
+}
+
+@media only screen and (min-width: 1000px) {
+  .authorBoxModalArrow{
+    font-size: 1.4vw;
+  }
 }
 
 .authorModal{
   background-color: hsla(168, 35%, 19%, 0.7);
   position: absolute;
-  width: 100vw;
-  height: 100vh;
+  width: 100%;
+  height: 100%;
   z-index: 100;
   display: flex;
   justify-content: center;
@@ -101,11 +138,59 @@
   overflow: scroll;
 }
 
-.modalH1{
+.modalH3{
   text-align: center;
 }
 
 .modalUl{
   list-style: none;
   padding-left: .5rem;
+}
+
+.modalA{
+  padding-left: .5rem;
+}
+
+@media only screen and (min-width: 800px) {
+  .modalH3{
+    font-size: 1.3rem;
+  }
+
+  .modalH4{
+    font-size: 1.2rem;
+  }
+
+  .modalP{
+    font-size: 1.1rem;
+  }
+
+  .modalUl{
+    font-size: 1.1rem;
+  }
+
+  .modalA{
+    font-size: 1.1rem;
+  }
+}
+
+@media only screen and (min-width: 1000px) {
+  .modalH3{
+    font-size: 1.6vw;
+  }
+
+  .modalH4{
+    font-size: 1.5vw;
+  }
+
+  .modalP{
+    font-size: 1.4vw;
+  }
+
+  .modalUl{
+    font-size: 1.4vw;
+  }
+
+  .modalA{
+    font-size: 1.4vw;
+  }
 }
