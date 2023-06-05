@@ -168,7 +168,7 @@ function AuthorApplication() {
           type="text"
           id="website"
           name="website"
-          placeholder="Author Website Address"
+          placeholder="Author Website Address/Link"
         />
         <br />
 
@@ -458,7 +458,7 @@ function AuthorApplication() {
           className={styles.text}
           id="social-media"
           name="social media accounts"
-          placeholder="Social Media"
+          placeholder="Please include links"
         />
         <br />
 

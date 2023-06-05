@@ -6,10 +6,12 @@ import styles from "../styles/faq-page.module.css";
 function FaqPage() {
   return (
     <>
-      <main className={styles.main}>
-        <h1 className={styles.h1}>FAQ</h1>
+      <div className={styles.fullPage}>
+        <header>
+          <h1 className={styles.h1}>FAQ</h1>
+        </header>
         <Nav />
-        <div className={styles.faqs}>
+        <main className={styles.main}>
           <h2 className={styles.h2}>
             I know an author I think you should add, how can I get them listed?
           </h2>
@@ -179,9 +181,9 @@ function FaqPage() {
               and readers know about us, the happier we are.
             </li>
           </ul>
-        </div>
-      </main>
-      <Footer />
+        </main>
+        <Footer />
+      </div>
     </>
   );
 }

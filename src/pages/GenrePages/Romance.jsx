@@ -34,12 +34,16 @@ function Romance({ authors }) {
 
   return (
     <>
-      <main className={styles.main}>
-        <h1 className={styles.h1}>Romance</h1>
+      <div className={styles.fullPage}>
+        <header>
+          <h1 className={styles.h1}>Romance</h1>
+        </header>
         <Nav />
-        <RandomAuthors authors={shuffledList} />
-      </main>
-      <Footer />
+        <main className={styles.main}>
+          <RandomAuthors authors={shuffledList} />
+        </main>
+        <Footer />
+      </div>
     </>
   );
 }

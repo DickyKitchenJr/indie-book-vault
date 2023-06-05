@@ -7,16 +7,19 @@ import AuthorApplication from "../components/AuthorApplication";
 function ContactPage() {
   return (
     <>
-      <main className={styles.main}>
-        <h1 className={styles.h1}>Contact</h1>
+    <div className={styles.fullPage}>
+      <header>
+          <h1 className={styles.h1}>Contact</h1>
+        </header>
         <Nav />
+      <main className={styles.main}>
         <div className={styles.explanation}>
           <p>
             If you are an author that would like to be included on Indie Book
             Vault, read the requirements and fill out the form below.
           </p>
           <br />
-          <p>Requirements for being listed:</p>
+          <p>By filling out the form you agree to the following:</p>
           <ul className={styles.ul}>
             <li>
               Authors are required to be published and have their work(s)
@@ -44,6 +47,7 @@ function ContactPage() {
         </p>
       </main>
       <Footer />
+    </div>
     </>
   );
 }

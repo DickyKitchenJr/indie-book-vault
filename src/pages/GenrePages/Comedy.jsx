@@ -5,7 +5,6 @@ import styles from "../../styles/genre-pages.module.css";
 import RandomAuthors from "../../components/RandomAuthors";
 
 function Comedy({ authors }) {
-
   const randomizeAuthors = (genreAuthors) => {
     let count = genreAuthors.length;
     let firstItemHolder;
@@ -34,12 +33,16 @@ function Comedy({ authors }) {
 
   return (
     <>
-        <main className={styles.main}>
+      <div className={styles.fullPage}>
+        <header>
           <h1 className={styles.h1}>Comedy</h1>
-          <Nav />
+        </header>
+        <Nav />
+        <main className={styles.main}>
           <RandomAuthors authors={shuffledList} />
         </main>
         <Footer />
+      </div>
     </>
   );
 }

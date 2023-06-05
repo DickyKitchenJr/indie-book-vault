@@ -13,6 +13,8 @@ function Footer() {
         <a
           className={styles.a}
           href="https://www.buymeacoffee.com/indiebookvault"
+          target="_blank"
+          rel="noreferrer"
         >
           <img
             className={styles.img}

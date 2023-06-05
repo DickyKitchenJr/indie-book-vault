@@ -6,10 +6,12 @@ import styles from "../styles/about-page.module.css";
 function AboutPage() {
   return (
     <>
-      <main className={styles.main}>
-        <h1 className={styles.h1}>About</h1>
+      <div className={styles.fullPage}>
+        <header>
+          <h1 className={styles.h1}>About</h1>
+        </header>
         <Nav />
-        <div className={styles.about}>
+        <main className={styles.main}>
           <h2 className={styles.h2}>What is Indie Book Vault?</h2>
           <p className={styles.p}>
             Indie Book Vault is a volunteer-run site with one goal:{" "}
@@ -74,9 +76,9 @@ function AboutPage() {
             In short: We're Indie Book Vault, and we're here because indie
             readers and indie authors are awesome!
           </p>
-        </div>
-      </main>
-      <Footer />
+        </main>
+        <Footer />
+      </div>
     </>
   );
 }

@@ -4,16 +4,14 @@ import Header from "../components/Header";
 import Nav from "../components/Nav";
 import Footer from "../components/Footer";
 import styles from "../styles/landing-page.module.css";
-import UnderConstructionModal from "../helpers/UnderConstructionModal";
 
 function LandingPage() {
   return (
     <>
-      <UnderConstructionModal />
-      <div>
-        <main className={styles.main}>
-          <Header />
-          <Nav />
+      <div className={styles.fullPage}>
+        <Header />
+        <Nav />
+        <main>
           <h2 className={styles.h2}>Pick A Genre</h2>
           <GenreTabs />
         </main>
