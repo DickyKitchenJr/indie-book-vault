@@ -42,7 +42,7 @@ function RandomAuthors({ authors }) {
                     key={authors[authors.indexOf(author)] + author.lastName}
                     onClick={() => handleClick(author.lastName + author.number)}
                   >
-                    <h3>
+                    <h3 className={styles.authorBoxH3}>
                       {author.firstName} {author.lastName}
                     </h3>
                     <br />
@@ -101,11 +101,11 @@ function RandomAuthors({ authors }) {
                       onClick={() => handleClick()}
                     >
                       <div className={styles.modalInfo}>
-                        <h3 className={styles.modalH1}>
+                        <h3 className={styles.modalH3}>
                           {author.firstName} {author.lastName}
                         </h3>
                         <br />
-                        <h4>Genres:</h4>
+                        <h4 className={styles.modalH4}>Genres:</h4>
                         {author.subGenre.length === 1 ? (
                           <ul
                             className={styles.modalUl}
@@ -132,13 +132,14 @@ function RandomAuthors({ authors }) {
                           })
                         )}
                         <br />
-                        <h4>Bio:</h4>
+                        <h4 className={styles.modalH4}>Bio:</h4>
                         {author.bio.length === 1
                           ? author.bio[0]
                           : author.bio.map((sentence) => {
                               return (
                                 <>
                                   <p
+                                    className={styles.modalP}
                                     key={
                                       author.bio[author.bio.indexOf(sentence)] +
                                       "B" +
@@ -153,36 +154,82 @@ function RandomAuthors({ authors }) {
                             })}
                         <br />
                         <br />
-                        <h4>Website:</h4>
-                        <a href={author.website}>{author.website}</a>
+                        <h4 className={styles.modalH4}>Website:</h4>
+                        <p>
+                          ▪{" "}
+                          <a
+                            className={styles.modalA}
+                            href={author.website}
+                            target="_blank"
+                            rel="noreferrer"
+                          >
+                            {author.website}
+                          </a>
+                        </p>
                         <br />
                         <br />
-                        <h4>Social Media:</h4>
+                        <h4 className={styles.modalH4}>Social Media:</h4>
                         <ul className={styles.modalUl}>
-                          {author.socialMedia.length === 1 ? (
-                            <li key={"0SM" + author.lastName}>
+                          {author.socialMedia.instagram ? (
+                            <li>
                               ▪{" "}
-                              <a href={author.socialMedia[0]}>
-                                {author.socialMedia[0]}
+                              <a
+                                href={author.socialMedia.instagram}
+                                target="_blank"
+                                rel="noreferrer"
+                              >
+                                Instagram
                               </a>
                             </li>
-                          ) : (
-                            author.socialMedia.map((platform) => {
-                              return (
-                                <li
-                                  key={
-                                    author.socialMedia[
-                                      author.socialMedia.indexOf(platform)
-                                    ] +
-                                    "SM" +
-                                    author.lastName
-                                  }
-                                >
-                                  ▪ <a href={platform}>{platform}</a>
-                                </li>
-                              );
-                            })
-                          )}
+                          ) : null}
+                          {author.socialMedia.facebook ? (
+                            <li>
+                              ▪{" "}
+                              <a
+                                href={author.socialMedia.facebook}
+                                target="_blank"
+                                rel="noreferrer"
+                              >
+                                Facebook
+                              </a>
+                            </li>
+                          ) : null}
+                          {author.socialMedia.twitter ? (
+                            <li>
+                              ▪{" "}
+                              <a
+                                href={author.socialMedia.twitter}
+                                target="_blank"
+                                rel="noreferrer"
+                              >
+                                Twitter
+                              </a>
+                            </li>
+                          ) : null}
+                          {author.socialMedia.mastadon ? (
+                            <li>
+                              ▪{" "}
+                              <a
+                                href={author.socialMedia.mastadon}
+                                target="_blank"
+                                rel="noreferrer"
+                              >
+                                Mastadon
+                              </a>
+                            </li>
+                          ) : null}
+                          {author.socialMedia.goodreads ? (
+                            <li>
+                              ▪{" "}
+                              <a
+                                href={author.socialMedia.goodreads}
+                                target="_blank"
+                                rel="noreferrer"
+                              >
+                                Goodreads
+                              </a>
+                            </li>
+                          ) : null}
                         </ul>
                         <p className={styles.authorBoxModalArrow}>▲</p>
                       </div>
