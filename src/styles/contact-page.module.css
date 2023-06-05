@@ -1,8 +1,9 @@
-.main {
+.fullPage{
   backdrop-filter: blur(3px);
-  padding-bottom: 1rem;
+}
+
+.main {
   font-weight: bold;
-  min-height: 95vh;
 }
 
 .h1 {
