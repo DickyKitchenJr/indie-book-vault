@@ -1,6 +1,5 @@
-.main {
+.fullPage {
   backdrop-filter: blur(3px);
-  min-height: 93vh;
 }
 
 .h1 {
@@ -10,9 +9,10 @@
   padding: 1rem;
 }
 
-.about {
+.main {
   padding: 1rem;
   font-family: Georgia, "Times New Roman", Times, serif;
+  min-height: 72vh;
 }
 
 .h2 {
