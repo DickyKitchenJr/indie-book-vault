@@ -3,6 +3,7 @@ import Nav from "../../components/Nav";
 import Footer from "../../components/Footer";
 import styles from "../../styles/genre-pages.module.css";
 import RandomAuthors from "../../components/RandomAuthors";
+import ScrollToTop from "../../helpers/ScrollToTop";
 
 function Romance({ authors }) {
 
@@ -34,6 +35,7 @@ function Romance({ authors }) {
 
   return (
     <>
+      <ScrollToTop />
       <div className={styles.fullPage}>
         <header>
           <h1 className={styles.h1}>Romance</h1>

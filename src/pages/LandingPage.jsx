@@ -1,5 +1,5 @@
-import React from "react";
-import GenreTabs from "../components/GenreTabs";
+import React, { lazy, Suspense } from "react";
+const GenreTabs = lazy(() => import("../components/GenreTabs"));
 import Header from "../components/Header";
 import Nav from "../components/Nav";
 import Footer from "../components/Footer";
@@ -13,7 +13,7 @@ function LandingPage() {
         <Nav />
         <main>
           <h2 className={styles.h2}>Pick A Genre</h2>
-          <GenreTabs />
+          <Suspense fallback={<h3 style={{ textAlign: "center" }}>Loading...</h3>}><GenreTabs /></Suspense>
         </main>
         <Footer />
       </div>
