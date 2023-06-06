@@ -19,6 +19,7 @@ function Footer() {
           <img
             className={styles.img}
             src="https://img.buymeacoffee.com/button-api/?text=Buy me a book&emoji=📖&slug=indiebookvault&button_colour=40DCA5&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"
+            alt="buy me a coffee website button"
           />
         </a>
       </footer>
