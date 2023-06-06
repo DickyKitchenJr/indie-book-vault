@@ -12,9 +12,7 @@ import Western from "../assets/images/western-tab.webp";
 import React from "react";
 import styles from "../styles/genre-tabs.module.css";
 import { Link } from "react-router-dom";
-import { key } from "localforage";
 
-// TODO: Randomize the presentation of the tabs on each page load; maybe put each tab object in another object with a num: number and then use math Random and math Floor to pick which genre is shown in which order?
 function GenreTabs() {
   const tabs = [
     { src: Children, alt: "Children's", link: "childrens" },
