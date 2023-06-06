@@ -1,23 +1,23 @@
-import React from "react";
+import React, { lazy, Suspense } from "react";
 import ReactDOM from "react-dom/client";
 import "./global.css";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import LandingPage from "./pages/LandingPage.jsx";
-import ErrorPage from "./pages/ErrorPage.jsx";
-import FaqPage from "./pages/FaqPage";
-import ContactPage from "./pages/ContactPage";
-import AboutPage from "./pages/AboutPage";
-import Childrens from "./pages/GenrePages/Childrens";
-import Comedy from "./pages/GenrePages/Comedy";
-import Drama from "./pages/GenrePages/Drama";
-import Dystopian from "./pages/GenrePages/Dystopian";
-import Fantasy from "./pages/GenrePages/Fantasy";
-import Horror from "./pages/GenrePages/Horror";
-import NonFiction from "./pages/GenrePages/NonFiction";
-import Romance from "./pages/GenrePages/Romance";
-import SciFi from "./pages/GenrePages/SciFi";
-import Thriller from "./pages/GenrePages/Thriller";
-import Western from "./pages/GenrePages/Western";
+const ErrorPage = lazy(() => import("./pages/ErrorPage.jsx"));
+const FaqPage = lazy(() => import("./pages/FaqPage"));
+const ContactPage = lazy(() => import("./pages/ContactPage"));
+const AboutPage = lazy(() => import("./pages/AboutPage"));
+const Childrens = lazy(() => import("./pages/GenrePages/Childrens"));
+const Comedy = lazy(() => import("./pages/GenrePages/Comedy"));
+const Drama = lazy(() => import("./pages/GenrePages/Drama"));
+const Dystopian = lazy(() => import("./pages/GenrePages/Dystopian"));
+const Fantasy = lazy(() => import("./pages/GenrePages/Fantasy"));
+const Horror = lazy(() => import("./pages/GenrePages/Horror"));
+const NonFiction = lazy(() => import("./pages/GenrePages/NonFiction"));
+const Romance = lazy(() => import("./pages/GenrePages/Romance"));
+const SciFi = lazy(() => import("./pages/GenrePages/SciFi"));
+const Thriller = lazy(() => import("./pages/GenrePages/Thriller"));
+const Western = lazy(() => import("./pages/GenrePages/Western"));
 import { Authors } from "./components/Authors";
 
 const childrensGenre = [];
@@ -82,63 +82,123 @@ const router = createBrowserRouter([
   {
     path: "/",
     element: <LandingPage />,
-    errorElement: <ErrorPage />,
+    errorElement: (
+      <Suspense fallback={<h3 style={{ textAlign: "center" }}>Loading...</h3>}>
+        <ErrorPage />
+      </Suspense>
+    ),
   },
   {
     path: "faq",
-    element: <FaqPage />,
+    element: (
+      <Suspense fallback={<h3 style={{ textAlign: "center" }}>Loading...</h3>}>
+        <FaqPage />
+      </Suspense>
+    ),
   },
   {
     path: "about",
-    element: <AboutPage />,
+    element: (
+      <Suspense fallback={<h3 style={{ textAlign: "center" }}>Loading...</h3>}>
+        <AboutPage />
+      </Suspense>
+    ),
   },
   {
     path: "contact",
-    element: <ContactPage />,
+    element: (
+      <Suspense fallback={<h3 style={{ textAlign: "center" }}>Loading...</h3>}>
+        <ContactPage />
+      </Suspense>
+    ),
   },
   {
     path: "childrens",
-    element: <Childrens authors={childrensGenre} />,
+    element: (
+      <Suspense fallback={<h3 style={{ textAlign: "center" }}>Loading...</h3>}>
+        <Childrens authors={childrensGenre} />
+      </Suspense>
+    ),
   },
   {
     path: "comedy",
-    element: <Comedy authors={comedyGenre} />,
+    element: (
+      <Suspense fallback={<h3 style={{ textAlign: "center" }}>Loading...</h3>}>
+        <Comedy authors={comedyGenre} />
+      </Suspense>
+    ),
   },
   {
     path: "drama",
-    element: <Drama authors={dramaGenre} />,
+    element: (
+      <Suspense fallback={<h3 style={{ textAlign: "center" }}>Loading...</h3>}>
+        <Drama authors={dramaGenre} />
+      </Suspense>
+    ),
   },
   {
     path: "dystopian",
-    element: <Dystopian authors={dystopianGenre} />,
+    element: (
+      <Suspense fallback={<h3 style={{ textAlign: "center" }}>Loading...</h3>}>
+        <Dystopian authors={dystopianGenre} />
+      </Suspense>
+    ),
   },
   {
     path: "fantasy",
-    element: <Fantasy authors={fantasyGenre} />,
+    element: (
+      <Suspense fallback={<h3 style={{ textAlign: "center" }}>Loading...</h3>}>
+        <Fantasy authors={fantasyGenre} />
+      </Suspense>
+    ),
   },
   {
     path: "horror",
-    element: <Horror authors={horrorGenre} />,
+    element: (
+      <Suspense fallback={<h3 style={{ textAlign: "center" }}>Loading...</h3>}>
+        <Horror authors={horrorGenre} />
+      </Suspense>
+    ),
   },
   {
     path: "nonfiction",
-    element: <NonFiction authors={nonfictionGenre} />,
+    element: (
+      <Suspense fallback={<h3 style={{ textAlign: "center" }}>Loading...</h3>}>
+        <NonFiction authors={nonfictionGenre} />
+      </Suspense>
+    ),
   },
   {
     path: "romance",
-    element: <Romance authors={romanceGenre} />,
+    element: (
+      <Suspense fallback={<h3 style={{ textAlign: "center" }}>Loading...</h3>}>
+        <Romance authors={romanceGenre} />
+      </Suspense>
+    ),
   },
   {
     path: "scifi",
-    element: <SciFi authors={scifiGenre} />,
+    element: (
+      <Suspense fallback={<h3 style={{ textAlign: "center" }}>Loading...</h3>}>
+        <SciFi authors={scifiGenre} />
+      </Suspense>
+    ),
   },
   {
     path: "thriller",
-    element: <Thriller authors={thrillerGenre} />,
+    element: (
+      <Suspense fallback={<h3 style={{ textAlign: "center" }}>Loading...</h3>}>
+        <Thriller authors={thrillerGenre} />
+      </Suspense>
+    ),
   },
   {
     path: "western",
-    element: <Western authors={westernGenre} />,
+    element: (
+      <Suspense fallback={<h3 style={{ textAlign: "center" }}>Loading...</h3>}>
+        <Western authors={westernGenre} />
+      </Suspense>
+    ),
   },
 ]);
 
