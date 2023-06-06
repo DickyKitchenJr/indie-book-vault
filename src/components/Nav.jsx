@@ -6,18 +6,26 @@ function Nav() {
   return (
     <nav className={styles.nav}>
       <ul className={styles.navList}>
-        <Link to={"/"} className={styles.link}>
-          <li>Home</li>
-        </Link>
-        <Link to={"/about"} className={styles.link}>
-          <li>About</li>
-        </Link>
-        <Link to={"/faq"} className={styles.link}>
-          <li>FAQ</li>
-        </Link>
-        <Link to={"/contact"} className={styles.link}>
-          <li>Contact</li>
-        </Link>
+        <li>
+          <Link to={"/"} className={styles.link}>
+            Home
+          </Link>
+        </li>
+        <li>
+          <Link to={"/about"} className={styles.link}>
+            About
+          </Link>
+        </li>
+        <li>
+          <Link to={"/faq"} className={styles.link}>
+            FAQ
+          </Link>
+        </li>
+        <li>
+          <Link to={"/contact"} className={styles.link}>
+            Contact
+          </Link>
+        </li>
       </ul>
     </nav>
   );
