@@ -34,6 +34,37 @@ function FaqPage() {
             </li>
           </ul>
           <h2 className={styles.h2}>
+            I am an author and would like to be included on Indie Book Vault,
+            but I don't see my exact genre on the Home page. What should I do?
+            Will more genres be added in the future?
+          </h2>
+          <ul className={styles.ul}>
+            <li>
+              Yes, as our list of authors grow so will our offered genres. The
+              best thing to do in the meantime is join Indie Book Vault and
+              include yourself in the genre that most closely matches your
+              preferred genre while providing your specific genre(s) in the
+              Sub-Genre section of the author application. The genre(s) you
+              provide in your application will be included in your listing and
+              further help readers find you. Once you join you will also be
+              added to our newsletter and will be informed when we add new genre
+              pages so you can adjust your listing.
+              <br />
+              <br />
+              The genres listed on the home page are intended to be broad genres
+              and provide a starting point for us to build our author list.
+              While we understand the genres listed aren't a perfect fit for
+              every author, they were chosen to give us the broadest coverage
+              possible to start building our list of authors while being
+              conscious of our coding and graphics expenses. As the community
+              grows and more authors join within your specific genre, we'll be
+              able to better justify allocating resources to add more genre
+              pages to our site (meaning the best way to get your specific genre
+              added to the site is to join and help find other authors in your
+              genre to join).
+            </li>
+          </ul>
+          <h2 className={styles.h2}>
             Is there a cost for an author to be listed on Indie Book Vault?
           </h2>
           <ul className={styles.ul}>
