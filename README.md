@@ -1,9 +1,5 @@
 # indie-book-vault
 
-website dedicated to helping spread the word about indie and self-published authors through networking
-
-# portfolio-version-2
-
 ## Purpose:
 
 - to create a website for indie authors that will help improve marketing ability by providing a central location for readers to locate indie and self-published authors and find links to the authors individual pages
