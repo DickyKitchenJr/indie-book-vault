@@ -75,7 +75,31 @@ export const Authors = [
     umbrellaGenre: ["fantasy"],
     subGenre: ["Historical Fantasy Fiction"],
     bio: [
-      `I am an Irish author, currently living in Co. Meath. I am due to release book Two of my historical fantasy fiction epic saga - The Sixth Amulet- this coming June. While Book Two - The Moon Chasers- is being proofed, the audio for Book One- The Sixth Amulet - is currently in production with a view to release this July or August.`,
+      `My name is Miriam and I was born and raised in Dublin, Ireland.`,
+      `Having dabbled in other ‘interests’ over the years (I won’t bore you), in the background, however, I was always an avid reader, with words constantly floating around in my mind yet doing nothing about them—in a literary sense. I used to always say, ‘One day, I’ll write that book!’ But never seemed to get around to doing it. I think the mere thought of putting those words—along with my imagination—to literary use, was daunting, therefore, I was always putting it off. That is, until 2011 when I finally took the plunge and picked up that pen and notebook (still have them, too!). I began to string those words into sentences, then paragraphs, then pages, eventually joining them together to create my first novel—The Sixth Amulet - Book One (released October 2022). Then my imagination had other plans; it didn’t want to stop at just one. Why would it? And so, novel one turned into another, The Moon Chasers - Book Two of The Sixth Amulet - released June 2023) . Who knows where it will end?`,
+      `I believe everyone has a story to tell, a potential book tucked away inside them, dying to get out. And all that’s needed to create it is a simple recipe: a pen and a notebook. So, open your mind and let your imagination roam through the endless possibilities it has to offer … then simply write! `,
+      `I hope you enjoy reading The Sixth Amulet and The Moon Chasers and promise to have part three of my epic adventure – A Flutter on the Wind - out by Spring 2024. Happy reading!`,
+    ],
+  },
+  {
+    firstName: "Becky",
+    lastName: "Wright",
+    website: "https://beckywrightauthor.com/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/beckywrightauthor/",
+      facebook: "https://www.facebook.com/BeckyWrightAuthor",
+      twitter: "https://twitter.com/BeckyWrightAuth",
+      tiktok: "https://www.tiktok.com/@beckywright_author",
+    },
+    umbrellaGenre: ["thriller", "fantasy", "horror"],
+    subGenre: [
+      "Gothic Horror",
+      "Gothic Thriller",
+      "Historical Horror",
+      "Historical Romance",
+    ],
+    bio: [
+      `Becky Wright is a Best-Selling British author with a passion for Gothic literature, history, the supernatural and things that go bump in the night. She lives with her family in the heart of the Suffolk countryside, surrounded by rolling fields, picturesque timber-framed villages, rural churches… and haunted houses. With her inherent fascination for the macabre, her writing leans towards the dark side.`,
     ],
   },
 ];
