@@ -230,6 +230,18 @@ function RandomAuthors({ authors }) {
                               </a>
                             </li>
                           ) : null}
+                          {author.socialMedia.tiktok ? (
+                            <li>
+                              ▪{" "}
+                              <a
+                                href={author.socialMedia.tiktok}
+                                target="_blank"
+                                rel="noreferrer"
+                              >
+                                TikTok
+                              </a>
+                            </li>
+                          ) : null}
                         </ul>
                         <p className={styles.authorBoxModalArrow}>▲</p>
                       </div>
