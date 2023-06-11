@@ -102,4 +102,17 @@ export const Authors = [
       `Becky Wright is a Best-Selling British author with a passion for Gothic literature, history, the supernatural and things that go bump in the night. She lives with her family in the heart of the Suffolk countryside, surrounded by rolling fields, picturesque timber-framed villages, rural churches… and haunted houses. With her inherent fascination for the macabre, her writing leans towards the dark side.`,
     ],
   },
+  {
+    firstName: "Barbara",
+    lastName: "Lennox",
+    website: "https://barbaralennox.wordpress.com/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/barbaralennoxauthor/",
+    },
+    umbrellaGenre: ["fantasy"],
+    subGenre: ["Historical"],
+    bio: [
+      `I was born, and still live, in Scotland on the shores of a river, between the mountains and the sea. I’m a retired scientist and science administrator, but have always been fascinated by the early history of Scotland, and I love fleshing out that history with the stories of fictional, and not-so-fictional, characters.`,
+    ],
+  },
 ];
