@@ -115,4 +115,18 @@ export const Authors = [
       `I was born, and still live, in Scotland on the shores of a river, between the mountains and the sea. I’m a retired scientist and science administrator, but have always been fascinated by the early history of Scotland, and I love fleshing out that history with the stories of fictional, and not-so-fictional, characters.`,
     ],
   },
+  {
+    firstName: "Steven J",
+    lastName: "Morris",
+    website: "https://sjmorriswrites.com/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/steven.j.morris.writer/",
+      facebook: "https://facebook.com/steven.j.morris.writer",
+    },
+    umbrellaGenre: ["fantasy"],
+    subGenre: ["Urban Fantasy"],
+    bio: [
+      `Engineer, husband, and father of three wonderful girls by day. Fantasy fiction writer by night (and other random times he's not taxiing kids, pulling hair out of drains, helping with math and science homework, coaching soccer, remodeling rooms, and walking the dogs).`,
+    ],
+  },
 ];
