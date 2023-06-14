@@ -31,7 +31,7 @@ function ContactPage() {
                 website to help readers find us and support the community
               </li>
               <li>
-                Authors must post at least one social media post informing
+                Authors must post at least one original social media post informing
                 readers and other writers that we exist
               </li>
               <li>
