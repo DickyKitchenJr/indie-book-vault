@@ -129,4 +129,62 @@ export const Authors = [
       `Engineer, husband, and father of three wonderful girls by day. Fantasy fiction writer by night (and other random times he's not taxiing kids, pulling hair out of drains, helping with math and science homework, coaching soccer, remodeling rooms, and walking the dogs).`,
     ],
   },
+  {
+    firstName: "Cheryl",
+    lastName: "Burman",
+    website: "https://cherylburman.com/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/cherylburmanauthor/",
+      facebook: "https://www.facebook.com/CherylBurmanAuthor/",
+      twitter: "https://twitter.com/cr_burman",
+    },
+    umbrellaGenre: ["fantasy", "romance", "childrens"],
+    subGenre: [
+      "Historical Fiction",
+      "Historical Fantasy",
+      "Children's Fantasy",
+    ],
+    bio: [
+      `Originally from Australia, Cheryl Burman now lives in the Forest of Dean, UK, a place which has inspired the likes of Tolkien and Rowling. She’s the author of two award winning novels and a novella for grownups, and a trilogy and its prequel for youngsters (although Mum, Dad and the grans love them too). Her flash fiction and short stories have won various awards and some of these are included in her collection, Dragon Gift while several are published in various anthologies.`,
+      `As Cheryl Mayo, she is the chair of Dean Writers Circle and a founder of Dean Scribblers, which encourages creative writing among young people in her community.`,
+    ],
+  },
+  {
+    firstName: "Louise",
+    lastName: "Murchie",
+    website: "https://louisemurchie.com/",
+    socialMedia: {},
+    umbrellaGenre: ["romance"],
+    subGenre: ["Second Chance", "Scottish", "Cinnamon Roll Alpha"],
+    bio: [
+      `Louise lives in the West Midlands with her husband and three children. Scottish born and bred alas, she doesn't live there any more. Her heart though always will be in the mist-covered mountains.`,
+      `She writes for the more mature characters, often in a sweet-with-heat setting and getting their second chance. Not all of them are Scottish; though there's going to be a connection to that place, somehow!`,
+    ],
+  },
+  {
+    firstName: "Louise",
+    lastName: "Hope",
+    website: "https://www.notoriouswriter.com/",
+    socialMedia: { instagram: "http://www.instagram.com/the_notoriouswriter" },
+    umbrellaGenre: ["romance"],
+    subGenre: ["Dark Romance", "Mafia Romance", "Suspense"],
+    bio: [
+      `Louise Hope, also known as L. Hope or The Notorious Writer, started her writing career back in 2020.`,
+      `Specialising in Mafia Romance, Dark Romance, and Romantic Suspense, and best known for The Notorious Five series.`,
+      `Based in the UK, and in the rainiest part of the country, she enjoys a good cup of tea and a great book. Like a true brit.`,
+      `You can find her work on Patreon, Ream and Inkitt, with all published work available on Amazon.`,
+      `If you like morally grey men and bad a$$ females, her books are the ultimate indulgence.`,
+    ],
+  },
+  {
+    firstName: "N.",
+    lastName: "Dune",
+    website: "https://nduneauthor.com/",
+    socialMedia: {},
+    umbrellaGenre: ["romance", "fantasy"],
+    subGenre: ["Paranormal Fantasy Romance", "Romantic Suspense"],
+    bio: [
+      `Hi, I am a British author writing all sorts of deliciously steamy romance across the genres. If you enjoy a slow burn that leads to some seriously steamy action, a little darkness (check the triggers, as some are quite dark) and some angst thrown in, then my books are for you.`,
+    ],
+  },
 ];
