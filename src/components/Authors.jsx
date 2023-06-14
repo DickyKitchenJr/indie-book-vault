@@ -187,4 +187,38 @@ export const Authors = [
       `Hi, I am a British author writing all sorts of deliciously steamy romance across the genres. If you enjoy a slow burn that leads to some seriously steamy action, a little darkness (check the triggers, as some are quite dark) and some angst thrown in, then my books are for you.`,
     ],
   },
+  {
+    firstName: "H. S.",
+    lastName: "Matthews",
+    website: "https://hsmatthews.com/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/thehsmatthews/",
+      twitter: "http://twitter.com/thehsmatthews",
+    },
+    umbrellaGenre: ["fantasy"],
+    subGenre: ["Young Adult"],
+    bio: [
+      `A fantasy fiction author from the UK. I live with my husband and two dogs (mad cocker spaniels).`,
+      `I have four books published in my Lottie Jones and the Magical Realms series with the final book publishing in September.`,
+      `Currently writing a dark fantasy novel definitely aimed at the adult market.`,
+    ],
+  },
+  {
+    firstName: "Hazel",
+    lastName: "Jacks",
+    website: "https://www.hazeljacks.com/",
+    socialMedia: {
+      instagram:
+        "https://www.instagram.com/authorhazeljacks/?igshid=YmMyMTA2M2Y=",
+      tiktok:
+        "https://m.facebook.com/authorhazeljacks?wtsid=rdr_0abkJyA3wK2IsUUbE&_rdr",
+      facebook:
+        "https://m.facebook.com/authorhazeljacks?wtsid=rdr_0abkJyA3wK2IsUUbE&_rdr",
+    },
+    umbrellaGenre: ["romance"],
+    subGenre: ["Contemporary", "New Adult and College"],
+    bio: [
+      `Hazel is fueled by boba tea, pop-punk/emo music, the beach, and sour candy. She lives on the West Coast with her husband and daughter.`,
+    ],
+  },
 ];
