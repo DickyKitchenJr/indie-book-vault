@@ -248,7 +248,7 @@ export const Authors = [
       facebook: "https://www.facebook.com/vbemanuele",
     },
     umbrellaGenre: ["romance"],
-    subGenre: ["Dark Romance"],
+    subGenre: ["Dark Romance", "Billionaire Romance", "Mafia Romance"],
     bio: [
       `V.B. Emanuele (Valentina Emanuele) is an award-winning author who began writing professionally for a serial, visual story app, under the username VioletBlue. She quickly found herself wanting to expand her art, and wrote her first online novel, The Veil, in 2019. After the rapid success of the book, she released several more online novels before deciding she wanted to publish them. Just Business was the first book to launch the Club Euphoria Novels and Valentina's publishing debut.`,
       `She has lived in both Europe and the United States and obtained a Fine Arts degree and English Literature degree. When she is not writing or reading, she can be found active outdoors, participating in fitness challenges and events, cooking, or traveling.`,
@@ -272,8 +272,8 @@ export const Authors = [
     ],
   },
   {
-    firstName: "Lynsey",
-    lastName: "Carter",
+    firstName: "Linzvonc",
+    lastName: "",
     website: "https://www.linzvonc.co.uk/",
     socialMedia: {
       instagram: "http://www.instagram.com/linzvonc",
@@ -287,6 +287,85 @@ export const Authors = [
     ],
     bio: [
       `I’m a steamy romance author with one thing on my mind…your escapism! I love coffee and chocolate and I’m obsessed with my dog. When I’m not writing I’m reading!`,
+    ],
+  },
+  {
+    firstName: "GiGi",
+    lastName: "Meier",
+    website: "https://www.gigimeier.com/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/gigimeiermedia/",
+      facebook: "https://www.facebook.com/gigimeiermedia/",
+    },
+    umbrellaGenre: ["romance"],
+    subGenre: ["Dark Romance", "Sports Romance"],
+    bio: [
+      `GIGI MEIER retired from a thirty-year career in corporate America to write romance novels about strong female characters and their complicated, swoon-worthy men. She loves telling stories and figuring out why her characters do what they do. With heartbreaking angst, panty-dropping lust, and enviable love, her stories linger long after you close the book.`,
+      `When GiGi is not eating over her laptop, she likes to spend time in the pool with her children, walk her furry babies, and film videos for Instagram and YouTube. Whether working out with her trainer, attending a book club, or hosting a game night, she loves connecting with new people and making friends.`,
+    ],
+  },
+  {
+    firstName: "Bethany",
+    lastName: "Bauerle",
+    website: "https://www.authorbethanybauerle.com/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/authorbethanybauerle",
+      facebook: "https://www.facebook.com/authorbethanybauerle",
+      tiktok: "https://www.tiktok.com/author_bethany_bauerle",
+    },
+    umbrellaGenre: ["childrens"],
+    subGenre: ["Family", "Disabilities", "Autism"],
+    bio: [
+      `Was born and raised in the great state of Indiana, where she still lives with her husband and two children.`,
+      `Her love for reading and writing began at a very young age, when her mother brought her to their local library. Where Bethany fell in love with the imaginary worlds created by authors such as C. S. Lewis, Roald Dahl, and Shel Silverstein. She ended up writing a short story and discovered that she had passion for writing as well.`,
+      `Her second-grade teacher saw her love of reading and writing and encouraged Bethany to continue, and just like that, an author was born!`,
+      `Over the years her experience as a mommy to an amazing little boy who is autistic, and his incredible little sister inspired children's book (s). "They have shown me what real unconditional love and acceptance are about, and I wanted to share that love with others. While also teaching kids about kindness, compassion, and understanding of the the differences in all of us."`,
+    ],
+  },
+  {
+    firstName: "Ariana",
+    lastName: "St. Claire",
+    website: "https://www.arianastclaireauthor.com/",
+    socialMedia: {
+      instagram:
+        "https://www.instagram.com/authorarianastclaire/?igshid=MzNlNGNkZWQ4Mg%3D%3D",
+      facebook: "http://www.facebook.com/authorarianastclaire",
+    },
+    umbrellaGenre: ["romance"],
+    subGenre: ["Sports Romance", "BDSM Themed Romance"],
+    bio: [
+      `Ariana can be found getting her Zen on while practicing hot yoga, going for a run, reading her favorite authors in the middle of the night, or having a bourbon on a Saturday while plotting the lives of her characters as they whisper and sometimes yell in her ear. She lives her own Happily Ever After with her amazing husband, who shares her love of racing, comic books, and Firefly, along with her two spirited also amazing boys who love reading books under a blanket just as much as she does!`,
+    ],
+  },
+  {
+    firstName: "Breanna",
+    lastName: "Hicks",
+    website: "",
+    socialMedia: {
+      instagram: "https://www.instagram.com/mrsbreannahicks/",
+      facebook:
+        "https://www.facebook.com/BreannaMcGinnisAuthor?mibextid=LQQJ4d",
+      tiktok: "https://www.tiktok.com/@breanna.hicks11?_t=8dBv3gq3qDD&_r=1",
+    },
+    umbrellaGenre: ["romance", "thriller"],
+    subGenre: ["Crime Thriller", "Psychological Thriller", "Romantic Thriller"],
+    bio: [
+      `Breanna Hicks, author of the new crime thriller trilogy, The Colorado Killer.`,
+      `Breanna grew up in a rural town outside Kansas City, MO and still resides in the area with her husband and two dogs. When she’s not writing her latest crime thriller novel, Breanna enjoys being outside; whether it be reading, birdwatching with her husband, hosting BBQ’s, or simply enjoying the weather.`,
+    ],
+  },
+  {
+    firstName: "Deborah J.",
+    lastName: "Lightfoot",
+    website: "https://www.waterspell.net/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/booksofwaterspell/",
+      facebook: "https://www.facebook.com/WaterspellTrilogy",
+    },
+    umbrellaGenre: ["fantasy"],
+    subGenre: ["Epic Fantasy", "Sword and Sorcery"],
+    bio: [
+      `Castles in the cornfield provided the setting for Deborah J. Lightfoot's earliest flights of fancy. On her father's farm in Texas, she grew up reading tales of adventure and reenacting them behind ramparts of sun-drenched grain. She left the farm to earn a degree in journalism and write award-winning books of history and biography. High on her bucket list was the desire to try her hand at the genre she most admired. The result is Waterspell, a complex, intricately detailed fantasy series about a girl and the wizard who suspects her of being so dangerous to his world, he believes he'll have to kill her … which troubles him, since he's fallen in love with her. There's magic, mystery, murder, and romance. Waterspell: An original save-the-world fantasy adventure with complicated characters, cosmic calamities, and the gothic sensibilities of "Jane Eyre."`,
     ],
   },
 ];
