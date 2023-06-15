@@ -221,4 +221,72 @@ export const Authors = [
       `Hazel is fueled by boba tea, pop-punk/emo music, the beach, and sour candy. She lives on the West Coast with her husband and daughter.`,
     ],
   },
+  {
+    firstName: "Cassandra",
+    lastName: "Celia",
+    website: "https://cassandracelia.carrd.co/",
+    socialMedia: {
+      instagram: "https://instagram.com/authorcassandracelia",
+      tiktok: "https://tiktok.com/@authorcassandracelia",
+      facebook: "https://www.facebook.com/authorcassandracelia",
+    },
+    umbrellaGenre: ["fantasy", "thriller", "horror"],
+    subGenre: ["Horror/Thriller/Paranormal"],
+    bio: [
+      `Cassandra is a Maryland bookseller, turned author. She writes horror, paranormal, and dark fiction, and she obsesses over stories with love, death, ambiguous endings, and everything in between. In her books, she takes inspiration from all things dark and spooky, and she absolutely loves writing about angry, scorned women.`,
+      `Stars and Other Monsters is her debut novel. `,
+      `Stay up to date by visiting her website, www.cassandracelia.carrd.co.`,
+    ],
+  },
+  {
+    firstName: "V.B.",
+    lastName: "Emanuele",
+    website: "https://www.vbemanuele.com/",
+    socialMedia: {
+      instagram: "https://instagram.com/vbemanuele",
+      tiktok: "https://www.tiktok.com/@vbemanuele.author",
+      facebook: "https://www.facebook.com/vbemanuele",
+    },
+    umbrellaGenre: ["romance"],
+    subGenre: ["Dark Romance"],
+    bio: [
+      `V.B. Emanuele (Valentina Emanuele) is an award-winning author who began writing professionally for a serial, visual story app, under the username VioletBlue. She quickly found herself wanting to expand her art, and wrote her first online novel, The Veil, in 2019. After the rapid success of the book, she released several more online novels before deciding she wanted to publish them. Just Business was the first book to launch the Club Euphoria Novels and Valentina's publishing debut.`,
+      `She has lived in both Europe and the United States and obtained a Fine Arts degree and English Literature degree. When she is not writing or reading, she can be found active outdoors, participating in fitness challenges and events, cooking, or traveling.`,
+    ],
+  },
+  {
+    firstName: "Caitriona",
+    lastName: "Drexler",
+    website: "https://caitrionadrexler.wixsite.com/caitriona-drexler",
+    socialMedia: {
+      instagram: "http://www.instagram.com/author_tri_drexler",
+      tiktok: "http://www.tiktok.com/@author_tri_drexler",
+      facebook: "http://www.facebook.com/tridrexler",
+    },
+    umbrellaGenre: ["romance"],
+    subGenre: ["fantasy", "sci-fi", "contemporary"],
+    bio: [
+      `Caitriona “Tri” Drexler is a data-driven art historian by day and a genre-hopping indie author by night. As an avid reader of romance, Tri takes inspiration from her favorite genre when writing. She wanted to write something different from the same tired romance plots she kept getting sucked into. So she started writing her own.`,
+      `Tri was born and raised in New Jersey, where she still lives with her husband, son, and two cats. After graduating college with a BA in Art History, Tri got a job in data acquisition for an art database. Though this was not Tri’s dream museum job, she grew to love working with data, becoming obsessed with spreadsheets, pivot tables and KPIs.`,
+      `And now, her new obsession is writing epic love stories full of spice.`,
+    ],
+  },
+  {
+    firstName: "Lynsey",
+    lastName: "Carter",
+    website: "https://www.linzvonc.co.uk/",
+    socialMedia: {
+      instagram: "http://www.instagram.com/linzvonc",
+    },
+    umbrellaGenre: ["romance"],
+    subGenre: [
+      "Steamy Romance",
+      "Mafia Romance",
+      "Age Gap Romance",
+      "Taboo Romance",
+    ],
+    bio: [
+      `I’m a steamy romance author with one thing on my mind…your escapism! I love coffee and chocolate and I’m obsessed with my dog. When I’m not writing I’m reading!`,
+    ],
+  },
 ];
