@@ -109,10 +109,14 @@ export const Authors = [
     socialMedia: {
       instagram: "https://www.instagram.com/barbaralennoxauthor/",
     },
-    umbrellaGenre: ["fantasy"],
-    subGenre: ["Historical"],
+    umbrellaGenre: ["fantasy", "romance", "thriller"],
+    subGenre: [
+      "Historical Fantasy Fiction",
+      "Historical Thrillers",
+      "Historical Romance",
+    ],
     bio: [
-      `I was born, and still live, in Scotland on the shores of a river, between the mountains and the sea. I’m a retired scientist and science administrator, but have always been fascinated by the early history of Scotland, and I love fleshing out that history with the stories of fictional, and not-so-fictional, characters.`,
+      `Barbara Lennox is a Scottish historical fiction writer who writes stories set in first millennium Scotland. Drawing on her extensive research and vivid imagination, she brings to life the struggles, triumphs and tragedies of the people who lived in this fascinating period of Scottish History. Her critically acclaimed trilogy, The Trystan Trilogy, is a reimagining of the doomed story of Tristan and Isolde, set in the gritty realities of 5th century Scotland. She also writes and publishes prize-winning short stories and poetry. When she's not writing, she can be found at the top of a mountain, or in in her garden.`,
     ],
   },
   {
@@ -180,7 +184,12 @@ export const Authors = [
     firstName: "N.",
     lastName: "Dune",
     website: "https://nduneauthor.com/",
-    socialMedia: {},
+    socialMedia: {
+      instagram: "https://www.instagram.com/nduneauthor",
+      facebook: "https://www.facebook.com/groups/2682434541968398",
+      twitter: "https://twitter.com/AuthorNDune",
+      tiktok: "https://www.tiktok.com/@nduneauthor",
+    },
     umbrellaGenre: ["romance", "fantasy"],
     subGenre: ["Paranormal Fantasy Romance", "Romantic Suspense"],
     bio: [
@@ -366,6 +375,81 @@ export const Authors = [
     subGenre: ["Epic Fantasy", "Sword and Sorcery"],
     bio: [
       `Castles in the cornfield provided the setting for Deborah J. Lightfoot's earliest flights of fancy. On her father's farm in Texas, she grew up reading tales of adventure and reenacting them behind ramparts of sun-drenched grain. She left the farm to earn a degree in journalism and write award-winning books of history and biography. High on her bucket list was the desire to try her hand at the genre she most admired. The result is Waterspell, a complex, intricately detailed fantasy series about a girl and the wizard who suspects her of being so dangerous to his world, he believes he'll have to kill her … which troubles him, since he's fallen in love with her. There's magic, mystery, murder, and romance. Waterspell: An original save-the-world fantasy adventure with complicated characters, cosmic calamities, and the gothic sensibilities of "Jane Eyre."`,
+    ],
+  },
+  {
+    firstName: "AJ",
+    lastName: "Ashton",
+    website: "https://ajwriter72.wixsite.com/a-j-ashton",
+    socialMedia: {
+      instagram: "https://instagram.com/aashtonwriter?igshid=MzNlNGNkZWQ4Mg==",
+    },
+    umbrellaGenre: ["fantasy", "romance"],
+    subGenre: ["Epic Fantasy"],
+    bio: [
+      `AJ Ashton was born in 1972, in Derbyshire, UK. She still lives in the area, juggling a full-time job and being a mother.`,
+      `From the age of seven, after seeing a rather famous sci-fi film, for the first time. Her creativeness to write was born. Inspired by a strong princess being rescued by a notorious smuggler. She wrote sci-fi, but her passion was soon drawn to fantasy. Where the world of Zentos was born.`,
+      `Outcast New Beginnings is the second book in the Tarrenfall Chronicles and the Zentos series. It will give you more insight into her fantasy world, with more mystical creatures, magic, and swords. There will also be even more romance.`,
+    ],
+  },
+  {
+    firstName: "Kelly",
+    lastName: "Lord",
+    website: "https://www.kellylord.co.uk/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/k_l_lord",
+      facebook: "https://www.facebook.com/author.klord",
+    },
+    umbrellaGenre: ["romance", "fantasy", "dystopian"],
+    subGenre: ["Werewolf", "Monster", "Poly", "MM"],
+    bio: [
+      `Kelly Lord is best known for her steamy romance stories, from smoking-hot shifters, monsters, and hellhounds, to sizzling contemporary eroticism that will melt your kindle.`,
+    ],
+  },
+  {
+    firstName: "Meghann",
+    lastName: "Crane",
+    website: "https://meghanncraneauthor.wixsite.com/mysite",
+    socialMedia: {
+      instagram: "https://instagram.com/mcrane.author?igshid=OGQ5ZDc2ODk2ZA==",
+    },
+    umbrellaGenre: ["romance", "fantasy"],
+    subGenre: ["Erotica"],
+    bio: [
+      `Meghann is a semi-new romance author who began her journey in 2020. Her stories are often filled with steamy, intense plots that end up in the happily ever after category.`,
+      `Some of her works include: Falling for the Mafia Brothers on Galatea Loving My Brother’s Best Friend on Galatea Promised to the One I hate on KISSThe Secret Series which can be found on all major ebook retailers.`,
+    ],
+  },
+  {
+    firstName: "Martin",
+    lastName: "Dukes",
+    website: "https://www.mdukes-wildestdreams.com/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/martin.dukes.wildest.dreams",
+      tiktok: "https://www.tiktok.com/martindukeswildestdreams",
+      facebook: "https://www.facebook.com/martindukesbooks",
+      twitter: "https://twitter.com/martindukes5",
+    },
+    umbrellaGenre: ["fantasy"],
+    subGenre: ["Epic Fantasy"],
+    bio: [
+      `I’ve always been a writer. It’s not a choice. It’s a compulsion, and I’ve been writing as long as I can remember. Lots of childish scribbles in notebooks, lots of rejection slips from publishers and agents testify to a craft long in the making. In addition, it has proved necessary to earn a living by other means whilst those vital skills mature. For thirty-eight years I taught Art and Graphic Design, thirty-seven of them in a wonderful independent girls’ school in Birmingham, UK. For much of the latter part of this career I was Head of Department, which gave me the opportunity to place my own stamp on Art education there, sharing with the pupils there my own love of Art and the History of Art. Over a decade I was able to lead annual visits to Florence, Venice and Rome (some of my favourite places on the planet) as destinations on my Renaissance Tour. These visits created memories that I shall cherish for the rest of my life.`,
+      `I love history in general, reading history as much as I read fiction. I have a particular interest in the ancient world but I am also fascinated with medieval times and with European history in general. This interest informs my own writing to the extent that human relationships and motivations are a constant throughout the millennia, and there is scarcely a story that could be conceived of that has not already played itself out in some historical context. There is much to learn from observing and understanding such things, much that can be usefully applied to my own work.`,
+      `Teaching tends to be a rather time-consuming activity. Since retiring, I have been able to devote much more of my time to writing and has meant that I am finally able to bring my work to the reading public’s attention. I like to think that my ideas are original and that they do not readily fall into existing tropes and categories.
+I am not a particularly physical being. I was always terrible at sport and have rather poor physical coordination (as though my body were organised by a committee rather than a single guiding intelligence!). I tend to treat my body as a conveyance for my head, which is where I really dwell. My writing typically derives from dreams. There is a sweet spot between sleeping and waking which is where my ideas originate. I always develop my stories there. When I am writing it feels as though the content of my dreams becomes real through the agency of my fingers on the keyboard. I love the English language, the rich majesty of its vocabulary and its rhythmic possibilities. My arrival at this stage could hardly be describes as precocious. However, at the age of sixty-three, I feel that I have arrived at a place where I can create work of value that others may appreciate and enjoy.`,
+    ],
+  },
+  {
+    firstName: "Julia",
+    lastName: "Slack",
+    website: "https://www.juliaslackauthor.com/",
+    socialMedia: {
+      instagram: "http://www.instagram.com/juliaslackauthor",
+    },
+    umbrellaGenre: ["drama"],
+    subGenre: ["Women's Historical Fiction"],
+    bio: [
+      `Julia Slack is a Brit in Barcelona. Her standalone historical fiction, set in 1960s Barcelona, is based on real places and events. It's available FREE on Kindle Unlimited!!`,
     ],
   },
 ];
