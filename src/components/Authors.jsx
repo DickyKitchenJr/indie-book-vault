@@ -452,4 +452,23 @@ I am not a particularly physical being. I was always terrible at sport and have 
       `Julia Slack is a Brit in Barcelona. Her standalone historical fiction, set in 1960s Barcelona, is based on real places and events. It's available FREE on Kindle Unlimited!!`,
     ],
   },
+  {
+    firstName: "Khushi T.",
+    lastName: "Saha",
+    website: "",
+    socialMedia: {
+      instagram: "https://www.instagram.com/ktsromance/",
+      facebook: "https://www.facebook.com/KhushiT.S",
+      tiktok: "http://tiktok.com/@ktsromance",
+    },
+    umbrellaGenre: ["romance"],
+    subGenre: ["Contemporary", "Interracial with South Asian/American Nuances"],
+    bio: [
+      `Bringing interracial romances with tons of heat, passion, and a healthy infusion of love. HEA is an ALWAYS!`,
+      `ABOUT THE AUTHOR`,
+      `Khushi T. Saha is a notorious daydreamer. And ask anyone close to her and they’ll tell you she’s a positive, mushy person, too. Enter in ‘writing romance novels’: what began as self-care to overcome personal trauma, ended up evolving into something much more fulfilling. Bringing stories of angst, personal growth, and passion (the steamier the better!) with some snarky humor to romantics all around has become a hunger she can’t seem to satiate. In fact, once she’s done with a story, there’s already another one a-brewin'.`,
+      `And because she’s a first-generation Bangladeshi—born and raised in the US—the connection to the motherland is fierce. You’ll find South Asian nuances/representation purposely sprinkled throughout her novels.`,
+      `When she's not writing, she's managing her craft business, obsessed with gardening in the spring and summer months, running around with her boys, and binge-watching murder shows/podcasts.`,
+    ],
+  },
 ];
