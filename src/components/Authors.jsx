@@ -471,4 +471,19 @@ I am not a particularly physical being. I was always terrible at sport and have 
       `When she's not writing, she's managing her craft business, obsessed with gardening in the spring and summer months, running around with her boys, and binge-watching murder shows/podcasts.`,
     ],
   },
+  {
+    firstName: "L.N.",
+    lastName: "White",
+    website: "https://lnwhitewrite.weebly.com/",
+    socialMedia: {
+      instagram: "https://instagram.com/author_l_n_white",
+      facebook: "https://facebook.com/l.n.whitewrite",
+      tiktok: "https://tiktok.com/@author_l_n_white",
+    },
+    umbrellaGenre: ["romance", "fantasy"],
+    subGenre: ["New Adult", "Supernatural", "Dark Fiction"],
+    bio: [
+      `Author of The Haunted Series Trilogy, L. N. White has been creating stories since she hold a writing utensil. In high school, she started working on poems but moved back to books. The combined stories helped Lyn come up with The Haunted Series. She lives in Oklahoma City with her boyfriend and two furbabies. Now working part-time as an author and freelance writer to continue her dream of being a published author.`,
+    ],
+  },
 ];
