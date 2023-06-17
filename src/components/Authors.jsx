@@ -486,4 +486,70 @@ I am not a particularly physical being. I was always terrible at sport and have 
       `Author of The Haunted Series Trilogy, L. N. White has been creating stories since she hold a writing utensil. In high school, she started working on poems but moved back to books. The combined stories helped Lyn come up with The Haunted Series. She lives in Oklahoma City with her boyfriend and two furbabies. Now working part-time as an author and freelance writer to continue her dream of being a published author.`,
     ],
   },
+  {
+    firstName: "Garrett K.",
+    lastName: "Jones",
+    website: "http://www.archivesofthefivekingdoms.com/",
+    socialMedia: {
+      instagram: "https://instagram.com/gkj_publishing",
+      facebook: "https://facebook.com/gkjpublishing",
+      twitter: "https://twitter.com/gkj_publishing",
+    },
+    umbrellaGenre: ["fantasy"],
+    subGenre: ["Epic Fantasy"],
+    bio: [
+      `Garrett is a fantasy novelist from Central California where he lives with his family. He holds a BA in Creative Writing from CSU Monterey Bay and an MAR in Biblical Studies from Liberty University Theological Seminary. When he is not writing or publishing he hosts The Write Way on his YouTube channel.`,
+    ],
+  },
+  {
+    firstName: "S.E.",
+    lastName: "Green",
+    website: "https://segreenauthor.com/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/segreen.author/",
+      facebook: "https://www.facebook.com/segreen.author",
+      tiktok: "https://www.tiktok.com/@authorsegreen?lang=en",
+    },
+    umbrellaGenre: ["romance"],
+    subGenre: ["Contemporary", "Why Choose", "Erotica"],
+    bio: [
+      `I'm a contemporary romance author that enjoys writing M/F romances as well as Why Choose with a variety of different tropes. My books tend to focus on heavy topics, but I wouldn't quite label them as Dark Romance.`,
+      `~building romance around dreams~`,
+    ],
+  },
+  {
+    firstName: "Nikki",
+    lastName: "Long",
+    website: "https://nikkilongwrites.com/",
+    socialMedia: {
+      facebook: "https://www.facebook.com/nikkilongwrites",
+    },
+    umbrellaGenre: ["romance"],
+    subGenre: ["Contemporary", "Paranormal"],
+    bio: [
+      `Hello! I love romance and if you’ve found me, then you must love romance too. I started writing romance novels in 2019 because I knew that I had some great stories to tell. Stories about strong, contemporary women who aren’t necessarily looking for romance, but it finds them. Stories that take the reader to different parts of the world. My novels are filled with humor, friendship, romance, and some sexy time too! But one thing you can count on–there is always a happy ending for the heroine!`,
+      `I have worn a lot of hats in my life–actor, singer, college administrator, and now romance author. I am very lucky to share a home with a wonderful husband and a menagerie of dogs and cats. When time and money afford it, I also love to travel, which will often show up in my novels. Because there is nothing like romance and travel to make you happy!`,
+    ],
+  },
+  {
+    firstName: "Maxine",
+    lastName: "Keith",
+    website: "https://authormaxinekeith.com/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/maxine_keith_",
+      facebook: "https://www.facebook.com/maxinekeith",
+    },
+    umbrellaGenre: ["romance"],
+    subGenre: [
+      "YA",
+      "Contemporary",
+      "Supernatural",
+      "Athletic",
+      "Erotica",
+      "Adult",
+    ],
+    bio: [
+      `Maxine Keith is an indie author with 50 books across the romance genre. There is something for everyone. All her books are available on Kindle, KU, and Amazon.`,
+    ],
+  },
 ];
