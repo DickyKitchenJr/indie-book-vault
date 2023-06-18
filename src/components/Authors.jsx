@@ -492,7 +492,8 @@ I am not a particularly physical being. I was always terrible at sport and have 
     website: "http://www.archivesofthefivekingdoms.com/",
     socialMedia: {
       instagram: "https://instagram.com/gkj_publishing",
-      facebook: "https://facebook.com/gkjpublishing",
+      facebook:
+        "https://www.facebook.com/profile.php?id=100032106176877&mibextid=LQQJ4d",
       twitter: "https://twitter.com/gkj_publishing",
     },
     umbrellaGenre: ["fantasy"],
