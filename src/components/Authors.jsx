@@ -694,4 +694,28 @@ I am not a particularly physical being. I was always terrible at sport and have 
       `Misty has kept a journal since the age of seven, always enamored with the act of documenting life with words on paper. She dreamed of compiling her journal entries into a biography style book, later realizing that her life probably wasn’t book-worthy. Throughout the years Misty has ventured into blogging, running a fun site and YouTube channel during her college years. Professionally, Misty works in Marketing and has been copy writing for several years.`,
     ],
   },
+  {
+    firstName: "Daniel J.",
+    lastName: "Barnes",
+    website: "https://daniel-j-barnes-shop.sellfy.store/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/djbwriter/",
+      facebook: "https://www.facebook.com/DJBWriter/",
+      twitter: "https://twitter.com/writerdjb",
+    },
+    umbrellaGenre: ["fantasy", "horror", "drama", "thriller", "childrens"],
+    subGenre: ["Macabre"],
+    bio: [
+      `Daniel J. Barnes is a multi genre author from the United Kingdom known for several novels, such as...`,
+      `Vatican: The Angel of Justice series`,
+      `The Secret Hunter’s Horde series`,
+      `Fear Trigger.`,
+      `Blood Stained Canvas`,
+      `Dinner Party`,
+      `Welcome to Crimson`,
+      `Maple Malls Massacre`,
+      `Hartwaker series`,
+      `Monster Meals`,
+    ],
+  },
 ];
