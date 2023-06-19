@@ -630,4 +630,68 @@ I am not a particularly physical being. I was always terrible at sport and have 
       `and all six books are available wherever you buy your books!`,
     ],
   },
+  {
+    firstName: "T.K.",
+    lastName: "Toppin",
+    website: "https://tktoppin.blogspot.com/",
+    socialMedia: {
+      instagram: "http://www.instagram.com/written.by.tktoppin/",
+      tiktok: "https://www.tiktok.com/@tktoppin",
+      facebook: "https://www.facebook.com/WrittenByTKToppin",
+    },
+    umbrellaGenre: ["scifi"],
+    subGenre: ["Space Opera", "Speculative Fiction"],
+    bio: [
+      `T.K. Toppin writes character-driven tales, loaded with mystery, intrigue and adventure, navigating the realms of Science Fiction, Speculative Fiction and Space Opera.`,
+      `T.K. was born, raised and lives in Barbados. When she's not writing, she can be found studiously working on her doctorate in Procrastination by binge-watching shows on streaming networks, doing absolutely nothing, and juggling the baffling realm of social media marketing.`,
+    ],
+  },
+  {
+    firstName: "Tony",
+    lastName: "Riches",
+    website: "https://www.tonyriches.com/",
+    socialMedia: {
+      twitter: "https://twitter.com/tonyriches",
+      instagram: "https://www.instagram.com/tonyriches.author/",
+      tiktok: "https://www.tiktok.com/@tonyriches.author",
+      facebook: "https://www.facebook.com/tonyriches.author",
+      goodreads: "https://www.goodreads.com/author/show/5604088.Tony_Riches",
+    },
+    umbrellaGenre: ["drama"],
+    subGenre: ["Historical Fiction"],
+    bio: [
+      `Tony Riches is a full-time UK author of Tudor historical fiction. He lives with his wife in Pembrokeshire, West Wales and is a specialist in the lives of the Tudors. As well as his new Elizabethan series, Tony’s historical fiction novels include the best-selling Tudor trilogy and his Brandon trilogy, (about Charles Brandon and his wives). Tony also has a popular podcast series, Stories of the Tudors. For more information about Tony’s books visit his website www.tonyriches.com and his blog, The Writing Desk and find him on  Facebook and Twitter @tonyriches`,
+    ],
+  },
+  {
+    firstName: "C. Deanne",
+    lastName: "Rowe",
+    website: "http://www.cdeannerowe.com/",
+    socialMedia: {
+      twitter: "http://www.twitter.com/cdeannerowewww/tiktok.com/cdeannerowe",
+      instagram: "http://www.instagram.com/cdeannerowe",
+      tiktok: "http://www.twitter.com/cdeannerowewww/tiktok.com/cdeannerowe",
+      facebook: "http://www.facebook.com/cdeannerowe",
+    },
+    umbrellaGenre: ["western"],
+    subGenre: ["Small Town Contemporary", "Western Romance"],
+    bio: [
+      `C. Deanne Rowe was born and raised in southwest Oklahoma. She has also lived in Nebraska, Texas, and California. Iowa has been her home for over thirty years where she lives with her husband, two children and their spouses, five grandchildren, the memory of her hero teacup toy poodle, Allie, and her new rescue French Bulldog, Kendell`,
+      `She has always loved writing poetry and short stories and became a published romance author later in life. She has published thirteen books of her own, three in her Valley Series, six in her Cowboy Temptation Series, three in her Puckerbrush series and one non-fiction, Comforted From Heaven. As one of the Stiletto Girls, she is an author of eleven novellas in the Stiletto Girls Series.`,
+      `Learn more about C. Deanne Rowe, her books, sign up for her newsletter, and receive a free ebook at: www.cdeannerowe.com`,
+    ],
+  },
+  {
+    firstName: "Misty",
+    lastName: "Rogers",
+    website: "https://mistyrogersauthor.wordpress.com/",
+    socialMedia: {
+      instagram: "https://instagram.com/mistyrogers_author",
+    },
+    umbrellaGenre: ["romance"],
+    subGenre: ["Contemporary Romance"],
+    bio: [
+      `Misty has kept a journal since the age of seven, always enamored with the act of documenting life with words on paper. She dreamed of compiling her journal entries into a biography style book, later realizing that her life probably wasn’t book-worthy. Throughout the years Misty has ventured into blogging, running a fun site and YouTube channel during her college years. Professionally, Misty works in Marketing and has been copy writing for several years.`,
+    ],
+  },
 ];
