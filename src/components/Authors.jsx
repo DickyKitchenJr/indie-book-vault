@@ -718,4 +718,21 @@ I am not a particularly physical being. I was always terrible at sport and have 
       `Monster Meals`,
     ],
   },
+  {
+    firstName: "Brent",
+    lastName: "Archer",
+    website: "https://brentarcher.net/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/brent_archer_writer/",
+      facebook: "https://www.facebook.com/brent.archerauthor/",
+      twitter: "https://twitter.com/brentarcherwrit",
+    },
+    umbrellaGenre: ["romance"],
+    subGenre: ["Gay Contemporary", "Gay Suspense"],
+    bio: [
+      `Brent Archer was born in Spokane, Washington, and lived there most of his adolescent life. At 18, he left for Seattle to attend the University of Washington for Electrical Engineering. Quickly, it became apparent that he hated his science classes, and so he switched his major to International Studies with a minor in history. After graduation, he got several accounting jobs while pursuing an acting career in musical theater and dance. Once thirty hit, however, he decided to focus on numbers, getting a certificate in accounting, and became the Financial Controller of a non-profit arts and music organization.`,
+      `Though writing most of his life, he never thought to submit his work for publication. In 2012, he visited his cousin Delilah Devlin in Arkansas and she prodded him to write a story and submit it. So, he did and the story, Dear Bryan, sold right away. With the encouragement of Delilah, his other writing cousin Elle James, and his husband, Brent embarked on a writing career. He’s loving the journey, finding inspiration and a story everywhere he goes, whether it be the local coffee shop, driving through the U.S., or riding the train exploring the world. So far, he’s visited England, Scotland, Iceland, France, Switzerland, Austria, the Czech Republic, Germany, the Netherlands, Belgium, Norway, China, New Zealand, and driven through most of the United States and a good chunk of Canada. His goal is to visit each continent and every US state. When not writing or traveling, Brent works in a local wine shop…. It’s research for that next writing project!`,
+      `He is published with House of Erotica and Cleis Press, and he is currently self-publishing through Amazon and Kobo.`,
+    ],
+  },
 ];
