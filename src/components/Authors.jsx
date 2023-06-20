@@ -741,6 +741,7 @@ I am not a particularly physical being. I was always terrible at sport and have 
     website: "",
     socialMedia: {
       instagram: "https://www.instagram.com/the_shadow_jackal",
+      facebook: "https://www.facebook.com/NSNeillAuthor",
     },
     umbrellaGenre: ["thriller", "horror"],
     subGenre: ["Crime"],
