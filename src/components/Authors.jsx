@@ -735,4 +735,114 @@ I am not a particularly physical being. I was always terrible at sport and have 
       `He is published with House of Erotica and Cleis Press, and he is currently self-publishing through Amazon and Kobo.`,
     ],
   },
+  {
+    firstName: "N.S.",
+    lastName: "Neill",
+    website: "",
+    socialMedia: {
+      instagram: "https://www.instagram.com/the_shadow_jackal",
+    },
+    umbrellaGenre: ["thriller", "horror"],
+    subGenre: ["Crime"],
+    bio: [
+      `N S Neill lives at home with her husband, dog and cat. She is a writer and avid reader of crime, horror and thrillers with a love for fairytales and dinosaurs as well. Her favourite books include Jurassic Park, Alice’s Adventures in Wonderland, Sleepy Hollow, and The Hound of the Baskervilles.`,
+      `Her works are available via ebook and paperback on Amazon worldwide.`,
+    ],
+  },
+  {
+    firstName: "Laura",
+    lastName: "Akers",
+    website: "https://lauraakers.com/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/thelauraakers/",
+      facebook: "https://www.facebook.com/LauraAkersAuthor/",
+      twitter: "https://twitter.com/LauraAkers",
+      tiktok: "https://www.tiktok.com/@thelauraakers?",
+    },
+    umbrellaGenre: ["thriller"],
+    subGenre: ["Mystery Action"],
+    bio: [
+      `HOW A DEATH THREAT LEAD ME FROM BEING A PROSECUTOR TO AN AUTHOR`,
+      `“I think everyone should focus on situational awareness. Stay alert, and stay alive!” – Laura Akers`,
+      `I was raised in the Imperial Valley, California, by parents who worked in education. As an adopted only child, I spent most of my time reading books, being a “band geek” playing trumpet and piano, and riding horses.`,
+      `After law school, I became a prosecuting attorney and handled the worst violent crimes. A person I convicted threatened me, and I trained with a former CIA operative in self-defense. This led to my creation of Dior or Die’s protagonist, Davia Glenn. She’s someone who refuses to quit, no matter the odds, and it’s a philosophy I live by.`,
+      `While this all sounds rather achievement-driven, I also like to take beach photos and listen to audiobooks.  In the evenings, I chill while watching Korean dramas.`,
+    ],
+  },
+  {
+    firstName: "Alexandra",
+    lastName: "Peel",
+    website: "https://www.sticksandstonesbooks.com/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/alexandra.peel/",
+      twitter: "https://twitter.com/alexandrapeel",
+    },
+    umbrellaGenre: ["fantasy"],
+    subGenre: ["Steampunk"],
+    bio: [
+      `Visual artist turned author, with a Degree in Fine Art, Sculpture. Has been a freelance community artist, painter, graphics tutor, and bookseller; currently works as a Learning Support Practitioner in F.E.`,
+    ],
+  },
+  {
+    firstName: "Mark O",
+    lastName: "Piggott",
+    website: "https://authormarkpiggott.com/",
+    socialMedia: {
+      instagram: "http://www.instagram.com/author.markpiggott",
+      twitter: "http://www.twitter.com/Author_MPiggott",
+      facebook: "http://www.facebook.com/authormpiggott",
+      tiktok: "http://www.tiktok.com/authormpiggott",
+    },
+    umbrellaGenre: ["fantasy", "scifi"],
+    subGenre: ["Steampunk"],
+    bio: [
+      `Mark Piggott, a native of Phillipsburg, N.J., enlisted in the U.S. Navy in 1982, beginning a 23-year career.`,
+      `He served on four aircraft carriers and various duty stations as a Navy Journalist before he attained the rank of Chief Petty Officer. He retired from active duty in 2006.`,
+      `His first novel, Forever Avalon, was published in 2009, followed by his second novel, The Dark Tides, in 2014. The Outlander War: Book Three of the Forever Avalon series from Austin Macauley Publishing was released in 2020. In 2021, he published the start of a new steampunk fantasy series with The Last Magus: A Clockwork Heart from Lulu.com. At the end of 2021, Mark signed with Curious Corvid Publishing as one of their new authors for this small, independent publisher.`,
+      `His novels have won a slew of awards over the past years. The Outlander War won second place for fantasy in the 2021 Firebird Book Awards, The Last Magus won first place for steampunk, and in 2022, Forever Avalon won second place for fantasy. Additionally, The Last Magus: A Clockwork Heart won the Grand Prize for Fiction in the 2022 Authors Marketing Guild Indie Book Awards and 3rd Place in Fantasy-Myths and Legends in The BookFest 2022 Book Awards.`,
+      `His latest fantasy novella, The River of Souls, in collaboration with poet Ashley Valitutto, was published in 2022 through Curious Corvid Publishing, winning two Firebird Book Awards and nominated for two Indie Book Awards. Additionally, Forever Avalon was made into an audiobook, narrated by voice artist Traci Odom, followed by The Last Magus: A Clockwork Heart, narrated by Melissa Barnes.`,
+      `In 2023, the steampunk historical fiction Corsair and the Sky Pirates launched, winning two 2nd Place awards from The BookFest in Fantasy-Gaslamp and Sci-Fi-Steampunk. Coming soon, the next book in The Last Magus series, Dragonfire and Steel, and the fourth book in the Forever Avalon series, The Prometheus Engine!`,
+    ],
+  },
+  {
+    firstName: "Rachael",
+    lastName: "Huszar",
+    website: "https://www.rachaelhuszar.com/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/rachaelhuszarisawriter",
+    },
+    umbrellaGenre: ["fantasy", "romance", "western"],
+    subGenre: ["Historical Fantasy", "Action/Adventure"],
+    bio: [
+      `Rachael Huszar kept her life steeped in stories from a young age, and she began her own journey in story-making when she reached adulthood. In the time since, she has taken up swimming, roller skating, and consuming tabletop RPG streams. She spends the bulk of her time with her dog, Silo, and works full time as a designer in Dallas, Texas.`,
+    ],
+  },
+  {
+    firstName: "Marian L",
+    lastName: "Thorpe",
+    website: "https://marianlthorpe.com/",
+    socialMedia: {
+      twitter: "https://twitter.com/marianlthorpe",
+    },
+    umbrellaGenre: ["fantasy", "drama"],
+    subGenre: ["Historical Fantasy", "Alternate History", "LGBTQ+"],
+    bio: [
+      `After two careers as a research scientist and an educator, I decided it was time to do what I'd always really wanted, and be a writer. As well as my novels, I've published short stories and poetry. My life-long interest in Roman and post-Roman European history provided the inspiration for my books, while my other interests in landscape archaeology and birding provide background.`,
+    ],
+  },
+  {
+    firstName: "Maia",
+    lastName: "Strong",
+    website: "https://www.maiastrong.com/",
+    socialMedia: {
+      twitter: "https://twitter.com/MaiaStrong01",
+      instagram: "https://www.instagram.com/maiastrong01/",
+      facebook: "https://www.facebook.com/MaiaStrong",
+    },
+    umbrellaGenre: ["romance", "fantasy"],
+    subGenre: ["Queer Romance", "Speculative Romance", "Cozy Paranormal"],
+    bio: [
+      `Maia Strong (she/her) is a bi writer of sexy, speculative, queer romances as well as the cozy paranormal series, Presence Unknown, Paranormal Investigators. She prefers rain to sunshine, lemon to chocolate, and  will rarely be found without a cup of coffee nearby.`,
+    ],
+  },
 ];
