@@ -668,9 +668,9 @@ I am not a particularly physical being. I was always terrible at sport and have 
     lastName: "Rowe",
     website: "http://www.cdeannerowe.com/",
     socialMedia: {
-      twitter: "http://www.twitter.com/cdeannerowewww/tiktok.com/cdeannerowe",
+      twitter: "http://twitter.com/cdeannerowe",
       instagram: "http://www.instagram.com/cdeannerowe",
-      tiktok: "http://www.twitter.com/cdeannerowewww/tiktok.com/cdeannerowe",
+      tiktok: "http://www.tiktok.com/@cdeannerowe",
       facebook: "http://www.facebook.com/cdeannerowe",
     },
     umbrellaGenre: ["western"],
