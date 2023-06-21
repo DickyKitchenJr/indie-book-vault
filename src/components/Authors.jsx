@@ -846,4 +846,57 @@ I am not a particularly physical being. I was always terrible at sport and have 
       `Maia Strong (she/her) is a bi writer of sexy, speculative, queer romances as well as the cozy paranormal series, Presence Unknown, Paranormal Investigators. She prefers rain to sunshine, lemon to chocolate, and  will rarely be found without a cup of coffee nearby.`,
     ],
   },
+  {
+    firstName: "Jean",
+    lastName: "Estelle",
+    website: "https://www.jeanestelle.com/",
+    socialMedia: {
+      tiktok: "https://www.tiktok.com/@jean_estelle",
+      instagram: "https://www.instagram.com/jeanestelle_hope/",
+      facebook: "https://www.facebook.com/junipermikah",
+    },
+    umbrellaGenre: ["romance", "thriller", "scifi", "dystopian"],
+    subGenre: ["Post-Apocalyptic"],
+    bio: [
+      `In Hope, we meet seventeen year old Juniper Mikah, and the world she lives in. Humans now live underground, 300 years after a nuclear world war. Juniper is set to spend six months in Discovery, where each fresh batch of arrivals learn skills to benefit their home compound. But she has a secret mission: to find out what happened two years ago when her father vanished. Little does Juniper know, what she's about to uncover will shock her to the core...`,
+      `Jean has been writing her whole life. Ever since she could hold a pencil, she's been writing. Whether it was small chapter books or short stories, writing has always been her escape. It was a world that she could create, control, and live in. One of her favorite books as a tween was 20,000 Leagues Under the Sea. She could see the story, diving down with Captain Nemo, getting lost in his adventures. The book worn down to nothing from reading it over and over again. There was rarely a time as a child that she didn't have a book in her hands. Her BIGGEST dream is to be able to write for a living, and give her fans the same safe world to get lost in as she created for herself in her work. `,
+      `Right now Jean resides in the Poconos with her loving husband and daughters where she has lived there nearly her whole life. She is hard at work on the second book in the Saga, so keep watch! Thank you!`,
+    ],
+  },
+  {
+    firstName: "H M",
+    lastName: "DuVal",
+    website: "https://duvalmichelle.wixsite.com/hmduval",
+    socialMedia: {
+      instagram: "https://www.instagram.com/author.h.m.duval/",
+      facebook: "https://www.facebook.com/HMichelleDuVal",
+    },
+    umbrellaGenre: ["romance", "fantasy", "scifi", "dystopian"],
+    subGenre: ["Enemies to Lovers"],
+    bio: [
+      `H M DuVal is a mother, Kinesiologist, and author of the Dream Walker series. She has always had a passion for good stories: telling them, sharing them, and getting lost in them. Fiction and fantasy genres, with a healthy dose of romance, are her favorite. She loves the incredible power they have to spirit us away from the mundane and into the sensational, and believes that shift in perspective helps us find the magic inside our own lives. She hopes that while reading her work, you are similarly transported.`,
+      `H M DuVal lives in the beautiful Shenandoah Valley with her husband, two children, dog, cat, and horse.`,
+      `Follow her on Facebook and Instagram for release news and updates.`,
+    ],
+  },
+  {
+    firstName: "Lynne Hancock",
+    lastName: "Pearson",
+    website: "https://lynnehancockpearson.com/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/lynnehancockpearson/",
+      facebook: "https://www.facebook.com/lynne.hancockpearson/",
+    },
+    umbrellaGenre: ["romance"],
+    subGenre: [
+      "Sweet Romance",
+      "Contemporary",
+      "Grumpy Boss",
+      "Seattle Stories",
+    ],
+    bio: [
+      `Lynne Hancock Pearson writes fun, flirty, feel-good fiction that simmers at a low heat. Her stories reflect the power of community.`,
+      `She lives near Seattle with two finicky felines and one long-suffering husband. She is a left-handed middle child who grew up in the Great White North and is a proud member of the Métis Nation of Canada.`,
+    ],
+  },
 ];
