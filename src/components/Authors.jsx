@@ -872,7 +872,11 @@ I am not a particularly physical being. I was always terrible at sport and have 
       facebook: "https://www.facebook.com/HMichelleDuVal",
     },
     umbrellaGenre: ["romance", "fantasy", "scifi", "dystopian"],
-    subGenre: ["Enemies to Lovers"],
+    subGenre: [
+      "Enemies to Lovers",
+      "Science Fiction Romance",
+      "Fantasy Romance",
+    ],
     bio: [
       `H M DuVal is a mother, Kinesiologist, and author of the Dream Walker series. She has always had a passion for good stories: telling them, sharing them, and getting lost in them. Fiction and fantasy genres, with a healthy dose of romance, are her favorite. She loves the incredible power they have to spirit us away from the mundane and into the sensational, and believes that shift in perspective helps us find the magic inside our own lives. She hopes that while reading her work, you are similarly transported.`,
       `H M DuVal lives in the beautiful Shenandoah Valley with her husband, two children, dog, cat, and horse.`,
@@ -897,6 +901,56 @@ I am not a particularly physical being. I was always terrible at sport and have 
     bio: [
       `Lynne Hancock Pearson writes fun, flirty, feel-good fiction that simmers at a low heat. Her stories reflect the power of community.`,
       `She lives near Seattle with two finicky felines and one long-suffering husband. She is a left-handed middle child who grew up in the Great White North and is a proud member of the Métis Nation of Canada.`,
+    ],
+  },
+  {
+    firstName: "Zeena",
+    lastName: "Becks",
+    website: "https://zeenabecks.com/",
+    socialMedia: {
+      twitter: "https://twitter.com/BecksZeena",
+      instagram: "https://www.instagram.com/zeenabecksauthor/",
+      facebook: "https://www.tiktok.com/@zeenabecks",
+    },
+    umbrellaGenre: ["romance", "drama"],
+    subGenre: ["Contemporary", "New Adult", "Women's Fiction"],
+    bio: [
+      `Hey, I'm Zeena Becks, an Indie writer from Germany. I write love and life stories about musicians, dancers, travellers, and equestrians, since those are my favourite hobbies as well. My stories are either set in Germany or England, but they are all written in English (British English).`,
+      `Other interests of mine are yoga, psychology (especially inner child work), and love. Love is a must in every book I read. It definitely can be found in every one of mine as well.=)`,
+    ],
+  },
+  {
+    firstName: "JC",
+    lastName: "Paulson",
+    website: "https://www.jcpaulsonwriter.com/",
+    socialMedia: {
+      twitter: "https://twitter.com/joanne_paulson",
+      instagram: "https://www.facebook.com/jcpaulsonauthor/",
+      facebook: "https://www.instagram.com/paulson.joanne/",
+    },
+    umbrellaGenre: ["thriller", "childrens"],
+    subGenre: ["Mystery Romance"],
+    bio: [
+      `Joanne (J.C.) Paulson, a long-time Saskatoon journalist, has been published in newspapers including The StarPhoenix, The Western Producer, the Saskatoon Express, allSaskatchewan and a variety of magazines.`,
+      `She is the author of an independently-published mystery series including the novels Adam’s Witness, Broken Through, Fire Lake, Griffin’s Cure, and Two Hundred Bones, a novella. She has also written a historical fiction/western novel entitled Blood and Dust, and a wee children’s book, Magic Mack and The Mischief-Makers.`,
+    ],
+  },
+  {
+    firstName: "Tina McLachlan",
+    lastName: "Brassington",
+    website: "https://travelsintheeastandoest.com/",
+    socialMedia: {
+      tiktok: "https://tiktok.com/@tinamcbauthor",
+      instagram: "https://instagram.com/tinamcbauthor",
+      facebook: "https://www.facebook.com/profile.php?id=100087952794320",
+    },
+    umbrellaGenre: ["thriller"],
+    subGenre: ["Cosy Mystery"],
+    bio: [
+      `After years of studying and working in boring stuff like City banking, business and law, Tina (a Scot) retrained as a further education teacher, which she enjoyed enormously.`,
+      `She then moved abroad and rebuilt and developed a derelict farm into a successful eco small holding business with her husband.`,
+      `Latterly, after bidding a fond farewell to the farm and menagerie, Tina is now sailing around the Med with her husband and cat - there was no room for the pigs, goats, turkeys, hens, ducks and geese, sadly...`,
+      `Between writing and travelling, she enjoys taking on silly roles in TV advertising and doing voice overs.`,
     ],
   },
 ];
