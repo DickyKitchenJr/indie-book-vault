@@ -953,4 +953,18 @@ I am not a particularly physical being. I was always terrible at sport and have 
       `Between writing and travelling, she enjoys taking on silly roles in TV advertising and doing voice overs.`,
     ],
   },
+  {
+    firstName: "R. M.",
+    lastName: "Krogman",
+    website: "https://rmkrogman.com/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/r.m.krogman",
+      facebook: "https://www.facebook.com/rmkrogman",
+    },
+    umbrellaGenre: ["fantasy"],
+    subGenre: ["Epic/High/Dark"],
+    bio: [
+      `Rebecca M. Krogman is an epic and dark adult fantasy from the central U.S. Her debut novel LIBERATION is the first volume of a larger story set in Midgate, a medieval-inspired world of magic, mermaids, and wyverns.`,
+    ],
+  },
 ];
