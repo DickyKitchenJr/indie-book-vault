@@ -41,7 +41,7 @@ function AboutPage() {
           <p className={styles.p}>
             We do this by offering authors a free listing on our site and only
             ask that they include a clearly labeled link to our site on their
-            author site and create at least one social media post telling the
+            author site and create at least one social media promotion telling the
             world about Indie Book Vault. By doing that we create a community
             supported network where readers can find us simply by clicking the
             link on their favorite indie author's site.

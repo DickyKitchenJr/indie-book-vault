@@ -74,7 +74,7 @@ function FaqPage() {
               indie book world and provide this service to help support that
               community. In order to be included in the site we only ask that
               authors include a link to our site on their author website and put
-              out at least one social media post informing the world that we are
+              out at least one social media promotion informing the world that we are
               here.
               <br />
               <i>
@@ -139,19 +139,19 @@ function FaqPage() {
                 website to help readers find us and support the community
               </li>
               <li>
-                The must post at least one social media post informing readers
+                The must create at least one social media promotion informing readers
                 and other writers that we exist
               </li>
               <li>
                 Authors that <span className={styles.underline}>do not</span>{" "}
-                have a website can be considered if they are willing to put
-                monthly social media post up promoting Indie Book Vault
+                have a website can be considered if they are willing to create
+                monthly social media promotions to help readers find Indie Book Vault
               </li>
             </ul>
           </ul>
           <h2 className={styles.h2}>
             Why is it so important that authors include a link or their website
-            for Indie Book Vault or do monthly social media post?
+            for Indie Book Vault or do monthly social media promotions?
           </h2>
           <ul className={styles.ul}>
             <li>
@@ -160,10 +160,10 @@ function FaqPage() {
               spread the word of our existence. The easiest way for an author to
               do this is to include a link to our site on their author website,
               but since not all published authors have a website we offer the
-              option to post monthly on social media as an alternative option.
-              Due to the fleeting nature of a social media post vs the
+              choice to promote monthly on social media as an alternative option.
+              Due to the fleeting nature of a social media promotions vs the
               permanence of a link on a website, we require authors without a
-              website to post monthly on social media.
+              website to promote monthly on social media.
             </li>
           </ul>
           <h2 className={styles.h2}>

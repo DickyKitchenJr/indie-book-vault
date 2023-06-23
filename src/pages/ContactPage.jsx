@@ -31,15 +31,27 @@ function ContactPage() {
                 website to help readers find us and support the community
               </li>
               <li>
-                Authors must post at least one original social media post informing
-                readers and other writers that we exist
+                Author's website must be complete and live. Websites still under
+                construction are not accepted.
+              </li>
+              <li>
+                Authors must create at least one original social media promotion
+                informing readers and other writers that we exist
               </li>
               <li>
                 Authors that <span className={styles.underline}>do not</span>{" "}
-                have a website can be considered if they are willing to put
-                monthly social media post up promoting Indie Book Vault
+                have a website can be considered if they are willing to create
+                monthly social media promotions to help readers find Indie Book
+                Vault
               </li>
             </ul>
+            <br />
+            <p>
+              **Linktree links are not accepted on the application. All links
+              should be full website links (https://...) and not @yourName.
+              Failure to provide correct information may result in rejection of
+              application without notice.**
+            </p>
           </div>
           <AuthorApplication />
           <p className={styles.explanation}>

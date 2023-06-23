@@ -168,7 +168,7 @@ function AuthorApplication() {
           type="text"
           id="website"
           name="website"
-          placeholder="Author Website Address/Link"
+          placeholder="Author Website Address (https://...)"
         />
         <br />
 
@@ -458,7 +458,7 @@ function AuthorApplication() {
           className={styles.text}
           id="social-media"
           name="social media accounts"
-          placeholder="Please include links"
+          placeholder="Please include links; LinkTree NOT accepted"
         />
         <br />
 
