@@ -219,8 +219,7 @@ export const Authors = [
     socialMedia: {
       instagram:
         "https://www.instagram.com/authorhazeljacks/?igshid=YmMyMTA2M2Y=",
-      tiktok:
-        "https://m.facebook.com/authorhazeljacks?wtsid=rdr_0abkJyA3wK2IsUUbE&_rdr",
+      tiktok: "https://www.tiktok.com/@hazeljacksauthor",
       facebook:
         "https://m.facebook.com/authorhazeljacks?wtsid=rdr_0abkJyA3wK2IsUUbE&_rdr",
     },
@@ -925,8 +924,8 @@ I am not a particularly physical being. I was always terrible at sport and have 
     website: "https://www.jcpaulsonwriter.com/",
     socialMedia: {
       twitter: "https://twitter.com/joanne_paulson",
-      instagram: "https://www.facebook.com/jcpaulsonauthor/",
-      facebook: "https://www.instagram.com/paulson.joanne/",
+      facebook: "https://www.facebook.com/jcpaulsonauthor/",
+      instagram: "https://www.instagram.com/paulson.joanne/",
     },
     umbrellaGenre: ["thriller", "childrens"],
     subGenre: ["Mystery Romance"],
@@ -940,7 +939,6 @@ I am not a particularly physical being. I was always terrible at sport and have 
     lastName: "Brassington",
     website: "https://travelsintheeastandoest.com/",
     socialMedia: {
-      tiktok: "https://tiktok.com/@tinamcbauthor",
       instagram: "https://instagram.com/tinamcbauthor",
       facebook: "https://www.facebook.com/profile.php?id=100087952794320",
     },
@@ -965,6 +963,94 @@ I am not a particularly physical being. I was always terrible at sport and have 
     subGenre: ["Epic/High/Dark"],
     bio: [
       `Rebecca M. Krogman is an epic and dark adult fantasy from the central U.S. Her debut novel LIBERATION is the first volume of a larger story set in Midgate, a medieval-inspired world of magic, mermaids, and wyverns.`,
+    ],
+  },
+  {
+    firstName: "Melony",
+    lastName: "Ann",
+    website: "https://www.melonyannauthor.com/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/melonyannauthor",
+      facebook: "https://www.facebook.com/authorsjasonmel",
+    },
+    umbrellaGenre: ["romance"],
+    subGenre: [
+      "Sports Romance",
+      "Mafia Romance",
+      "Paranormal Romance",
+      "Taboo Romance",
+      "MM Romance",
+      "Forbidden Romance",
+    ],
+    bio: [
+      `Melony Ann began writing short stories and poetry as a child. She continued honing her craft over the years until she took the plunge and began publishing her work, despite having severe anxiety.`,
+      `Melony writes contemporary romance stories that are full of suspense and a lot of steam.`,
+      `When she isn’t writing, she is loving her family and working to make her life something she deserves.`,
+      `Melony believes that if her writing can inspire just one person, then all of her hard work is worth it.`,
+      `Her hope is that her writing allows each and every one of her readers to escape for a little while. To dive into a different world one book at a time.`,
+    ],
+  },
+  {
+    firstName: "Tanya",
+    lastName: "Ross",
+    website: "https://www.tanyarossauthor.com/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/tjross_author/",
+      facebook: "http://www.facebook.com/fictionauthor54",
+    },
+    umbrellaGenre: ["dystopian"],
+    subGenre: ["Sci-Fi", "Romance"],
+    bio: [
+      `Tanya Ross was born and raised in San Diego County, her “happy place.” Although Southern California is a particular kind of paradise, she desires a world where everyone is kind, compassionate, and upbeat, which became one of the themes of her first novel, Rising Up. For thirty-two years she was an educator of English, history, AVID, and student leadership. She loved teaching and kids; her students were a daily inspiration. Her exit from the educational arena allowed her to indulge her hopes, dreams, and goals in what she taught for so many years--writing. Her first novel, Rising Up, began her lifelong dream of writing meaningful novels for young adults. When she’s not creating new worlds, you can find her reading, and spending time with her husband and two kids. Discover more on her website:   http://www.tanyarossauthor.com/`,
+    ],
+  },
+  {
+    firstName: "G.M.",
+    lastName: "Chmilar",
+    website: "https://www.gmchmilar.com/books",
+    socialMedia: {
+      instagram: "https://www.instagram.com/ms.c.ingscribbles/",
+    },
+    umbrellaGenre: ["romance", "fantasy"],
+    subGenre: ["Urban/Contemporary", "Action", "Adventure"],
+    bio: [
+      `G.M. Chmilar is a first-generation Filipino-Canadian that grew up in cold Alberta. Her favourite things to share are food and stories, because she believes it's how relationships are made. As a child, Gabrielle always loved to write. She carried notebooks to draw or scribble about how fantastical her life could be if only she could use magic.`,
+      `The first book, Solum, is the first of the series of The Faith of The Three and it is just that. A place where magic lives and exists hiding in plain sight. Inspiration for her writing comes from various television shows, movies, video games, Dungeons and Dragons, and music. All of this is amalgamated into characters and places that are relatable and close to home. She wanted everyone to find something to love in her books.`,
+      `She still lives and works in Alberta. In her spare time, Gabrielle’s wide variety of hobbies keeps her busy such as: video games, baking, longboarding, yoga, and hanging with The Boys.`,
+      `Gabrielle believes that you should always strive to be the person you needed to be when you were younger.`,
+    ],
+  },
+  {
+    firstName: "Sera",
+    lastName: "Cassell",
+    website: "https://www.seracassell.com/",
+    socialMedia: {
+      instagram: "http://www.instagram.com/seracassell/",
+      facebook: "http://www.facebook.com/authorseracass",
+      twitter: "https://twitter.com/seracassell",
+    },
+    umbrellaGenre: ["romance"],
+    subGenre: ["Contemporary"],
+    bio: [
+      `Sera Cassell is addicted to writing fun, steamy romance with feisty heroines and the swoon-worthy heroes who fall for them. Her books always have a happily ever after and more than likely, a nod to her Irish and Scottish heritage. She is living her own happily ever after in New England with her adrenaline junkie husband and their family. In addition to writing, her passions are reading, eating New Haven style pizza, sipping London Fog tea lattes, and chocolate. Any kind. She has never met a piece of chocolate she doesn't like.`,
+    ],
+  },
+  {
+    firstName: "Mia",
+    lastName: "Sivan",
+    website: "https://www.miasivan.com/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/miasivan.author/",
+      facebook: "https://www.facebook.com/MiaSivanAuthor",
+      twitter: "https://twitter.com/FreidlinSivan",
+    },
+    umbrellaGenre: ["romance"],
+    subGenre: ["Contemporary"],
+    bio: [
+      `My name is Mia Sivan`,
+      `I am  an Israeli woman who lives, works and loves in Tel Aviv. The city is as much a part of my books as any other character.`,
+      `I worked as a senior investment manager for many years, and the books I write draw much from my personal experience, as well as real-life scams that took place in the Israeli financial market.`,
+      `When not writing or dreaming up steamy scenes, I enjoy long walks by the beach (it’s Tel Aviv, it’s never too cold).`,
     ],
   },
 ];
