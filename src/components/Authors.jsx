@@ -1146,4 +1146,22 @@ I am not a particularly physical being. I was always terrible at sport and have 
       `Grab a coffee, we’ve got some stories to share.`,
     ],
   },
+  {
+    firstName: "C.",
+    lastName: "D'Angelo",
+    website: "https://cdangeloauthor.com/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/c.dangelo.author/",
+      facebook: "https://www.facebook.com/C.DAngelo.Author/",
+      twitter: "https://twitter.com/CDAngeloAuthor",
+      goodreads: "http://www.goodreads.com/cdangeloauthor",
+      tiktok: "http://www.tiktok.com/@cdangeloauthor",
+    },
+    umbrellaGenre: ["drama"],
+    subGenre: ["Women's Fiction", "Chick Lit with Romance Thread"],
+    bio: [
+      `C. D’Angelo is the award-winning Women’s Fiction author of The Difference and The Visitor, whose novels consist of relatable stories of the Italian American culture, bursting with food, tradition, history, travel, and quirky characters. When not writing, she can be found at home in Florida enjoying time with her husband, playing ukulele, drawing, crocheting, and partaking in a variety of other artistic endeavors.`,
+      `Find out details about C. D’Angelo’s books, get freebies from her newsletter, and more at: www.CDAngeloAuthor.com`,
+    ],
+  },
 ];
