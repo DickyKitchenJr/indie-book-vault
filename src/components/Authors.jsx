@@ -909,7 +909,7 @@ I am not a particularly physical being. I was always terrible at sport and have 
     socialMedia: {
       twitter: "https://twitter.com/BecksZeena",
       instagram: "https://www.instagram.com/zeenabecksauthor/",
-      facebook: "https://www.tiktok.com/@zeenabecks",
+      tiktok: "https://www.tiktok.com/@zeenabecks",
     },
     umbrellaGenre: ["romance", "drama"],
     subGenre: ["Contemporary", "New Adult", "Women's Fiction"],
@@ -1158,10 +1158,57 @@ I am not a particularly physical being. I was always terrible at sport and have 
       tiktok: "http://www.tiktok.com/@cdangeloauthor",
     },
     umbrellaGenre: ["drama"],
-    subGenre: ["Women's Fiction", "Chick Lit with Romance Thread"],
+    subGenre: ["Women's Fiction/Chick Lit with a Romance Thread"],
     bio: [
       `C. D’Angelo is the award-winning Women’s Fiction author of The Difference and The Visitor, whose novels consist of relatable stories of the Italian American culture, bursting with food, tradition, history, travel, and quirky characters. When not writing, she can be found at home in Florida enjoying time with her husband, playing ukulele, drawing, crocheting, and partaking in a variety of other artistic endeavors.`,
       `Find out details about C. D’Angelo’s books, get freebies from her newsletter, and more at: www.CDAngeloAuthor.com`,
+    ],
+  },
+  {
+    firstName: "Allie",
+    lastName: "Samberts",
+    website: "https://alliesamberts.com/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/alliesambertswrites/",
+      facebook: "https://www.facebook.com/profile.php?id=100088651039907",
+      tiktok: "https://www.tiktok.com/@alliesamberts",
+    },
+    umbrellaGenre: ["romance"],
+    subGenre: ["Contemporary Romance", "Romantic Comedy"],
+    bio: [
+      `Allie Samberts is a romance writer, book lover, and high school English teacher. She was voted funniest teacher of the year for 2023 by her students, which is probably her highest honor to date. She is also a runner, and enjoys knitting and sewing. She lives in the Chicago suburbs with her husband, two kids, and a very loud beagle. You can follow her on Instagram @alliesambertswrites, read her blog at alliesamberts.substack.com, and get other updates at www.alliesamberts.com.`,
+    ],
+  },
+  {
+    firstName: "Bridget",
+    lastName: "Van der Eyk",
+    website: "https://www.10datesnovel.com/",
+    socialMedia: {
+      instagram: "http://www.instagram.com/10datesnovel",
+      facebook: "http://www.facebook.com/10datesnovel",
+      tiktok: "http://www.tiktok.com/10datesnovel",
+    },
+    umbrellaGenre: ["romance"],
+    subGenre: ["Contemporary Romance"],
+    bio: [
+      `Bridget Van der Eyk is an up and coming contemporary romance author - “10 Dates” is her debut novel. She lives in country NSW, Australia on a 5-acre property with her husband (Josh), 2 children (Zoe and Max), and 2 dogs (Kevin and Stella).`,
+      `Apart from being published, her dream for “10 Dates” is to see it be turned into a Netflix mini-series starring Kendall Jenner and Harry Styles.`,
+      `When Bridget is not working a full-time teaching job or binging Korean zombie shows on Netflix, she is busy writing her next novel. "3000 Words" (the sequel to "10 Dates" is due to release at the end of 2023).`,
+    ],
+  },
+  {
+    firstName: "Monique",
+    lastName: "Edenwood",
+    website: "https://moniqueedenwood.com/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/monique_edenwood_author/",
+      facebook: "https://www.facebook.com/moniqueedenwood",
+      tiktok: "https://www.tiktok.com/@moniqueedenwood",
+    },
+    umbrellaGenre: ["romance"],
+    subGenre: ["Dark Romance"],
+    bio: [
+      `Award-winning author of deliciously dark romantic suspense including the Black Oak series and the Hunger duet.`,
     ],
   },
 ];
