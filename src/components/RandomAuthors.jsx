@@ -18,6 +18,7 @@ function RandomAuthors({ authors }) {
 
   return (
     <>
+    {/* if there are no authors to populate the page */}
       {authors.length === 0 ? (
         <div className={styles.awaitingAuthors}>
           <h3 className={styles.awaitingH3}>Awaiting Authors</h3>
@@ -33,6 +34,7 @@ function RandomAuthors({ authors }) {
         </div>
       ) : (
         <>
+        {/* if there are authors to populate the page */}
           <div className={styles.authorsListed}>
             {authors.map((author) => {
               return (
@@ -93,7 +95,7 @@ function RandomAuthors({ authors }) {
                     </p>
                     <p className={styles.authorBoxModalArrow}>▼</p>
                   </div>
-
+                  {/* information to be shown when modal is open */}
                   {isModalOpen &&
                   authorID === author.lastName + author.number ? (
                     <div
