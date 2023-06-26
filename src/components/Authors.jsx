@@ -1103,7 +1103,7 @@ I am not a particularly physical being. I was always terrible at sport and have 
       instagram: "https://www.instagram.com/billiejadekermackauthor",
     },
     umbrellaGenre: ["romance", "horror", "comedy"],
-    subGenre: ["Friends-Lovers", "Murder Mystery", "Paranormal"],
+    subGenre: ["Contemporary Romance", "Murder Mystery", "Paranormal"],
     bio: [
       `Billie Jade Kermack was born and raised in London, England. She lives with her partner, three kids and her dippy dog Gus. As well as being an author Billie Jade works as a Makeup and SFX artist and a doll maker.`,
       `Her love of horror, murder mystery and magic inspired her to create her first paranormal romance trilogy AWOKEN, ASCEND & HALLOWED.`,
@@ -1125,6 +1125,25 @@ I am not a particularly physical being. I was always terrible at sport and have 
       `Tori Alvarez is an educator by day and author by night. She spent her days daydreaming different stories and scenes so she finally took the plunge and began putting them down on paper.`,
       `She writes real, honest romance with a hint of steam. She is a sucker for happily ever afters, so you will always find them in her books too.`,
       `Tori is a Texas girl, born and raised. She lives in South Central Texas with her husband, teen daughter, dog & cat.`,
+    ],
+  },
+  {
+    firstName: "Michelle",
+    lastName: "Schmer",
+    website: "https://coffeefitnessunicorn.com/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/coffeefueledstories/",
+    },
+    umbrellaGenre: ["nonfiction"],
+    subGenre: ["Memoir", "Travel", "Fitness"],
+    bio: [
+      `Who is Michelle Schmer? I am a goofball who loves coffee and sharing stories while consuming copious amounts of coffee. My favorite coffee drink is a cappuccino; I was a 16 when I fell in love with this delicious liquid and have been hooked on this balanced espresso beverage ever since.`,
+      `My website, blog, podcast, and book are meant to be silly and entertaining, but mostly, I hope we connect.`,
+      `I got my MA in double literature because I feel we connect through stories. Telling stories while drinking coffee feels very comforting and relaxing.`,
+      `My hope, my mission, is that you’ll stay, read, and share these tales. I believe books connect people, coffee connects people, my podcast connects people.`,
+      `Read, drink, listen, and hangout.`,
+      `Thank you for visiting my virtual coffee spot.`,
+      `Grab a coffee, we’ve got some stories to share.`,
     ],
   },
 ];
