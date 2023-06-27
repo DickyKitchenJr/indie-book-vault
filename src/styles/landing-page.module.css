@@ -4,10 +4,6 @@
   font-display: swap;
 }
 
-.fullPage {
-  backdrop-filter: blur(3px);
-}
-
 .h2 {
   font-family: "Castoro", Georgia, "Times New Roman", Times, serif;
   text-align: center;
