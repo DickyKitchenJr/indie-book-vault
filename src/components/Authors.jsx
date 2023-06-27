@@ -1211,4 +1211,19 @@ I am not a particularly physical being. I was always terrible at sport and have 
       `Award-winning author of deliciously dark romantic suspense including the Black Oak series and the Hunger duet.`,
     ],
   },
+  {
+    firstName: "Andre",
+    lastName: "Gonzalez",
+    website: "http://www.andregonzalez.net/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/monito0408/",
+      facebook: "https://www.facebook.com/groups/andregonzalezreaders/",
+    },
+    umbrellaGenre: ["thriller"],
+    subGenre: ["Time Travel"],
+    bio: [
+      `Andre Gonzalez is the international bestselling author of the Wealth of Time Series, and co-owner of M4L Publishing. He writes time-travel, thriller, and horror books after spending many years reading and studying the works of Stephen King and Dean Koontz. Keeping readers up late and their hearts pumping a bit faster than normal is his ultimate goal when cracking open one of his books. Andre is the recipient of the Rocky Mountain Fiction Writers 2021 Independent Writer of the Year award.`,
+      `When he’s not writing, you can find Andre buried underneath a long to-do list and/or his three hyper children. He and his wife are raising their family in their hometown of Denver, CO.`,
+    ],
+  },
 ];
