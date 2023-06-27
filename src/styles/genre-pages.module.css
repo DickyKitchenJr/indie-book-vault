@@ -16,6 +16,8 @@
   }
 }
 
+/* to ensure website covers the screen even when there isn't enough content */
+
 .main{
   min-height: 67vh;
 }
@@ -25,6 +27,8 @@
     min-height: 74vh;
   }
 }
+
+/* for when there are no authors to list */
 
 .awaitingAuthors {
   padding-top: 5rem;
@@ -52,6 +56,8 @@
     font-size: 1.4vw;
   }
 }
+
+/* for when there are authors to list */
 
 .authorsListed{
   font-family: Georgia, "Times New Roman", Times, serif;
@@ -115,16 +121,19 @@
   }
 }
 
+/* for when modal is open */
+
 .authorModal{
   background-color: hsla(168, 35%, 19%, 0.7);
-  position: absolute;
+  position: fixed;
   width: 100%;
   height: 100%;
   z-index: 100;
   display: flex;
   justify-content: center;
   top: 50%;
-  transform: translate(0, -50%);
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 .modalInfo{

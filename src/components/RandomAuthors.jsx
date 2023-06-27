@@ -18,7 +18,7 @@ function RandomAuthors({ authors }) {
 
   return (
     <>
-    {/* if there are no authors to populate the page */}
+      {/* if there are no authors to populate the page */}
       {authors.length === 0 ? (
         <div className={styles.awaitingAuthors}>
           <h3 className={styles.awaitingH3}>Awaiting Authors</h3>
@@ -34,11 +34,12 @@ function RandomAuthors({ authors }) {
         </div>
       ) : (
         <>
-        {/* if there are authors to populate the page */}
+          {/* if there are authors to populate the page */}
           <div className={styles.authorsListed}>
             {authors.map((author) => {
               return (
                 <>
+                {/* author box showing abreviated author info for user to click to open modal */}
                   <div
                     className={styles.authorBox}
                     key={authors[authors.indexOf(author)] + author.lastName}
