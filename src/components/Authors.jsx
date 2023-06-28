@@ -1226,4 +1226,90 @@ I am not a particularly physical being. I was always terrible at sport and have 
       `When he’s not writing, you can find Andre buried underneath a long to-do list and/or his three hyper children. He and his wife are raising their family in their hometown of Denver, CO.`,
     ],
   },
+  {
+    firstName: "Josephine",
+    lastName: "Strand",
+    website: "https://josephinestrand.com/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/authorjstrand/",
+      facebook: "https://www.facebook.com/jstrandauthor",
+      twitter: "https://twitter.com/J_Strand05",
+    },
+    umbrellaGenre: ["romance"],
+    subGenre: ["Sweet Contemporary"],
+    bio: [
+      `Josephine Strand was born in Italy, grew up in South Africa, and is a long-time resident of the United States. She discovered her love of books when she was introduced to her town’s public library at the age of eight. At nine, she gained her English teacher’s praise with her short story The Library at Midnight. She hasn’t stopped writing since, though Misty Dreams is her first published novel. Her travels between the three continents have strengthened her love for the sea and the outdoors. It’s no surprise that Misty Dreams is set on a small tropical island. When not writing or absorbed in the latest gripping page-turner, she loves to cook and enjoys long nature walks.`,
+    ],
+  },
+  {
+    firstName: "Lorissa",
+    lastName: "Padilla",
+    website: "https://www.lorissapadilla.com/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/lorissapadilla",
+      twitter: "http://tiktok.com/@lorissapadilla",
+    },
+    umbrellaGenre: ["romance"],
+    subGenre: ["Closed Door", "New Adult", "Contemporary Romance"],
+    bio: [
+      `Lorissa Padilla lives in New York with her husband, two toddlers and their dog and cat. She has had a passion for reading and writing since she was a little girl. When she isn’t playing with monster trucks and watching Cocomelon with her children - she is reading, writing, and drawing.`,
+    ],
+  },
+  {
+    firstName: "Kelsey",
+    lastName: "Schulz",
+    website: "",
+    socialMedia: {
+      instagram: "https://www.instagram.com/kelseys.corner.of.books/",
+    },
+    umbrellaGenre: ["romance"],
+    subGenre: ["Contemporary"],
+    bio: [
+      `Kelsey Schulz is an indie author based out of Godfrey, Illinois where she is striving to work as a school librarian, while chaotically writing romance novels on the side. She lives with her husband and two sons who keep her active every day. This is her third novel and you can find out more about her future projects by subscribing to her newsletter through Instagram.`,
+    ],
+  },
+  {
+    firstName: "Regina",
+    lastName: "Felty",
+    website: "http://www.rlfelty.com/",
+    socialMedia: {
+      instagram: "http://www.instagram.com/reginafelty",
+    },
+    umbrellaGenre: ["drama"],
+    subGenre: ["General Fiction"],
+    bio: [
+      `REGINA FELTY lives in Arizona with her husband, Andrew, and their energetic rat terrier, Rocco. She spends way too much of her free time listening to Crime Junkie episodes and scrolling through social media when she should be writing.`,
+      `Although she has always written to entertain others, it was during her difficult teen years that Regina turned to writing as a source of personal therapy.`,
+      `Besides dividing her time between being an author and her career as an American Sign Language Educational Interpreter, Regina also manages her personal blog, It’s a Felty Thing, and has a special place in her heart for troubled youth.`,
+      `Her debut novel, While You Walked By, was a finalist for The Wishing Shelf Award.`,
+    ],
+  },
+  {
+    firstName: "Shail",
+    lastName: "Rajan",
+    website: "https://www.shailrajan.com/",
+    socialMedia: {
+      facebook: "https://www.facebook.com/shailrajanauthor",
+      instagram: "https://www.instagram.com/shailrajanauthor/",
+    },
+    umbrellaGenre: ["romance", "drama"],
+    subGenre: ["Women's Fiction"],
+    bio: [
+      `Shail is a women's fiction author whose heartwarming stories are character driven and embrace the role of family, friendships, and food in our everyday lives. Readers have described her books as feel-good reads with characters you'd want as friends and food you'd like to eat.`,
+      `She was born in India, raised in beautiful Upstate NY, and is now settled in Northern California with her husband and three children. When she's not lost in books, she loves spending time with her family, volunteering, cooking, tackling the occasional DIY project, and obsessing over her vegetable garden.`,
+    ],
+  },
+  {
+    firstName: "Stefanie K",
+    lastName: "Steck",
+    website: "http://stefanieksteckbooks.com/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/authorstefanieksteck/",
+    },
+    umbrellaGenre: ["romance"],
+    subGenre: ["Contemporary"],
+    bio: [
+      `Stefanie K Steck is a romance writer, full time dental assistant, army wife and mom of three small humans and four fur babies. In the little spare time she has, you can find her writing, reading, cuddling with her dogs or watching the entire Marvel Cinematic Universe in one sitting.`,
+    ],
+  },
 ];
