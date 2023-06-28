@@ -1246,7 +1246,7 @@ I am not a particularly physical being. I was always terrible at sport and have 
     lastName: "Padilla",
     website: "https://www.lorissapadilla.com/",
     socialMedia: {
-      instagram: "https://www.instagram.com/lorissapadilla",
+      instagram: "https://www.instagram.com/lorissapadillawrites",
       twitter: "http://tiktok.com/@lorissapadilla",
     },
     umbrellaGenre: ["romance"],
@@ -1310,6 +1310,52 @@ I am not a particularly physical being. I was always terrible at sport and have 
     subGenre: ["Contemporary"],
     bio: [
       `Stefanie K Steck is a romance writer, full time dental assistant, army wife and mom of three small humans and four fur babies. In the little spare time she has, you can find her writing, reading, cuddling with her dogs or watching the entire Marvel Cinematic Universe in one sitting.`,
+    ],
+  },
+  {
+    firstName: "Matthew",
+    lastName: "Pearce",
+    website: "http://www.matthew-pearce.squarespace.com/",
+    socialMedia: {
+      facebook: "https://www.facebook.com/authormatthewpearce",
+      instagram: "https://www.instagram.com/author_matthew_pearce/",
+    },
+    umbrellaGenre: ["thriller"],
+    subGenre: ["Supernatural"],
+    bio: [
+      `Hi. I'm Matthew Pearce, author of the Adam Series of thriller novels. I'm a father of two boys, a husband, and I work full time (sadly not writing) although that is the end goal!`,
+      `I love to write and I try to find time to do it, wherever and whenever I can. Books one and two in the series, FEAR and PASSION are done, available now and very soon. Book three is on it's way!`,
+    ],
+  },
+  {
+    firstName: "Alexandra",
+    lastName: "Grace",
+    website: "https://authoralexandragrace.carrd.co/",
+    socialMedia: {
+      facebook: "https://www.facebook.com/authoralexandragrace",
+      instagram: "https://www.instagram.com/authoralexandragrace",
+    },
+    umbrellaGenre: ["romance"],
+    subGenre: ["Contemporary Fiction"],
+    bio: [
+      `Alexandra Grace started writing emotional poetry as a teenager but publishing a novel that made readers feel and appreciate was her dream. It wasn't until her 40s that Alexandra fulfilled that dream, and she had so much fun, that her first novel evolved into a series. She likes to combine her respect for military service men and women with her heartfelt approach to storytelling. All her novels are heartwarming, sweet with heat stories that give lovable veteran heroes the happy ever after they deserve.`,
+      `Alexandra lives in Virginia with her family and is a proud full-time public servant for a local government. She enjoys reading, binge watching action TV series with her husband, and being her kids' biggest cheerleader.`,
+      `She is currently working on completing The Journey Series with books 4 and 5. The final books will give closure and happy ever afters to several of Jackson's friends. Then, it's on to a new series!`,
+    ],
+  },
+  {
+    firstName: "Heather",
+    lastName: "Lynn",
+    website: "https://www.heatherlynnbooks.com/",
+    socialMedia: {
+      facebook: "https://www.facebook.com/skywatcher.hl",
+      instagram: "http://www.instagram.com/skywatcher_hl",
+      twitter: "https://www.twitter.com/skywatcher_hl",
+    },
+    umbrellaGenre: ["romance", "fantasy"],
+    subGenre: ["Time Travel", "Historical Romance", "Women's Fiction"],
+    bio: [
+      `Heather Lynn, born in Toronto, Ontario, lives with her family just north of the city. Her education in biology and health sciences has supported an ongoing interest in physiology and the potential of herbal healing. In addition, she has been intrigued by the possibility and impossibility of time travel since childhood.  When she's not writing, Heather enjoys family time, working in her garden, and learning more about the 'power' of stones.`,
     ],
   },
 ];
