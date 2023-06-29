@@ -1360,4 +1360,18 @@ I am not a particularly physical being. I was always terrible at sport and have 
       `Heather Lynn, born in Toronto, Ontario, lives with her family just north of the city. Her education in biology and health sciences has supported an ongoing interest in physiology and the potential of herbal healing. In addition, she has been intrigued by the possibility and impossibility of time travel since childhood.  When she's not writing, Heather enjoys family time, working in her garden, and learning more about the 'power' of stones.`,
     ],
   },
+  {
+    firstName: "Alicia",
+    lastName: "Hunter",
+    website: "https://aliciahunter.godaddysites.com/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/bxbybubble.jpeg",
+    },
+    umbrellaGenre: ["drama"],
+    subGenre: ["Poetry", "LGBT"],
+    bio: [
+      `Born a Virgo of the first millennium, Alicia became a self-published author of "Among My Tangled Thoughts" at the age of 20. This queer, autistic author expresses her feelings through poems in ways no other outlet has ever allowed, and the poems on her pages will forever tell you more than you could read here.`,
+      `When they aren't writing they can be found at their job at the local metaphysical shop, dancing with their hoops, or spending time with their cats and scrapbooking. Outside of studying for her psychology degree she's involved in Charleston's local activism.`,
+    ],
+  },
 ];
