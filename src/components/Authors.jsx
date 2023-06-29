@@ -739,7 +739,7 @@ I am not a particularly physical being. I was always terrible at sport and have 
     lastName: "Neill",
     website: "",
     socialMedia: {
-      instagram: "https://www.instagram.com/the_shadow_jackal",
+      instagram: "https://www.instagram.com/nsneill_author",
       facebook: "https://www.facebook.com/NSNeillAuthor",
     },
     umbrellaGenre: ["thriller", "horror"],
