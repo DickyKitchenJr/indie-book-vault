@@ -962,7 +962,9 @@ I am not a particularly physical being. I was always terrible at sport and have 
     umbrellaGenre: ["fantasy"],
     subGenre: ["Epic/High/Dark"],
     bio: [
-      `Rebecca M. Krogman is an epic and dark adult fantasy from the central U.S. Her debut novel LIBERATION is the first volume of a larger story set in Midgate, a medieval-inspired world of magic, mermaids, and wyverns.`,
+      `R. M. Krogman is an epic and high fantasy author from the central U.S. She is a fan of nature, creative cooking, and art. She loves world-building, especially defining the foods and dress of a culture, and even has a collection of recipes from Midgate. She also loves drawing scenes and characters from the books, although those sketches may never see the light of day!`,
+      `She has been developing the Keepers of Midgate since she was in high school. The main story line has changed little since then, only gaining more clarity and detail as the characters take on a life of their own. The world has grown in its depth of history, culture, and geography, spawning numerous side stories and prequels.`,
+      `When she’s not writing about Midgate, she’s penning fairy tale retellings.`,
     ],
   },
   {
@@ -1130,7 +1132,7 @@ I am not a particularly physical being. I was always terrible at sport and have 
   {
     firstName: "Michelle",
     lastName: "Schmer",
-    website: "https://coffeefitnessunicorn.com/",
+    website: "https://coffeefueledstories.com/",
     socialMedia: {
       instagram: "https://www.instagram.com/coffeefueledstories/",
     },
