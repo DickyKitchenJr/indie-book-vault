@@ -129,7 +129,7 @@ function AuthorApplication() {
     <>
       <form
         className={styles.form}
-        action="https://formsubmit.co/indiebookvault@gmail.com"
+        action="https://formsubmit.co/698f93e2a9acb27328358ef959c7837d"
         method="POST"
       >
         <h2 className={styles.h2}>Author Application</h2>
@@ -459,6 +459,7 @@ function AuthorApplication() {
           id="social-media"
           name="social media accounts"
           placeholder="Please include links; LinkTree NOT accepted"
+          required
         />
         <br />
 
