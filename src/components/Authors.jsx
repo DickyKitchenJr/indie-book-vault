@@ -1374,4 +1374,50 @@ I am not a particularly physical being. I was always terrible at sport and have 
       `When they aren't writing they can be found at their job at the local metaphysical shop, dancing with their hoops, or spending time with their cats and scrapbooking. Outside of studying for her psychology degree she's involved in Charleston's local activism.`,
     ],
   },
+  {
+    firstName: "Leigh",
+    lastName: "Carron",
+    website: "http://www.leighcarron.com/",
+    socialMedia: {
+      facebook: "https://www.facebook.com/leighcarronebooks",
+      instagram: "https://www.instagram.com/leighcarronauthor/",
+    },
+    umbrellaGenre: ["romance"],
+    subGenre: ["Contemporary"],
+    bio: [
+      `I write sexy, female-positive romances with diverse and perfectly imperfect characters. That’s what makes them interesting to write and, hopefully, to read.`,
+      `As an author and recovering yo-yo dieter who struggled with body image for most of my life, I am inspired by the theme of embracing your body regardless of its shape and size and discovering your own intrinsic worth. I want to bring my readers stories that are real, relatable, and entertaining—where strong protagonists with hidden truths and troubled pasts tug at your heartstrings, turn you on, and have you cheering for a beautiful, forever love.`,
+      `Originally from Cleveland, Ohio, I’m now a proud adopted Canuck, living in Calgary, Alberta, with my husband, daughter, and our Havanese, who thinks he’s a baby. The winters are frigid, but the sun shines 335 days of the year. Tanning in a parka—it happens! Most nights, you will find me sitting at my computer, tapping out the countless storylines in my head.`,
+      `I liken writing a great romance to a box of Godiva—decadent and delicious! You can’t stop at just one.`,
+    ],
+  },
+  {
+    firstName: "KC",
+    lastName: "Bear",
+    website: "https://kc-bear-gufvsd.mailerpage.io/",
+    socialMedia: {
+      facebook: "https://www.facebook.com/kcbear.author",
+    },
+    umbrellaGenre: ["romance"],
+    subGenre: ["Erotica", "Contemporary"],
+    bio: [
+      `KC Bear has been writing as an amateur her entire life, and has many works in progress she's in the middle of writing; maybe one day, the voices in her head will actually help her finish something and get it published ;) Her writing plans include romance that blurs the line into erotica, women who love other women, supernatural romance with werewolves, vampires, and hybrids - oh my!`,
+      `While she can't experience fangs or wolfing out, she does know a thing or two about BDSM, which plays heavily into her novels. With darker themes of sadism, unconventional relationships with menages, and cursing like a sailor, her writings aren't meant for younger eyes.`,
+      `When she isn't writing or creating entire worlds in her head, she spends her days in Kentucky with her very own Dominant and Pandora the spoiled cat on their 10 acres.`,
+    ],
+  },
+  {
+    firstName: "T M",
+    lastName: "Rowe",
+    website: "http://www.tmrowe.com/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/tonimaree.rowe/",
+      twitter: "https://twitter.com/tmrowe70",
+    },
+    umbrellaGenre: ["fantasy"],
+    subGenre: ["Historical Fantasy"],
+    bio: [
+      `In the time BC (Before Children) Toni-maree was a fair to middling archaeologist and now she is a fair to middling writer who loves to write about the past often with a fantasy twist. Her love of storytelling, myths, legends and fantasy all play a part in her novels – ‘The Adventures of Sarah Tremayne’. When she is not writing you can find her volunteering in the archaeology department of the Auckland Museum or with the New Zealand Archaeological Association as part of their Archaeology Week events. Her other passions include beachcombing and long dog walks in addition to her side hustle of creating art from her beachcombed finds…oh and then there is the whole mother and wife shenanigans!`,
+    ],
+  },
 ];
