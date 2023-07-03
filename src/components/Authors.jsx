@@ -1420,4 +1420,18 @@ I am not a particularly physical being. I was always terrible at sport and have 
       `In the time BC (Before Children) Toni-maree was a fair to middling archaeologist and now she is a fair to middling writer who loves to write about the past often with a fantasy twist. Her love of storytelling, myths, legends and fantasy all play a part in her novels – ‘The Adventures of Sarah Tremayne’. When she is not writing you can find her volunteering in the archaeology department of the Auckland Museum or with the New Zealand Archaeological Association as part of their Archaeology Week events. Her other passions include beachcombing and long dog walks in addition to her side hustle of creating art from her beachcombed finds…oh and then there is the whole mother and wife shenanigans!`,
     ],
   },
+  {
+    firstName: "D.E.",
+    lastName: "Bartley",
+    website: "http://www.debartley.com/",
+    socialMedia: {
+      facebook: "http://www.facebook.com/debartleywriter",
+      instagram: "http://www.instagram.com/debartleywriter",
+    },
+    umbrellaGenre: ["romance"],
+    subGenre: ["Dark Romance", "Supernatural", "Reverse Harem"],
+    bio: [
+      `D.E.Bartley spent her life writing stories in notebooks, until one day she decided to finally publish her first book "Rogue". Since then there has been no stopping her and she has never been happier.`,
+    ],
+  },
 ];
