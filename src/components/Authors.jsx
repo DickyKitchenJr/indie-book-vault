@@ -1441,6 +1441,7 @@ I am not a particularly physical being. I was always terrible at sport and have 
     socialMedia: {
       facebook: "https://www.facebook.com/KimberlyAnnAuth/",
       instagram: "https://www.instagram.com/kimberlyannbooks/",
+      tiktok: "https://www.tiktok.com/@kimberlyannauth",
     },
     umbrellaGenre: ["romance"],
     subGenre: ["Small Town", "Contemporary"],
@@ -1478,6 +1479,21 @@ I am not a particularly physical being. I was always terrible at sport and have 
     bio: [
       `Lily Lawson is a poet, children’s and short story writer living in the UK. In addition to her books, she has published poetry, short stories, and creative non-fiction in anthologies and online.`,
       `Find out about Lily and read more of her work on her website: lilyswritinglife.com.  Subscribers to her newsletter, Life with Lily, are the first to hear all her writing news.`,
+    ],
+  },
+  {
+    firstName: "Claudia",
+    lastName: "Klein",
+    website: "",
+    socialMedia: {
+      instagram: "https://www.instagram.com/claudiakleinauthor/",
+      facebook: "https://www.facebook.com/claudiakleinauthor",
+      tiktok: "https://www.tiktok.com/@claudiakleinauthor",
+    },
+    umbrellaGenre: ["fantasy"],
+    subGenre: ["Epic Fantasy"],
+    bio: [
+      `Claudia Klein began writing as soon as she could spell. She began her first full length fantasy novel in high school soon after reading The Lord of the Rings for the first time for British Literature class. She's been writing fantasy ever since. Though she didn't study writing in college, she founded a women's writing club for the women of her university. Soon after college she was introduced to the Indie author world and knew it was for her. She's been publishing her books ever since.`,
     ],
   },
 ];
