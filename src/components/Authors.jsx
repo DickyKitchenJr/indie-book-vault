@@ -1434,4 +1434,50 @@ I am not a particularly physical being. I was always terrible at sport and have 
       `D.E.Bartley spent her life writing stories in notebooks, until one day she decided to finally publish her first book "Rogue". Since then there has been no stopping her and she has never been happier.`,
     ],
   },
+  {
+    firstName: "Kimberly",
+    lastName: "Ann",
+    website: "https://www.kimberlyannauthor.com/",
+    socialMedia: {
+      facebook: "https://www.facebook.com/KimberlyAnnAuth/",
+      instagram: "https://www.instagram.com/kimberlyannbooks/",
+    },
+    umbrellaGenre: ["romance"],
+    subGenre: ["Small Town", "Contemporary"],
+    bio: [
+      `Kimberly Ann lives in BC, Canada with her husband, two children and ridiculously cute German Shepherd. When she’s not dreaming of stories, she homeschools her two children as they explore the world together, reads anything she can get her hands on, and drinks a lot of coffee.`,
+      `Growing up with her head lost in a book, it was no surprise when she picked up a pen, or her laptop, to write her own. Kimberly Ann’s stories are based on the world around her as she brings her imagination to life with stories of small towns, swoon-worthy men, and the women that keep them on their toes.`,
+    ],
+  },
+  {
+    firstName: "Collings",
+    lastName: "MaCrae",
+    website: "http://collingsmaccrae.com/",
+    socialMedia: {
+      instagram: "https://instagram.com/collings_maccrae",
+      twitter: "https://twitter.com/CollingsMacCrae",
+      tiktok: "https://tiktok.com/@collingsmaccrae",
+    },
+    umbrellaGenre: ["thriller"],
+    subGenre: ["Mystery", "Crime"],
+    bio: [
+      `Collings MacCrae writes Fox Argall Mysteries, a mystery thriller series starring a neurodiverse, wildly overeducated detective. The series focuses on the relationships surrounding Fox, as the ensemble cast unravels twisty mysteries.`,
+      `Collings grew up in Appalachia in a wildly neurodiverse family. She may also be at least mildly over-educated.`,
+    ],
+  },
+  {
+    firstName: "Lily",
+    lastName: "Lawson",
+    website: "https://www.lilyswritinglife.com/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/poeticrainbow9/",
+      twitter: "https://twitter.com/lifelovelily22",
+    },
+    umbrellaGenre: ["childrens"],
+    subGenre: ["Poetry"],
+    bio: [
+      `Lily Lawson is a poet, children’s and short story writer living in the UK. In addition to her books, she has published poetry, short stories, and creative non-fiction in anthologies and online.`,
+      `Find out about Lily and read more of her work on her website: lilyswritinglife.com.  Subscribers to her newsletter, Life with Lily, are the first to hear all her writing news.`,
+    ],
+  },
 ];
