@@ -1532,7 +1532,7 @@ I am not a particularly physical being. I was always terrible at sport and have 
     socialMedia: {
       instagram: "https://www.instagram.com/StephanieM.Matthews/",
       facebook: "https://www.facebook.com/StephanieMMatthews/",
-      tiktok: "https://twitter.com/@smm_author/",
+      twitter: "https://twitter.com/@smm_author/",
     },
     umbrellaGenre: ["thriller", "horror"],
     subGenre: ["Supernatural"],
