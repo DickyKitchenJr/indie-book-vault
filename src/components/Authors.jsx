@@ -1542,4 +1542,23 @@ I am not a particularly physical being. I was always terrible at sport and have 
       `When not writing, or working, Stephanie enjoys training for obstacle course races, playing hockey badly, and fueling her passion for Ancient Rome.`,
     ],
   },
+  {
+    firstName: "Julie",
+    lastName: "Embleton",
+    website: "https://www.julieembleton.com/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/julieembletonauthor/",
+      tiktok: "https://www.tiktok.com/@julieembletonauthor",
+    },
+    umbrellaGenre: ["fantasy"],
+    subGenre: [
+      "Shifter and Vampire Romance",
+      "Epic Fantasy",
+      "Dystopian Romance",
+    ],
+    bio: [
+      `Julie Embleton is a paranormal fantasy author from Dublin, Ireland. She writes tenacious, kick-ass females who can rescue themselves, thanks very much, gutsy heroes with tender hearts, and heinous villains who thrive on chaos. Her stories weave suspense, romance, and magick, mostly with happy endings, but she does enjoy leaving her readers hanging with the occasional cliffhanger. Julie lives by the shores of the moody Irish Sea, and when not writing, can be found with her second great love; tarot. Her Me-Time typically includes reading, enjoying the outdoors, or watching Turkish soap operas.`,
+      `Want to be the first to hear about new releases, giveaways, and exclusive sneak peeks? Sign up to Julie’s newsletter by visiting www.julieembleton.com`,
+    ],
+  },
 ];
