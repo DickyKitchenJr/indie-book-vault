@@ -1561,4 +1561,22 @@ I am not a particularly physical being. I was always terrible at sport and have 
       `Want to be the first to hear about new releases, giveaways, and exclusive sneak peeks? Sign up to Julie’s newsletter by visiting www.julieembleton.com`,
     ],
   },
+  {
+    firstName: "J.M.",
+    lastName: "Irving",
+    website: "",
+    socialMedia: {
+      instagram: "https://instagram.com/jmirvinggauthor",
+    },
+    umbrellaGenre: ["fantasy", "thriller", "horror"],
+    subGenre: [
+      "Murder-Mystery",
+      "True Crime",
+      "Psychological Thriller",
+      "Suspense",
+    ],
+    bio: [
+      `J.M. Irving is a 25 year old author, born in Clovis, New Mexico, but currently lives in the great state of Texas. He's written the thrillers, "BRITAIN'S BAY"  "MR.POSTMAN", "ELECTRIFY: A SUPERHERO THRILLER," and "PERMAFROST: AN ELECTRIFY NOVELLA."`,
+    ],
+  },
 ];
