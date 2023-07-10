@@ -1579,4 +1579,26 @@ I am not a particularly physical being. I was always terrible at sport and have 
       `J.M. Irving is a 25 year old author, born in Clovis, New Mexico, but currently lives in the great state of Texas. He's written the thrillers, "BRITAIN'S BAY"  "MR.POSTMAN", "ELECTRIFY: A SUPERHERO THRILLER," and "PERMAFROST: AN ELECTRIFY NOVELLA."`,
     ],
   },
+  {
+    firstName: "Angela",
+    lastName: "Cairns",
+    website: "https://www.angelacairnsauthor.co.uk/",
+    socialMedia: {
+      facebook: "https://www.facebook.com/angelacairnsauthor",
+      instagram: "https://www.instagram.com/angelacairnsauthor/",
+    },
+    umbrellaGenre: ["romance"],
+    subGenre: ["Contemporary", "Historical"],
+    bio: [
+      `Hi, I'm Angela Cairns and I write enthralling romantic fiction, historical and contemporary with heart, soul and courage.`,
+      `In my books you will find resilient, relatable heroines with warm hearts who are trying to do the next right thing, despite difficult circumstances.`,
+      `My books are for the stickers and fighters who get knocked down and get right back up again, bruised but not broken. For people who love people and life in all its messy glory. The carers and romantics at heart who dream of real love and happy endings.`,
+      `Those who know they have more to give.`,
+      `They are for those who reflect on what is in their heart, long to speak their truth, and who know the life they seek is out there.`,
+      `If you believe in friends, found-family, love and the joy that peace and fulfilment brings. If you want that connection.`,
+      `Pick up my books today.`,
+      `Angela`,
+      `Author, Writing Coach, Broadcaster, Physiotherapist, Holistic Therapist, Wife, Mum, Owned by Gordon Setters, Believer in Better`,
+    ],
+  },
 ];
