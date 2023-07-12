@@ -1601,4 +1601,25 @@ I am not a particularly physical being. I was always terrible at sport and have 
       `Author, Writing Coach, Broadcaster, Physiotherapist, Holistic Therapist, Wife, Mum, Owned by Gordon Setters, Believer in Better`,
     ],
   },
+  {
+    firstName: "Nannette",
+    lastName: "Kreitzman",
+    website: "",
+    socialMedia: {
+      instagram: "https://www.instagram.com/netts_shorts/",
+    },
+    umbrellaGenre: [
+      "romance",
+      "fantasy",
+      "scifi",
+      "drama",
+      "western",
+      "thriller",
+      "horror",
+    ],
+    subGenre: ["Short Stories", "Anthologies"],
+    bio: [
+      `I’m a retired stay at home mom and happy empty nester. I spend my morning walks dreaming up short story ideas but, despite my carefully laid plans, my characters always manage to change things up! I’ve learned to pay attention to them though, they’re usually right.`,
+    ],
+  },
 ];
