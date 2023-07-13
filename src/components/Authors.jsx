@@ -1622,4 +1622,81 @@ I am not a particularly physical being. I was always terrible at sport and have 
       `I’m a retired stay at home mom and happy empty nester. I spend my morning walks dreaming up short story ideas but, despite my carefully laid plans, my characters always manage to change things up! I’ve learned to pay attention to them though, they’re usually right.`,
     ],
   },
+  {
+    firstName: "Laura",
+    lastName: "Lyndhurst",
+    website: "",
+    socialMedia: {
+      instagram: "https://www.instagram.com/lyndhurstlaura/",
+      facebook: "https://www.facebook.com/lauralyndhurstauthor",
+      goodreads:
+        "https://www.goodreads.com/author/show/20336562.Laura_Lyndhurst",
+    },
+    umbrellaGenre: ["thriller"],
+    subGenre: [
+      "Literary Fiction",
+      "Psychological Suspense Thrillers",
+      "Social Commentrary Free Verse",
+    ],
+    bio: [
+      `I was born and grew up in North London, England, but was unable to attend university when young due to family financial circumstances. Instead, I worked at various occupations, including dental nurse, laboratory assistant and shop assistant.`,
+      `I married just before I was 20, and travelled to some interesting places around the world, following my husband’s career. I spent much time reading, a passion, but in order to keep further occupied I took office jobs when these were available to me; I hated the work, but the money was useful.`,
+      `When we were back in the UK I took evening classes at various times and gained ‘A’ levels in Psychology, Sociology and English, eventually settling in Kent with my husband and becoming a mature student and gaining Bachelor's and Master's degrees in English and Literature before training and working as a teacher.`,
+      `In 2016 we moved to the peace and quiet of rural Lincolnshire, and my sporadic writing activities became more permanent. I self-published Fairytales Don't Come True, my debut novel, in May 2020 and since then have written and published four books of poetry, October Poems, Thanksgiving Poems & Prose Pieces, Poet-Pourri and Social Climbing and Other Poems.`,
+      `In January 2021 I published a sequel to Fairytales entitled Degenerate, Regenerate, and at the end of March 2021 I published a psychological suspense story, You Know What You Did. A third book was published in June 2021, entitled All That We Are Heir To, to make up the 'Criminal Conversation' trilogy with Fairytales and Degenerate, In November 2022 I published another psychological suspense story, What Else Did You Do?, which is a sequel to You Know What You Did. The work didn't stop, as alongside this sequel I was writing a fourth book to follow the 'Criminal Conversation' trilogy. Entitled 'Innocent, Guilty'. It was published in January 2023, and a fifth book, 'The Future of Our House' came out in June 2023. The sixth and final book in the series is my current work in progress. I try to go for a long walk each day (weather permitting; I’m a fair-weather walker) in the beautiful countryside around us, and exercise for a couple of hours each morning, including use of a hula-hoop and stepping machine. I love food and drink and have spent half my life battling a weight problem. I managed to lose 5 stone of unfortunately-gained weight a few years ago and am determined to never regain it, Unfortunately however Covid and lockdown thwarted those plans, but at least I haven't put it all back on. Hopefully in 2023 I will manage to lose the excess. Life's certainly not fair in that respect, as every other day is a diet day (for hubby too) but the weight still came back. When not being careful--more often than is desirable these days--we enjoy a good meal with wine.`,
+      `For other leisure activities I have taught myself to play the recorder--badly, but it keeps the brain cells ticking over. I also listen to music of many types; Tracy Chapman is playing while I write this, and will later be replaced by Leonard Cohen or Katie Melua or any one of dozens of other artists, or by some classical music or opera, another passion.`,
+      `And of course there’s reading, something which I have loved since I was a child. I became a convert to eBooks and subscribed to the Kindle Unlimited programme, because although I love physical books, my bookcases are groaning under the weight and I don’t have room for any more. I review everything I read, since I became an author myself and realise the value of these in getting our work in front of as many eyes as possible; but it does mean that I have a large virtual To Be Read pile!`,
+      `In late 2021 I undertook some editorial training and freelance work as a sub-editor. I terminated that work in late 2022, but have my hands full with writing my own books and reviewing those of others. Life is busy and certainly not boring.`,
+    ],
+  },
+  {
+    firstName: "Ian",
+    lastName: "Hornett",
+    website: "https://ianhornett.com/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/ianhornett/",
+      facebook: "https://www.facebook.com/ianmichaelhornett",
+    },
+    umbrellaGenre: ["comedy", "scifi"],
+    subGenre: ["Dsytopian Sci-Fi", "Spy Comedy"],
+    bio: [
+      `A former customs officer turned teacher turned retired teacher, Ian came relatively late to writing. Now he’s doing it, he really rather enjoys it, writing novels, blogs and 100-word stories. His love of reading is reflected in his novels, having written a sci-fi trilogy with a dystopian twist and a comedy spy series about an octogenarian grandmother who gets called back into the Secret Service. 
+2 books for children are also written and raring to go.`,
+    ],
+  },
+  {
+    firstName: "Marco",
+    lastName: "Marek",
+    website: "https://marcomarek77.wixsite.com/marcomarek",
+    socialMedia: {
+      instagram: "https://www.instagram.com/marcomarekauthor/",
+      twitter: "https://twitter.com/1MarcoMarek",
+      facebook: "https://www.facebook.com/MarcoMarekAuthor/",
+    },
+    umbrellaGenre: ["fantasy", "thriller"],
+    subGenre: ["Urban Fantasy", "Suspense"],
+    bio: [
+      `Marco Marek is an award winning author from Italy. He always had a fervid imagination and a passion for fantasy stories, medieval magicians, ancient history, and unexplained mysteries. While he was visiting a castle in Eastern Europe, he had the idea of writing Hyperearth. He wrote five books and a short story. Apart from writing, Marco is also a painter and photographer, he likes digital artwork on Photoshop. He loves traveling when he has some free time.`,
+    ],
+  },
+  {
+    firstName: "Carla",
+    lastName: "Reighard",
+    website: "https://carlasbooks.weebly.com/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/carlareighard/",
+      facebook: "https://www.facebook.com/CReighardsbooks",
+    },
+    umbrellaGenre: ["fantasy", "scifi", "childrens"],
+    subGenre: [
+      "Fairy Tale Retellings",
+      "Middle Grade Fantasy",
+      "YA or Teen Fantasy",
+      "Magical Realism",
+    ],
+    bio: [
+      `Carla is a Colorado native where she currently lives with her husband. Imagination was a loyal childhood companion – a story always brewed inside her head. Until the publication of Elle’s Magical Shoes, the stories remained private.`,
+      `Now Carla shares her wild imagination with the world as she travels in time, swims with the merfolk, flies over the island of the fae, delves into Viking myths, enters outer space, or invents a new perspective to familiar fairy tales. She hopes to teach young and old that age shouldn’t limit the ability to dream or to enjoy life.`,
+    ],
+  },
 ];
