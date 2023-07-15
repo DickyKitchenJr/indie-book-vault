@@ -1699,4 +1699,57 @@ I am not a particularly physical being. I was always terrible at sport and have 
       `Now Carla shares her wild imagination with the world as she travels in time, swims with the merfolk, flies over the island of the fae, delves into Viking myths, enters outer space, or invents a new perspective to familiar fairy tales. She hopes to teach young and old that age shouldn’t limit the ability to dream or to enjoy life.`,
     ],
   },
+  {
+    firstName: "JJ",
+    lastName: "Grafton",
+    website: "https://irises.uk/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/jacquiiris/",
+      facebook: "https://www.facebook.com/jjg1690",
+    },
+    umbrellaGenre: ["drama"],
+    subGenre: [
+      "Domestic Noir",
+      "Irish Historical Fiction",
+      "Cozy Mystery",
+      "Literary Fiction",
+    ],
+    bio: [
+      `JJ (Jacqui Jay) Grafton was born in the province of Ulster and spent her formative years there before following her parents to England. She left school at the age of sixteen, going back into education in her early thirties to study English and Psychology. After a long career in the world of litho print, specialising in the production of art catalogues, Jacqui returned to university to study photography.`,
+      `For nearly ten years, she competed internationally as a creative photographer, winning many awards and having her work published worldwide. As a natural progression, she became a judge on the British camera club circuit.`,
+      `In 2020, Jacqui self-published her first book at the age of seventy-seven. To date, she has written five books in a variety of genres, including domestic noir, Irish historical sagas and cosy mystery.`,
+      `Now an octogenarian, Jacqui lives in Nottingham with her partner of forty four years.`,
+    ],
+  },
+  {
+    firstName: "C A",
+    lastName: "Deegan",
+    website: "https://www.thecracklocksaga.com/",
+    socialMedia: {
+      twitter: "https://twitter.com/CracklockSaga",
+      instagram: "https://www.instagram.com/thecracklocksaga/",
+      facebook: "https://www.facebook.com/TheCracklockSaga",
+    },
+    umbrellaGenre: ["fantasy"],
+    subGenre: ["YA Fantasy", "Historical Fantasy", "Action/Adventure"],
+    bio: [
+      `I live in the East Midlands, right in the centre of the UK, and when I'm not writing or working, I'm with the family or walking the dog in the local woodlands seeking those ever-elusive Fae.  Or sitting, pint in hand, with the good friends I grew up with. Some are hidden in the books; quite a few characters are based on the people I know and love.`,
+      `And so, to the Cracklocks… "The Cracklock Saga" series of books came about from reading some pretty awful fairy books to my daughter over the years – she's in her teens now and has (with more than a little relief, I have to say) left those behind.  But as I read those books with gritted teeth, I always wondered what would happen if someone didn't like fairies, what they would do about it, and could anybody stop them? This idea grew, and the Cracklocks were born.  I liked the idea of people who hated the Fae and everything they stood for.  And that world just keeps on growing.`,
+    ],
+  },
+  {
+    firstName: "Ann",
+    lastName: "Thorsson",
+    website: "https://www.annthorsson.com/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/ann.thorsson.author/?hl=en",
+      facebook: "https://www.facebook.com/ann.thorsson.author/",
+    },
+    umbrellaGenre: ["drama", "thriller"],
+    subGenre: ["Contemporary Domestic Noir"],
+    bio: [
+      `Ann Thorsson was born in Chesterfield, UK. She now lives on a farm by the sea, nestled under the iconic Snæfellsjökull (Snaefells-glacier), on the West peninsula of Iceland, with her Icelandic husband, their two bilingual sons, an elderly Siberian husky and two wacky pups.`,
+      `Ann has published three novels - gritty, contemporary, domestic noir dramas: Downhill, Dark Dreams, and Dark Shadows`,
+    ],
+  },
 ];
