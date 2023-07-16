@@ -1700,28 +1700,6 @@ I am not a particularly physical being. I was always terrible at sport and have 
     ],
   },
   {
-    firstName: "JJ",
-    lastName: "Grafton",
-    website: "https://irises.uk/",
-    socialMedia: {
-      instagram: "https://www.instagram.com/jacquiiris/",
-      facebook: "https://www.facebook.com/jjg1690",
-    },
-    umbrellaGenre: ["drama"],
-    subGenre: [
-      "Domestic Noir",
-      "Irish Historical Fiction",
-      "Cozy Mystery",
-      "Literary Fiction",
-    ],
-    bio: [
-      `JJ (Jacqui Jay) Grafton was born in the province of Ulster and spent her formative years there before following her parents to England. She left school at the age of sixteen, going back into education in her early thirties to study English and Psychology. After a long career in the world of litho print, specialising in the production of art catalogues, Jacqui returned to university to study photography.`,
-      `For nearly ten years, she competed internationally as a creative photographer, winning many awards and having her work published worldwide. As a natural progression, she became a judge on the British camera club circuit.`,
-      `In 2020, Jacqui self-published her first book at the age of seventy-seven. To date, she has written five books in a variety of genres, including domestic noir, Irish historical sagas and cosy mystery.`,
-      `Now an octogenarian, Jacqui lives in Nottingham with her partner of forty four years.`,
-    ],
-  },
-  {
     firstName: "C A",
     lastName: "Deegan",
     website: "https://www.thecracklocksaga.com/",
