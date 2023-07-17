@@ -1730,4 +1730,95 @@ I am not a particularly physical being. I was always terrible at sport and have 
       `Ann has published three novels - gritty, contemporary, domestic noir dramas: Downhill, Dark Dreams, and Dark Shadows`,
     ],
   },
+  {
+    firstName: "Marlene",
+    lastName: "Cheng",
+    website: "https://www.marlenecheng.com/",
+    socialMedia: {
+      facebook: "https://www.facebook.com/memoir.cheng/",
+      goodreads: "https://www.goodreads.com/marlenecheng",
+    },
+    umbrellaGenre: ["drama"],
+    subGenre: ["Women's Fiction", "Literary Fiction", "Historical Fiction"],
+    bio: [
+      `Marlene Cheng is a Wall Street Journal, Barnes and Noble, and Amazon bestseller. She, also, has Maincrest Media and Book Excellence awards in women's fiction.`,
+      `Her fiction books are about the relationships that define women's lives--romance, friendship, and family. Marlene is a keen observer of how people think and feel and writes lyrical, uplifting, and emotionally rich stories.`,
+      `Marlene was prairie-born, farm-raised, and now lives among the old-growth pine and cedar, overlooking the Pacific Ocean, on the West Coast of Canada—a haven that stimulates creativity.`,
+      `“As with any worthy story,” Marlene says, “my biography has its inner destiny independent of its author. I sense this and strive for poise, integrity, and courage to go with the flow.”`,
+    ],
+  },
+  {
+    firstName: "Charlene",
+    lastName: "Mattson",
+    website: "",
+    socialMedia: {
+      facebook: "https://www.facebook.com/TheFairyTaleCaseFiles",
+    },
+    umbrellaGenre: ["fantasy"],
+    subGenre: ["Mystery"],
+    bio: [
+      `Charlene Mattson lives in Prince George, British Columbia with a house full of people and pets and a job full of more people which is an odd thing for an introvert to surround herself by. She writes primarily fantasy and fantasy/mystery, with the occasional foray into science fiction and poetry and works as an instructor teaching computer courses to finance her inability to market herself and a slight Starbucks addiction. She enjoys playing video games, table top rpgs, traveling, annoying two sons and making terrible jokes.`,
+    ],
+  },
+  {
+    firstName: "Terry Ann",
+    lastName: "Taylor",
+    website: "https://www.ttaylor.me/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/terrywithay/",
+    },
+    umbrellaGenre: ["romance"],
+    subGenre: ["Historical Romance"],
+    bio: [
+      `Historic Storyteller - Home of the feisty Olivia Featherstone — Regency Adventures`,
+      `Writing stories with strong-willed and courageous heroines`,
+    ],
+  },
+  {
+    firstName: "M.L.",
+    lastName: "Eaden",
+    website: "https://mleaden.com/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/m.l.eaden/",
+      facebook: "https://www.facebook.com/mleadenauthor",
+      twitter: "https://twitter.com/ml_eaden",
+    },
+    umbrellaGenre: ["romance", "fantasy", "scifi"],
+    subGenre: ["Urban Fantasy"],
+    bio: [
+      `M.L. Eaden works by day in the tech industry, but at night, she reads books, writes stories, throws axes, and is an avid gamer with a current addiction to Azul. Originally from the sunflower state, she migrated to one with a lone star—and more sun. She tries desperately to keep up with two adorable cattle dogs that still act like they are five instead of the seniors their vet says they are.`,
+    ],
+  },
+  {
+    firstName: "Katrina",
+    lastName: "Goforth",
+    website: "http://authorkatrinagoforth.com/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/katrinagoforthwrites/",
+      facebook: "https://www.facebook.com/KatrinaGWrites",
+    },
+    umbrellaGenre: ["fantasy", "childrens"],
+    subGenre: ["Middle Grade", "Adventure"],
+    bio: [
+      `Katrina Goforth is the author of debut middle grade adventure Gate of Rose and Vine, Book One in the Beyond the Gate Series. Book Two, Trail of Sand and Stone is scheduled to release Fall 2023.`,
+    ],
+  },
+  {
+    firstName: "Vicky",
+    lastName: "Peplow",
+    website: "https://vickypeplow1978.wixsite.com/vapbooks",
+    socialMedia: {
+      instagram: "https://www.instagram.com/vickypeplow/",
+      facebook: "https://www.facebook.com/peplow1978/",
+      twitter: "https://twitter.com/Vapbooks",
+      tiktok: "https://www.tiktok.com/@vickypeplow",
+      goodreads: "https://www.goodreads.com/vapbooks",
+    },
+    umbrellaGenre: ["horror"],
+    subGenre: ["Paranormal", "Historical Fiction", "Crime", "Short Stories"],
+    bio: [
+      `Vicky Peplow was born and bred in an old coal mining village in the North-east of England. Her love for her roots has inspired her to write books that capture the essence of her hometown. She moved to Virginia, USA, to be with her soul mate, and it was there that she discovered her passion for writing. In just four years, she has made a name for herself in the literary world and is now a rising star to watch out for.`,
+      `Vicky's primary interests are graphic design, reading, and sports. She has a keen eye for design and has used her talent to create stunning book covers that perfectly capture the essence of her stories. Her love for reading has helped her develop a unique writing style that is both captivating and engaging. She is also a sports enthusiast and loves nothing more than watching her favorite teams play. Despite being new to the writing scene, Vicky has already achieved a lot. Her books have received critical acclaim, and readers have fallen in love with her relatable characters and heartwarming stories. Her writing style is fresh and unique, and she has quickly become a favorite among readers of all ages. Apart from writing, Vicky has a great fondness for animals of all shapes and sizes. She is a proud owner of a ten-year-old long-haired dachshund, Sir Milo, and a cat named Leo.`,
+    ],
+  },
 ];
