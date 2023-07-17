@@ -1828,6 +1828,7 @@ I am not a particularly physical being. I was always terrible at sport and have 
     socialMedia: {
       instagram: "https://www.instagram.com/amandasheridanauthor/",
       twitter: "https://twitter.com/amandas26597105",
+      facebook: "https://www.facebook.com/profile.php?id=100063878022530",
     },
     umbrellaGenre: ["thriller"],
     subGenre: [
