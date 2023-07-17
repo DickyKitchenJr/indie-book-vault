@@ -1821,4 +1821,27 @@ I am not a particularly physical being. I was always terrible at sport and have 
       `Vicky's primary interests are graphic design, reading, and sports. She has a keen eye for design and has used her talent to create stunning book covers that perfectly capture the essence of her stories. Her love for reading has helped her develop a unique writing style that is both captivating and engaging. She is also a sports enthusiast and loves nothing more than watching her favorite teams play. Despite being new to the writing scene, Vicky has already achieved a lot. Her books have received critical acclaim, and readers have fallen in love with her relatable characters and heartwarming stories. Her writing style is fresh and unique, and she has quickly become a favorite among readers of all ages. Apart from writing, Vicky has a great fondness for animals of all shapes and sizes. She is a proud owner of a ten-year-old long-haired dachshund, Sir Milo, and a cat named Leo.`,
     ],
   },
+  {
+    firstName: "Amanda",
+    lastName: "Sheridan",
+    website: "",
+    socialMedia: {
+      instagram: "https://www.instagram.com/amandasheridanauthor/",
+      twitter: "https://twitter.com/amandas26597105",
+    },
+    umbrellaGenre: ["thriller"],
+    subGenre: [
+      "Psychological Thrillers",
+      "Espionage Drama",
+      "Paranormal",
+      "Lucid Dreaming",
+      "Romance",
+    ],
+    bio: [
+      `I’m a retired civil servant and I live on the beautiful Ards peninsula in Co. Down, Northern Ireland with my husband and our two rough collies.
+I'm an avid fan of motorsports – F1, MotoGP and Superbikes, and up until 2018, I frequently attended races in Europe.
+Reading has always been a hobby of mine and I love nothing better than escaping into the world between the pages. 
+Rapid Eye Movement is my first novel and I assumed it was a standalone until the idea for The Dreaming came to me. I followed this up with a third book in the series – Dream Catcher. I thought that was it, but this month I published Bad Dreams which is a Rapid Eye Movement spin-off about Lucy, one of the other characters in the first book.`,
+    ],
+  },
 ];
