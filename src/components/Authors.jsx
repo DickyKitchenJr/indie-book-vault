@@ -1845,4 +1845,23 @@ Reading has always been a hobby of mine and I love nothing better than escaping 
 Rapid Eye Movement is my first novel and I assumed it was a standalone until the idea for The Dreaming came to me. I followed this up with a third book in the series – Dream Catcher. I thought that was it, but this month I published Bad Dreams which is a Rapid Eye Movement spin-off about Lucy, one of the other characters in the first book.`,
     ],
   },
+  {
+    firstName: "H. M.",
+    lastName: "Mills",
+    website: "https://hmmillsbooks.wixsite.com/hmmills",
+    socialMedia: {
+      instagram: "https://www.instagram.com/h.m.mills_author/",
+      twitter: "https://twitter.com/HMMills203",
+      facebook: "https://www.facebook.com/HMMillsBooks/",
+      tiktok: "https://www.tiktok.com/@authorhmmills",
+      goodreads:
+        "https://www.goodreads.com/books/show/57303793-mercy-on-your-soul",
+    },
+    umbrellaGenre: ["fantasy"],
+    subGenre: ["Paranormal Dark Fantasy Romance"],
+    bio: [
+      `Award winning author & lover of Paranormal Dark Fantasy Romance & an avid reader, living in Tasmania Australia. 
+Currently working on Book 3 of The Mercy Aymes Series & edits on two standalones.`,
+    ],
+  },
 ];
