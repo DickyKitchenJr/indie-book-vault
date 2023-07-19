@@ -1765,7 +1765,7 @@ I am not a particularly physical being. I was always terrible at sport and have 
     lastName: "Taylor",
     website: "https://www.ttaylor.me/",
     socialMedia: {
-      instagram: "https://www.instagram.com/terrywithay/",
+      instagram: "https://www.instagram.com/terryanntaylor_regency/",
     },
     umbrellaGenre: ["romance"],
     subGenre: ["Historical Romance"],
@@ -1862,6 +1862,52 @@ Rapid Eye Movement is my first novel and I assumed it was a standalone until the
     bio: [
       `Award winning author & lover of Paranormal Dark Fantasy Romance & an avid reader, living in Tasmania Australia. 
 Currently working on Book 3 of The Mercy Aymes Series & edits on two standalones.`,
+    ],
+  },
+  {
+    firstName: "Marcia",
+    lastName: "Clayton",
+    website: "https://marciaclayton.co.uk/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/marciaclayton97/",
+      twitter: "https://twitter.com/MarciaC89111861",
+      facebook: "https://www.facebook.com/marciaclaytonauthor",
+    },
+    umbrellaGenre: ["romance"],
+    subGenre: ["Historical Fiction"],
+    bio: [
+      `Marcia Clayton is the author of four books in The Hartford Manor Series, a heart-warming family saga, stretching from the Regency period to Victorian times. A fifth book is to be released later in 2023.`,
+      `Marcia was born in North Devon, a rural and picturesque area in the far South West of England. When she left school Marcia worked in a bank for several years until she married her husband, Bryan, and then stayed at home for a few years to take care of her three sons, Stuart, Paul and David. As the children grew older, Marcia worked as a Marie Curie nurse caring for the terminally ill, and later for the local authority managing school transport.`,
+      `Now a grandmother, Marcia enjoys spending time with her family and friends. She’s a keen researcher of family history, and it was this hobby that inspired some of the characters in her books. A keen gardener, Marcia grows many of her own vegetables. She is also an avid reader and enjoys historical fiction, romance, and crime books.`,
+    ],
+  },
+  {
+    firstName: "Arlene",
+    lastName: "Lomazoff-Marron",
+    website: "http://www.arlenelomazoffmarron.com/",
+    socialMedia: {
+      instagram: "http://www.instagram.com/marronal",
+      twitter: "http://www.twitter.com/marron_arlene",
+    },
+    umbrellaGenre: ["drama"],
+    subGenre: ["Contemporary Fiction"],
+    bio: [
+      `In December 2019, about a week before I retired from a 40+ year career in healthcare, a coworker commented that I should do something from my bucket list. I immediately replied that I would write a novel. I hadn't thought about writing since my adolescence. I published my first book in July 2020 and my second in April 2021. I have two works in progress.`,
+    ],
+  },
+  {
+    firstName: "Bruce",
+    lastName: "Spydar",
+    website: "http://www.brucespydar.wordpress.com/",
+    socialMedia: {
+      instagram: "http://www.instagram.com/brucespydar",
+    },
+    umbrellaGenre: ["romance", "comedy", "nonfiction"],
+    subGenre: ["Humour", "Rom-Com", "Self-Help"],
+    bio: [
+      `Bruce Spydar used to wear a suit, work in an office, and get paid to lead teams of staff working for international nature conservation.  Today he possesses no suit that fits, has no office nor staff, and he doesn’t get paid … although he still volunteers in support of nature.`,
+      `For the last few years, Bruce has thrown himself into writing.  Perhaps it’s a last-ditch attempt to harness his creativity before his brain turns to mush.  On many an afternoon he can be spotted gazing out of an upstairs window of his house near Cambridge, searching for inspiration.`,
+      `Bruce describes himself as writing with a kind heart and a naughty mind.  Personal experience has taught him that everyday life is rather full of struggles, and that happiness and laughter are too often in short supply.  It’s why he now chooses to focus his creativity towards sharing his humour and positivity.`,
     ],
   },
 ];
