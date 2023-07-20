@@ -199,7 +199,7 @@ export const Authors = [
   {
     firstName: "H. S.",
     lastName: "Matthews",
-    website: "https://hsmatthews.com/",
+    website: "https://hsmatthews.wixsite.com/website",
     socialMedia: {
       instagram: "https://www.instagram.com/thehsmatthews/",
       twitter: "http://twitter.com/thehsmatthews",
@@ -1908,6 +1908,89 @@ Currently working on Book 3 of The Mercy Aymes Series & edits on two standalones
       `Bruce Spydar used to wear a suit, work in an office, and get paid to lead teams of staff working for international nature conservation.  Today he possesses no suit that fits, has no office nor staff, and he doesn’t get paid … although he still volunteers in support of nature.`,
       `For the last few years, Bruce has thrown himself into writing.  Perhaps it’s a last-ditch attempt to harness his creativity before his brain turns to mush.  On many an afternoon he can be spotted gazing out of an upstairs window of his house near Cambridge, searching for inspiration.`,
       `Bruce describes himself as writing with a kind heart and a naughty mind.  Personal experience has taught him that everyday life is rather full of struggles, and that happiness and laughter are too often in short supply.  It’s why he now chooses to focus his creativity towards sharing his humour and positivity.`,
+    ],
+  },
+  {
+    firstName: "A.S.",
+    lastName: "Urban",
+    website: "https://as-urban.com/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/asurbanbooks/",
+      goodreads: "https://www.goodreads.com/author/show/22675430.A_S_Urban",
+    },
+    umbrellaGenre: ["scifi"],
+    subGenre: ["Military", "Space Fleet", "Romance", "Adventure"],
+    bio: [
+      `Her mother had the difficult task of telling five-year old A.S. she was blind as bat. Astronauts don't wear glasses. The allure of space and all the adventures to be had there still tickle her imagination. Pair her love of all things outer space with her love of the courtship romance novels and you get  the Corvus Squadron Universe.`,
+      `A.S. lives in the Northwest with her husband, twin girls, and the orange tabby Frank.`,
+    ],
+  },
+  {
+    firstName: "Carrie",
+    lastName: "Scharf",
+    website: "https://carriescharf.blogspot.com/",
+    socialMedia: {
+      instagram: "https://instagram.com/carrieclarinet",
+      facebook: "https://www.facebook.com/ChandmadeEssentials/",
+      twitter: "https://twitter.com/carrieclarinet",
+    },
+    umbrellaGenre: ["nonfiction"],
+    subGenre: ["Skincare"],
+    bio: [
+      `Carrie Scharf has a skincare business and is the author of Carrie's Herbal Infused Skincare Cookbook.  Carrie's experience making skincare and experimenting with ingredients inspired her to write her books.`,
+      `Carrie has degrees from Mayland Community College and the University of North Carolina at Asheville.  Carrie lives and works out of her home in West Virginia.  She homeschools her two boys and plays clarinet in the Charleston Metro Band`,
+    ],
+  },
+  {
+    firstName: "Helen",
+    lastName: "Garraway",
+    website: "http://www.helengarraway.com/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/helengarrawayauthor/",
+      facebook: "https://www.facebook.com/helengarrawayauthor/",
+      goodreads: "https://www.goodreads.com/helengarrawayauthor",
+    },
+    umbrellaGenre: ["fantasy"],
+    subGenre: ["Epic Fantasy", "Fantasy Romance"],
+    bio: [
+      `Helen Garraway is the USA Today Bestselling author of the award winning epic fantasy Sentinal series which was first published in 2020, followed by the first book of the fantasy romance SoulMist series, SoulBreather, released in 2022 as part of the Realm of Darkness boxset.`,
+      `An avid reader of many different fiction genres, a love she inherited from her mother, Helen writes fantasy novels and also enjoys paper crafting and scrapbooking as an escape from the pressure of the day job.`,
+      `Having graduated from the University of Southampton with a Degree in Politics and International Relations, she remains an active member of their alumni.`,
+    ],
+  },
+  {
+    firstName: "Lady",
+    lastName: "Jaguar",
+    website: "http://www.jaynelockwood.com/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/ladyjaguarwrites/",
+      facebook: "https://www.facebook.com/ladyjaguar",
+    },
+    umbrellaGenre: ["romance", "drama"],
+    subGenre: ["LGBTQ+"],
+    bio: [
+      `Lady Jaguar is the pen name for Jayne Lockwood, who has been writing for over twenty years. Originally a traditionally published author (Savannah Smythe) with Black Lace (Virgin Books) she has worked as a ghostwriter before turning her attention to independent publishing. So far she has written around fifteen novels.`,
+      `Born and based in the UK, she has also lived in New Jersey, where a lot of her books are based. Now she writes in a rural location, not too far from London, when not being bullied by her husky and house panther. As well as being an author, she is also a wife, mother and strictly amateur aerialist.`,
+      `Years ago, in her village she was known as ‘the lady with the Jaguar.” The name stuck, and Lady Jaguar, author of spicy MM+ romance, was born.`,
+    ],
+  },
+  {
+    firstName: "Nicky F",
+    lastName: "Webber",
+    website: "https://nickywebber.com/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/nickywebbernz/",
+      facebook: "https://www.facebook.com/nickywebbernz",
+      twitter: "https://twitter.com/nicky_author",
+    },
+    umbrellaGenre: ["romance", "thriller", "drama"],
+    subGenre: ["Suspense", "Psychological Thriller", "Domestic Thriller"],
+    bio: [
+      `Nicky Webber, is an Award-Winning Author of Contemporary and Historical Fiction`,
+      `She enjoyed international acclaim for her novel Duplicity, which received Honourable Mention and Runner-up in Romance and Drama in the USA 2022 Top Shelf Magazine Awards for Fiction.`,
+      `With her background in journalism, Nicky is a master at crafting suspenseful and emotionally-rich stories, filled with family intrigue and romance.`,
+      `“I love true stories and pick over the bones of real-life tales before recreating the rich narrative found in my books.”`,
+      `Subscribe to my monthly newsletter at nickywebber.com`,
     ],
   },
 ];
