@@ -1993,4 +1993,60 @@ Currently working on Book 3 of The Mercy Aymes Series & edits on two standalones
       `Subscribe to my monthly newsletter at nickywebber.com`,
     ],
   },
+  {
+    firstName: "Jenn",
+    lastName: "Howlett",
+    website: "https://jennhowlett.com/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/jenn.howlett.author/",
+    },
+    umbrellaGenre: ["romance"],
+    subGenre: ["Paranormal/Fantasy Romance"],
+    bio: [
+      `I started writing after being convinced by Lee Child that, as a reader, I am also a writer. I had been reading and reviewing books via the (now reduntant) Eternal Bookcase blog for well over two years and during a reading slump a good friend recommended I read something completely different.`,
+      `My eyes were opened to the realm of monster-erotic fiction and after reading a fair handful of them, I thought; ‘I could do better than that!’ So, here I am, attempting to do so. I have no formal literary qualifications, just heaps of enthusiasm for telling and consuming stories.`,
+      `While not writing, daydreaming, or plotting, I volunteer for a local charity shop—which helps keep me both social and grounded. I also own a Barley Dog and am a Mother-of-One.`,
+    ],
+  },
+  {
+    firstName: "Leon",
+    lastName: "Stevens",
+    website: "https://www.linesbyleon.com/",
+    socialMedia: {
+      twitter: "https://www.twitter.com/linesbyLeon",
+      instagram: "https://www.instagram.com/lines_by_leon",
+    },
+    umbrellaGenre: ["scifi"],
+    subGenre: ["Science Fiction", "Poetry"],
+    bio: [
+      `Leon Stevens is a multi-genre author, composer, guitarist, and artist, with a Bachelor of Music and Education. He published his first book of poetry in 2020, followed by a book of original classical guitar compositions and a short story collection of science fiction/post-apocalyptic tales. His newest publications are the sci-fi trilogy, The View from Here, and a new collection of poetry titled, A Wonder of Words.`,
+    ],
+  },
+  {
+    firstName: "E. M.",
+    lastName: "Leander",
+    website: "http://www.emleander.com/",
+    socialMedia: {
+      twitter: "https://twitter.com/EMLeander1",
+      instagram: "https://www.instagram.com/e.m.leander/",
+    },
+    umbrellaGenre: ["fantasy"],
+    subGenre: ["Epic Fantasy", "Fantasy Romance"],
+    bio: [
+      `E. M. Leander lives in the American South with her husband, two children, and a grumpy old cat. A life-long lover of all things literary, when she’s not spending free time with family, she can be found devouring books and coffee in equal measure.`,
+    ],
+  },
+  {
+    firstName: "Lyonne",
+    lastName: "Riley",
+    website: "http://lyonneriley.com/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/lyonnerileyauthor/",
+    },
+    umbrellaGenre: ["romance", "fantasy"],
+    subGenre: ["Monster Romance"],
+    bio: [
+      `Lyonne Riley began as a traditionally-published author, but moved to independent publishing to pursue her interest in writing super-steamy monster romances. She lives in the middle of nowhere with two dogs and her spouse.`,
+    ],
+  },
 ];
