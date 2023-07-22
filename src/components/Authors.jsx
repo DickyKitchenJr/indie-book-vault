@@ -2049,4 +2049,18 @@ Currently working on Book 3 of The Mercy Aymes Series & edits on two standalones
       `Lyonne Riley began as a traditionally-published author, but moved to independent publishing to pursue her interest in writing super-steamy monster romances. She lives in the middle of nowhere with two dogs and her spouse.`,
     ],
   },
+  {
+    firstName: "Susan L",
+    lastName: "Markloff",
+    website: "https://www.susanlmarkloff.com/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/susanlmarkloff/",
+      facebook: "https://www.facebook.com/SusanLMarkloff/",
+    },
+    umbrellaGenre: ["fantasy"],
+    subGenre: ["YA Urban Fantasy"],
+    bio: [
+      `2022 Readers’ Favorite Award Winner for YA Urban Fantasy. Susan L Markloff is a rising YA Fantasy author. Upon devouring fantastical worlds as a child, she often spent her days playing make-believe and spinning stories with friends and family. At the age of 19, she wrote what would become the first draft of her debut novel, The Rise of the Raidin. While at Houghton College, she cultivated a love for the written word, and majored in Creative Writing. There she was encouraged by other aspiring authors and by her professors to hone her skills and write the best version of her stories. The Rise of the Raidin, book 1 of The Human-Born Era, is the first of the five book series.`,
+    ],
+  },
 ];
