@@ -1216,7 +1216,7 @@ I am not a particularly physical being. I was always terrible at sport and have 
   {
     firstName: "Andre",
     lastName: "Gonzalez",
-    website: "http://www.andregonzalez.net/",
+    website: "",
     socialMedia: {
       instagram: "https://www.instagram.com/monito0408/",
       facebook: "https://www.facebook.com/groups/andregonzalezreaders/",
@@ -2061,6 +2061,19 @@ Currently working on Book 3 of The Mercy Aymes Series & edits on two standalones
     subGenre: ["YA Urban Fantasy"],
     bio: [
       `2022 Readers’ Favorite Award Winner for YA Urban Fantasy. Susan L Markloff is a rising YA Fantasy author. Upon devouring fantastical worlds as a child, she often spent her days playing make-believe and spinning stories with friends and family. At the age of 19, she wrote what would become the first draft of her debut novel, The Rise of the Raidin. While at Houghton College, she cultivated a love for the written word, and majored in Creative Writing. There she was encouraged by other aspiring authors and by her professors to hone her skills and write the best version of her stories. The Rise of the Raidin, book 1 of The Human-Born Era, is the first of the five book series.`,
+    ],
+  },
+  {
+    firstName: "L.C.",
+    lastName: "Ainsworth",
+    website: "",
+    socialMedia: {
+      instagram: "https://www.instagram.com/ainsworthbooks/",
+    },
+    umbrellaGenre: ["fantasy", "scifi"],
+    subGenre: ["Romance", "Mystery", "YA"],
+    bio: [
+      `L.C. Ainsworth is an author living in Wales surrounded by her loved ones while taking care of her mother's garden.`,
     ],
   },
 ];
