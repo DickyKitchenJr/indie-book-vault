@@ -2076,4 +2076,37 @@ Currently working on Book 3 of The Mercy Aymes Series & edits on two standalones
       `L.C. Ainsworth is an author living in Wales surrounded by her loved ones while taking care of her mother's garden.`,
     ],
   },
+  {
+    firstName: "T.A.",
+    lastName: "Rosewood",
+    website: "https://www.tarosewood.com/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/tarosewood/",
+      facebook: "https://www.facebook.com/tarosewood/",
+      twitter: "https://www.twitter.com/tarosewood/",
+      tiktok: "https://www.tiktok.com/@tarosewoodauthor",
+    },
+    umbrellaGenre: ["romance", "thriller", "drama"],
+    subGenre: ["Women's Fiction"],
+    bio: [
+      `Hi there. I'm Traci...AKA, T.A. Rosewood and I write relatable, emotional fiction with lovable characters and heartwarming storylines that stay with you for a long time afterwards.`,
+      `Born, bred and still living in the north of Essex, England, with my very patient and supportive husband, children, and Robbie, the Westie.`,
+    ],
+  },
+  {
+    firstName: "Pat",
+    lastName: "Backley",
+    website: "https://www.patbackley.com/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/patbackleyauthor",
+      facebook: "https://www.facebook.com/patbackleyauthor",
+      twitter: "https://www.twitter.com/patbackleybooks",
+    },
+    umbrellaGenre: ["drama", "nonfiction"],
+    subGenre: ["Historical", "Memoirs", "Self-Help"],
+    bio: [
+      `Pat Backley is English but emigrated to New Zealand when she was 59. She wrote and published her first book just before her 70th birthday and having discovered her passion she now intends to write till she dies!`,
+      `She has lived a colourful and interesting life and her books, both fiction and non-fiction, reflect her passionate love of people and travel.`,
+    ],
+  },
 ];
