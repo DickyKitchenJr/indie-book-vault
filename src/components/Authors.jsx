@@ -2109,4 +2109,51 @@ Currently working on Book 3 of The Mercy Aymes Series & edits on two standalones
       `She has lived a colourful and interesting life and her books, both fiction and non-fiction, reflect her passionate love of people and travel.`,
     ],
   },
+  {
+    firstName: "Joelle",
+    lastName: "Cullen",
+    website: "https://joellecullen.com/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/coffeeshopcorner/",
+      facebook:
+        "https://www.facebook.com/profile.php?id=100085705707451&mibextid=ZbWKwL",
+      tiktok: "https://www.tiktok.com/@joellecullenauthor",
+    },
+    umbrellaGenre: ["romance"],
+    subGenre: ["Women's Fiction"],
+    bio: [
+      `Joelle Cullen has dreamt of becoming an author since she was a little girl. Following years of encouragement from her husband, she finally took the plunge into the author life in 2021. After many visits to the library paired with a white chocolate mocha latte (and a little help with supervision from her children's teachers), she finally completed her first novel set in her favorite place, London.`,
+      `Joelle graduated summa cum laude from SUNY Geneseo and Syracuse University, with a BA in History and Education, and a MS in Special Education. She shared her love of history with hundreds of middle school students  before staying home and raising her four children.`,
+      `Now she spends her time writing, playing piano, reviewing books on her bookstagram page, and shuttling her kids from activity to activity. She might complain about the mess that gets made, but her kids and husband are the best parts of her life.`,
+    ],
+  },
+  {
+    firstName: "Daniel",
+    lastName: "Bautz",
+    website: "https://www.danielbautzctp.com/",
+    socialMedia: {
+      instagram: "https://instagram.com/dbautzy",
+    },
+    umbrellaGenre: ["horror"],
+    subGenre: ["Historical", "Adventure", "Thriller"],
+    bio: [
+      `Daniel's award-winning debut, Life is in the Blood, is an astounding achievement in storytelling from Anatolian Press. His short story, Made of Clay, is featured in the Horror Anthology, Autumn Tales, with nine other fantastic authors and their spectral yarns.`,
+      `Daniel has done it all.`,
+      `He has worked as a graphic designer, a podcast & radio host, a writer and a director of film. He is a true creative type. While he enjoyed all of these endeavors, those accomplishments pale in comparison to his true calling - the written word.`,
+    ],
+  },
+  {
+    firstName: "Tory",
+    lastName: "Richards",
+    website: "http://www.toryrichards.com/",
+    socialMedia: {
+      twitter: "https://twitter.com/ToryRichards",
+      instagram: "https://www.instagram.com/toryrichards60/",
+    },
+    umbrellaGenre: ["romance"],
+    subGenre: ["Interracial", "Contemporary", "Suspense", "Paranormal"],
+    bio: [
+      `Tory Richards is an author who writes smut with a plot. She's an Amazon bestselling author in erotic romance and romantic suspense categories. Born in Maine, she's lived most of her life in Florida where she went to school, married, and raised her daughter. She's retired from Disney and spends her time with family and friends, traveling, and writing.`,
+    ],
+  },
 ];
