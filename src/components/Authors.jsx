@@ -157,7 +157,10 @@ export const Authors = [
     firstName: "Louise",
     lastName: "Murchie",
     website: "https://louisemurchie.com/",
-    socialMedia: {},
+    socialMedia: {
+      instagram: "https://www.instagram.com/louisemurchieauthor",
+      facebook: "https://www.facebook.com/louisemurchieauthor",
+    },
     umbrellaGenre: ["romance"],
     subGenre: ["Second Chance", "Scottish", "Cinnamon Roll Alpha"],
     bio: [
