@@ -19,6 +19,7 @@ const SciFi = lazy(() => import("./pages/GenrePages/SciFi"));
 const Thriller = lazy(() => import("./pages/GenrePages/Thriller"));
 const Western = lazy(() => import("./pages/GenrePages/Western"));
 import { Authors } from "./components/Authors";
+import HistoricalFiction from "./pages/GenrePages/HistoricalFiction";
 
 const childrensGenre = [];
 const comedyGenre = [];
@@ -31,6 +32,7 @@ const romanceGenre = [];
 const scifiGenre = [];
 const thrillerGenre = [];
 const westernGenre = [];
+const histFictGenre = [];
 
 function SortAuthorByGenre(authors) {
   authors.map((author) => {
@@ -68,6 +70,9 @@ function SortAuthorByGenre(authors) {
           break;
         case "western":
           westernGenre.push(author);
+          break;
+        case "historicalfiction":
+          histFictGenre.push(author);
           break;
         default:
           null;
@@ -197,6 +202,14 @@ const router = createBrowserRouter([
     element: (
       <Suspense fallback={<h3 style={{ textAlign: "center" }}>Loading...</h3>}>
         <Western authors={westernGenre} />
+      </Suspense>
+    ),
+  },
+  {
+    path: "historicalfiction",
+    element: (
+      <Suspense fallback={<h3 style={{ textAlign: "center" }}>Loading...</h3>}>
+        <HistoricalFiction authors={histFictGenre} />
       </Suspense>
     ),
   },
