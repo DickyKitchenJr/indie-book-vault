@@ -9,6 +9,7 @@ import Romance from "../assets/images/romance-tab.webp";
 import SciFi from "../assets/images/sci-fi-tab.webp";
 import Thriller from "../assets/images/thriller-tab.webp";
 import Western from "../assets/images/western-tab.webp";
+import HistFict from "../assets/images/historical-fiction-tab.webp";
 import React from "react";
 import styles from "../styles/genre-tabs.module.css";
 import { Link } from "react-router-dom";
@@ -20,6 +21,7 @@ function GenreTabs() {
     { src: Drama, alt: "Drama", link: "drama" },
     { src: Dystopian, alt: "Dystopian", link: "dystopian" },
     { src: Fantasy, alt: "Fantasy", link: "fantasy" },
+    { src: HistFict, alt: "Historical Fiction", link: "historicalfiction" },
     { src: Horror, alt: "Horror", link: "horror" },
     { src: NonFiction, alt: "Non-Fiction", link: "nonfiction" },
     { src: Romance, alt: "Romance", link: "romance" },
