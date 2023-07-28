@@ -109,7 +109,7 @@ export const Authors = [
     socialMedia: {
       instagram: "https://www.instagram.com/barbaralennoxauthor/",
     },
-    umbrellaGenre: ["fantasy", "romance", "thriller"],
+    umbrellaGenre: ["fantasy", "romance", "thriller", "historicalfiction"],
     subGenre: [
       "Historical Fantasy Fiction",
       "Historical Thrillers",
@@ -1619,6 +1619,7 @@ I am not a particularly physical being. I was always terrible at sport and have 
       "western",
       "thriller",
       "horror",
+      "historicalfiction"
     ],
     subGenre: ["Short Stories", "Anthologies"],
     bio: [
