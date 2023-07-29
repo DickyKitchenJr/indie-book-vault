@@ -74,8 +74,8 @@ function FaqPage() {
               indie book world and provide this service to help support that
               community. In order to be included in the site we only ask that
               authors include a link to our site on their author website and put
-              out at least one social media promotion informing the world that we are
-              here.
+              out at least one social media promotion informing the world that
+              we are here.
               <br />
               <i>
                 **While we do not charge authors or users of our site, we do
@@ -129,23 +129,32 @@ function FaqPage() {
           <ul className={styles.ul}>
             <li>Authors must meet the following criteria to be listed:</li>
             <ul className={styles.innerUl}>
-              <li>
+              <li className={styles.innerLi}>
                 They are required to be published and have their work(s)
                 available for purchase from a reputable website (i.e. Amazon,
                 Kobo, Smashwords, etc)
               </li>
-              <li>
-                They must have a link to this site clearly labeled on their
-                website to help readers find us and support the community
+              <li className={styles.innerLi}>
+                They must have a link to this site clearly labeled and easily
+                found on their website to help readers find us and support the
+                community
               </li>
-              <li>
-                The must create at least one social media promotion informing readers
-                and other writers that we exist
+              <li className={styles.innerLi}>
+                Their website must be complete, live, and belong to/represent
+                the author. Websites still under construction are not accepted,
+                nor are Amazon author pages or websites shared by multiple
+                authors (some exceptions may be made if all authors listed on
+                the site apply and accept terms).
               </li>
-              <li>
+              <li className={styles.innerLi}>
+                They must create at least one social media promotion informing
+                readers and other writers that we exist
+              </li>
+              <li className={styles.innerLi}>
                 Authors that <span className={styles.underline}>do not</span>{" "}
                 have a website can be considered if they are willing to create
-                monthly social media promotions to help readers find Indie Book Vault
+                monthly social media promotions to help readers find Indie Book
+                Vault
               </li>
             </ul>
           </ul>
@@ -160,10 +169,10 @@ function FaqPage() {
               spread the word of our existence. The easiest way for an author to
               do this is to include a link to our site on their author website,
               but since not all published authors have a website we offer the
-              choice to promote monthly on social media as an alternative option.
-              Due to the fleeting nature of a social media promotions vs the
-              permanence of a link on a website, we require authors without a
-              website to promote monthly on social media.
+              choice to promote monthly on social media as an alternative
+              option. Due to the fleeting nature of a social media promotions vs
+              the permanence of a link on a website, we require authors without
+              a website to promote monthly on social media.
             </li>
           </ul>
           <h2 className={styles.h2}>
@@ -174,29 +183,35 @@ function FaqPage() {
               Authors provide us with the following information to be listed:
             </li>
             <ul className={styles.innerUl}>
-              <li>Their author name to be listed under</li>
-              <li>
+              <li className={styles.innerLi}>
+                Their author name to be listed under
+              </li>
+              <li className={styles.innerLi}>
                 An email address (this is not shared on the site and is strictly
                 used for contacting the author regarding information pertaining
                 to the site)
               </li>
-              <li>
+              <li className={styles.innerLi}>
                 Their website address to be listed on the site (and to verify a
                 link to this site is included on their website)
               </li>
-              <li>
+              <li className={styles.innerLi}>
                 Their main genre(s) they have published books in to
                 appropriately list them (currently the available major genres to
                 choose from are: romance, fantasy, sci-fi, thriller, horror,
                 dystopian, western, children's, drama, comedy, and nonfiction)
               </li>
-              <li>
+              <li className={styles.innerLi}>
                 What sub-genre(s) they have published books in (these are listed
                 on the site to help readers better narrow down which authors
                 interest them)
               </li>
-              <li>An author bio that will be listed on the site</li>
-              <li>Their social media accounts to be listed on the site</li>
+              <li className={styles.innerLi}>
+                An author bio that will be listed on the site
+              </li>
+              <li className={styles.innerLi}>
+                Their social media accounts to be listed on the site
+              </li>
             </ul>
           </ul>
           <h2 className={styles.h2}>

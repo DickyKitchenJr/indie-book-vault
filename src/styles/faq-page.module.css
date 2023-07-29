@@ -34,6 +34,10 @@
   font-size: 1.1rem;
 }
 
+.innerLi{
+  padding-top: .75rem;
+}
+
 .underline {
   text-decoration: underline;
 }
