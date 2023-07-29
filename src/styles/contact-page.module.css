@@ -24,6 +24,10 @@
   padding-left: 1.5rem;
 }
 
+.li{
+  padding-top: .75rem;
+}
+
 .underline {
   text-decoration: underline;
 }

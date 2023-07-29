@@ -21,24 +21,28 @@ function ContactPage() {
             <br />
             <p>By filling out the form you agree to the following:</p>
             <ul className={styles.ul}>
-              <li>
+              <li className={styles.li}>
                 Authors are required to be published and have their work(s)
                 available for purchase from a reputable website (i.e. Amazon,
                 Kobo, Smashwords, etc)
               </li>
-              <li>
-                Authors must have a link to this site clearly labeled on their
-                website to help readers find us and support the community
+              <li className={styles.li}>
+                Authors must have a link to this site clearly labeled and easily
+                found on their website to help readers find us and support the
+                community.
               </li>
-              <li>
-                Author's website must be complete and live. Websites still under
-                construction are not accepted.
+              <li className={styles.li}>
+                Author's website must be complete, live, and belong to/represent
+                the author. Websites still under construction are not accepted,
+                nor are Amazon author pages or websites shared by multiple
+                authors (some exceptions may be made if all authors listed on
+                the site apply and accept terms).
               </li>
-              <li>
+              <li className={styles.li}>
                 Authors must create at least one original social media promotion
                 informing readers and other writers that we exist
               </li>
-              <li>
+              <li className={styles.li}>
                 Authors that <span className={styles.underline}>do not</span>{" "}
                 have a website can be considered if they are willing to create
                 monthly social media promotions to help readers find Indie Book
