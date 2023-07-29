@@ -1619,7 +1619,7 @@ I am not a particularly physical being. I was always terrible at sport and have 
       "western",
       "thriller",
       "horror",
-      "historicalfiction"
+      "historicalfiction",
     ],
     subGenre: ["Short Stories", "Anthologies"],
     bio: [
