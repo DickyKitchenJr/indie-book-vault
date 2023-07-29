@@ -659,7 +659,7 @@ I am not a particularly physical being. I was always terrible at sport and have 
       facebook: "https://www.facebook.com/tonyriches.author",
       goodreads: "https://www.goodreads.com/author/show/5604088.Tony_Riches",
     },
-    umbrellaGenre: ["drama"],
+    umbrellaGenre: ["drama", "historicalfiction"],
     subGenre: ["Historical Fiction"],
     bio: [
       `Tony Riches is a full-time UK author of Tudor historical fiction. He lives with his wife in Pembrokeshire, West Wales and is a specialist in the lives of the Tudors. As well as his new Elizabethan series, Tony’s historical fiction novels include the best-selling Tudor trilogy and his Brandon trilogy, (about Charles Brandon and his wives). Tony also has a popular podcast series, Stories of the Tudors. For more information about Tony’s books visit his website www.tonyriches.com and his blog, The Writing Desk and find him on  Facebook and Twitter @tonyriches`,
