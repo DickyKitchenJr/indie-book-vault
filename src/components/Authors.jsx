@@ -91,7 +91,7 @@ export const Authors = [
       twitter: "https://twitter.com/BeckyWrightAuth",
       tiktok: "https://www.tiktok.com/@beckywright_author",
     },
-    umbrellaGenre: ["thriller", "fantasy", "horror"],
+    umbrellaGenre: ["thriller", "fantasy", "horror", "historicalfiction"],
     subGenre: [
       "Gothic Horror",
       "Gothic Thriller",
@@ -448,7 +448,7 @@ I am not a particularly physical being. I was always terrible at sport and have 
     socialMedia: {
       instagram: "http://www.instagram.com/juliaslackauthor",
     },
-    umbrellaGenre: ["drama"],
+    umbrellaGenre: ["drama", "historicalfiction"],
     subGenre: ["Women's Historical Fiction"],
     bio: [
       `Julia Slack is a Brit in Barcelona. Her standalone historical fiction, set in 1960s Barcelona, is based on real places and events. It's available FREE on Kindle Unlimited!!`,
@@ -1742,7 +1742,7 @@ I am not a particularly physical being. I was always terrible at sport and have 
       facebook: "https://www.facebook.com/memoir.cheng/",
       goodreads: "https://www.goodreads.com/marlenecheng",
     },
-    umbrellaGenre: ["drama"],
+    umbrellaGenre: ["drama", "historicalfiction"],
     subGenre: ["Women's Fiction", "Literary Fiction", "Historical Fiction"],
     bio: [
       `Marlene Cheng is a Wall Street Journal, Barnes and Noble, and Amazon bestseller. She, also, has Maincrest Media and Book Excellence awards in women's fiction.`,
