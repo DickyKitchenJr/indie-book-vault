@@ -13,6 +13,7 @@ function AuthorApplication() {
   const [sciFiCheck, setSciFiCheck] = useState(false);
   const [thrillerCheck, setThrillerCheck] = useState(false);
   const [westernCheck, setWesternCheck] = useState(false);
+  const [histFictCheck, setHistFictCheck] = useState(false);
   const [atLeastOneChecked, setAtLeastOneChecked] = useState(0);
 
   const isChildrensCheck = () => {
@@ -65,7 +66,7 @@ function AuthorApplication() {
     }
   };
 
-  const isHorroCheck = () => {
+  const isHorrorCheck = () => {
     if (!horrorCheck) {
       setHorrorCheck(true);
       setAtLeastOneChecked(atLeastOneChecked + 1);
@@ -121,6 +122,16 @@ function AuthorApplication() {
       setAtLeastOneChecked(atLeastOneChecked + 1);
     } else {
       setWesternCheck(false);
+      setAtLeastOneChecked(atLeastOneChecked - 1);
+    }
+  };
+
+  const isHistFictCheck = () => {
+    if (!histFictCheck) {
+      setHistFictCheck(true);
+      setAtLeastOneChecked(atLeastOneChecked + 1);
+    } else {
+      setHistFictCheck(false);
       setAtLeastOneChecked(atLeastOneChecked - 1);
     }
   };
@@ -187,7 +198,9 @@ function AuthorApplication() {
                   onChange={isRomanceCheck}
                   checked={romanceCheck}
                 />
-                <label htmlFor="romance">&nbsp;Romance&nbsp;</label>
+                <label htmlFor="romance" className={styles.checkboxLabels}>
+                  &nbsp;Romance&nbsp;
+                </label>
               </div>
               <div className={styles.checkboxItems}>
                 <input
@@ -198,7 +211,9 @@ function AuthorApplication() {
                   onChange={isFantasyCheck}
                   checked={fantasyCheck}
                 />
-                <label htmlFor="fantasy">&nbsp;Fantasy&nbsp;</label>
+                <label htmlFor="fantasy" className={styles.checkboxLabels}>
+                  &nbsp;Fantasy&nbsp;
+                </label>
               </div>
               <div className={styles.checkboxItems}>
                 <input
@@ -209,7 +224,9 @@ function AuthorApplication() {
                   onClick={isThrillerCheck}
                   checked={thrillerCheck}
                 />
-                <label htmlFor="thriller">&nbsp;Thriller&nbsp;</label>
+                <label htmlFor="thriller" className={styles.checkboxLabels}>
+                  &nbsp;Thriller&nbsp;
+                </label>
               </div>
               <div className={styles.checkboxItems}>
                 <input
@@ -220,7 +237,9 @@ function AuthorApplication() {
                   onChange={isSciFiCheck}
                   checked={sciFiCheck}
                 />
-                <label htmlFor="scifi">&nbsp;Sci-Fi&nbsp;</label>
+                <label htmlFor="scifi" className={styles.checkboxLabels}>
+                  &nbsp;Sci-Fi&nbsp;
+                </label>
               </div>
               <div className={styles.checkboxItems}>
                 <input
@@ -231,7 +250,9 @@ function AuthorApplication() {
                   onChange={isChildrensCheck}
                   checked={childrensCheck}
                 />
-                <label htmlFor="childrens">&nbsp;Children's&nbsp;</label>
+                <label htmlFor="childrens" className={styles.checkboxLabels}>
+                  &nbsp;Children's&nbsp;
+                </label>
               </div>
               <div className={styles.checkboxItems}>
                 <input
@@ -242,7 +263,9 @@ function AuthorApplication() {
                   onChange={isDramaCheck}
                   checked={dramaCheck}
                 />
-                <label htmlFor="drama">&nbsp;Drama&nbsp;</label>
+                <label htmlFor="drama" className={styles.checkboxLabels}>
+                  &nbsp;Drama&nbsp;
+                </label>
               </div>
               <div className={styles.checkboxItems}>
                 <input
@@ -250,10 +273,12 @@ function AuthorApplication() {
                   type="checkbox"
                   id="horror"
                   name="horror"
-                  onChange={isHorroCheck}
+                  onChange={isHorrorCheck}
                   checked={horrorCheck}
                 />
-                <label htmlFor="horror">&nbsp;Horror&nbsp;</label>
+                <label htmlFor="horror" className={styles.checkboxLabels}>
+                  &nbsp;Horror&nbsp;
+                </label>
               </div>
               <div className={styles.checkboxItems}>
                 <input
@@ -264,7 +289,9 @@ function AuthorApplication() {
                   onChange={isComdeyCheck}
                   checked={comedyCheck}
                 />
-                <label htmlFor="comedy">&nbsp;Comedy&nbsp;</label>
+                <label htmlFor="comedy" className={styles.checkboxLabels}>
+                  &nbsp;Comedy&nbsp;
+                </label>
               </div>
               <div className={styles.checkboxItems}>
                 <input
@@ -275,7 +302,9 @@ function AuthorApplication() {
                   onChange={isDystopianCheck}
                   checked={dystopianCheck}
                 />
-                <label htmlFor="dystopian">&nbsp;Dystopian&nbsp;</label>
+                <label htmlFor="dystopian" className={styles.checkboxLabels}>
+                  &nbsp;Dystopian&nbsp;
+                </label>
               </div>
               <div className={styles.checkboxItems}>
                 <input
@@ -286,7 +315,9 @@ function AuthorApplication() {
                   onChange={isnonFictionCheck}
                   checked={nonFictionCheck}
                 />
-                <label htmlFor="nonfiction">&nbsp;Non-Fiction&nbsp;</label>
+                <label htmlFor="nonfiction" className={styles.checkboxLabels}>
+                  &nbsp;Non-Fiction&nbsp;
+                </label>
               </div>
               <div className={styles.checkboxItems}>
                 <input
@@ -297,7 +328,25 @@ function AuthorApplication() {
                   onChange={isWesternCheck}
                   checked={westernCheck}
                 />
-                <label htmlFor="western">&nbsp;Western&nbsp;</label>
+                <label htmlFor="western" className={styles.checkboxLabels}>
+                  &nbsp;Western&nbsp;
+                </label>
+              </div>
+              <div className={styles.checkboxItems}>
+                <input
+                  className={styles.inputBox}
+                  type="checkbox"
+                  id="historicalfiction"
+                  name="historicalfiction"
+                  onChange={isHistFictCheck}
+                  checked={histFictCheck}
+                />
+                <label
+                  htmlFor="historicalfiction"
+                  className={styles.checkboxLabels}
+                >
+                  &nbsp;Hist. Fict.&nbsp;
+                </label>
               </div>
             </>
           ) : (
@@ -312,7 +361,9 @@ function AuthorApplication() {
                   checked={romanceCheck}
                   required
                 />
-                <label htmlFor="romance">&nbsp;Romance&nbsp;</label>
+                <label htmlFor="romance" className={styles.checkboxLabels}>
+                  &nbsp;Romance&nbsp;
+                </label>
               </div>
               <div className={styles.checkboxItems}>
                 <input
@@ -324,7 +375,9 @@ function AuthorApplication() {
                   checked={fantasyCheck}
                   required
                 />
-                <label htmlFor="fantasy">&nbsp;Fantasy&nbsp;</label>
+                <label htmlFor="fantasy" className={styles.checkboxLabels}>
+                  &nbsp;Fantasy&nbsp;
+                </label>
               </div>
               <div className={styles.checkboxItems}>
                 <input
@@ -336,7 +389,9 @@ function AuthorApplication() {
                   checked={thrillerCheck}
                   required
                 />
-                <label htmlFor="thriller">&nbsp;Thriller&nbsp;</label>
+                <label htmlFor="thriller" className={styles.checkboxLabels}>
+                  &nbsp;Thriller&nbsp;
+                </label>
               </div>
               <div className={styles.checkboxItems}>
                 <input
@@ -348,7 +403,9 @@ function AuthorApplication() {
                   checked={sciFiCheck}
                   required
                 />
-                <label htmlFor="scifi">&nbsp;Sci-Fi&nbsp;</label>
+                <label htmlFor="scifi" className={styles.checkboxLabels}>
+                  &nbsp;Sci-Fi&nbsp;
+                </label>
               </div>
               <div className={styles.checkboxItems}>
                 <input
@@ -360,7 +417,9 @@ function AuthorApplication() {
                   checked={childrensCheck}
                   required
                 />
-                <label htmlFor="childrens">&nbsp;Children's&nbsp;</label>
+                <label htmlFor="childrens" className={styles.checkboxLabels}>
+                  &nbsp;Children's&nbsp;
+                </label>
               </div>
               <div className={styles.checkboxItems}>
                 <input
@@ -372,7 +431,9 @@ function AuthorApplication() {
                   checked={dramaCheck}
                   required
                 />
-                <label htmlFor="drama">&nbsp;Drama&nbsp;</label>
+                <label htmlFor="drama" className={styles.checkboxLabels}>
+                  &nbsp;Drama&nbsp;
+                </label>
               </div>
               <div className={styles.checkboxItems}>
                 <input
@@ -380,11 +441,13 @@ function AuthorApplication() {
                   type="checkbox"
                   id="horror"
                   name="horror"
-                  onChange={isHorroCheck}
+                  onChange={isHorrorCheck}
                   checked={horrorCheck}
                   required
                 />
-                <label htmlFor="horror">&nbsp;Horror&nbsp;</label>
+                <label htmlFor="horror" className={styles.checkboxLabels}>
+                  &nbsp;Horror&nbsp;
+                </label>
               </div>
               <div className={styles.checkboxItems}>
                 <input
@@ -396,7 +459,9 @@ function AuthorApplication() {
                   checked={comedyCheck}
                   required
                 />
-                <label htmlFor="comedy">&nbsp;Comedy&nbsp;</label>
+                <label htmlFor="comedy" className={styles.checkboxLabels}>
+                  &nbsp;Comedy&nbsp;
+                </label>
               </div>
               <div className={styles.checkboxItems}>
                 <input
@@ -408,7 +473,9 @@ function AuthorApplication() {
                   checked={dystopianCheck}
                   required
                 />
-                <label htmlFor="dystopian">&nbsp;Dystopian&nbsp;</label>
+                <label htmlFor="dystopian" className={styles.checkboxLabels}>
+                  &nbsp;Dystopian&nbsp;
+                </label>
               </div>
               <div className={styles.checkboxItems}>
                 <input
@@ -420,7 +487,9 @@ function AuthorApplication() {
                   checked={nonFictionCheck}
                   required
                 />
-                <label htmlFor="nonfiction">&nbsp;Non-Fiction&nbsp;</label>
+                <label htmlFor="nonfiction" className={styles.checkboxLabels}>
+                  &nbsp;Non-Fiction&nbsp;
+                </label>
               </div>
               <div className={styles.checkboxItems}>
                 <input
@@ -432,7 +501,26 @@ function AuthorApplication() {
                   checked={westernCheck}
                   required
                 />
-                <label htmlFor="western">&nbsp;Western&nbsp;</label>
+                <label htmlFor="western" className={styles.checkboxLabels}>
+                  &nbsp;Western&nbsp;
+                </label>
+              </div>
+              <div className={styles.checkboxItems}>
+                <input
+                  className={styles.inputBox}
+                  type="checkbox"
+                  id="historicalfiction"
+                  name="historicalfiction"
+                  onChange={isHistFictCheck}
+                  checked={histFictCheck}
+                  required
+                />
+                <label
+                  htmlFor="historicalfiction"
+                  className={styles.checkboxLabels}
+                >
+                  &nbsp;Hist. Fict.&nbsp;
+                </label>
               </div>
             </>
           )}
