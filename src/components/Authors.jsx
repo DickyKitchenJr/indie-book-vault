@@ -142,7 +142,7 @@ export const Authors = [
       facebook: "https://www.facebook.com/CherylBurmanAuthor/",
       twitter: "https://twitter.com/cr_burman",
     },
-    umbrellaGenre: ["fantasy", "drama", "childrens"],
+    umbrellaGenre: ["fantasy", "drama", "childrens", "historicalfiction"],
     subGenre: [
       "Historical Fiction",
       "Historical Fantasy",
