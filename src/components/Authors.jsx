@@ -2177,7 +2177,21 @@ Currently working on Book 3 of The Mercy Aymes Series & edits on two standalones
       `Alycin’s poetry has been displayed at the Gainesville Fine Arts Association Art Gallery in Gainesville, Florida.`,
       `Her article "Writing About Travel, Writing About Journeys'' was published in the Writers Alliance of Gainesville's blog "Hogtown Quill". She was an exhibitor at the Sunshine State Book Festival for several years and a guest speaker last year.`,
       `Alycin’s internationally popular adventure travel memoir "Amazon Hitchhiker: A Woman’s Adventures from Canada to Brazil" is the extraordinary true story of her adventures hitchhiking alone in the 1970’s from Canada to South America where she became lost paddling a leaky dugout canoe into the rivers and mystical rainforests of the wild Amazon Basin.`,
-      `For more information about Alycin Hayes go to her website: https://www.echohillproductions.com/contributor-bios.html`
+      `For more information about Alycin Hayes go to her website: https://www.echohillproductions.com/contributor-bios.html`,
+    ],
+  },
+  {
+    firstName: "Jessica",
+    lastName: "Piro",
+    website: "https://www.jessicapiro.com/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/xdrag0n0vax/",
+      twitter: "https://twitter.com/xDRAG0N0VAx",
+    },
+    umbrellaGenre: ["thriller"],
+    subGenre: ["Suspense", "Action"],
+    bio: [
+      `Jessica is a writer in a wheelchair and has Type 1 Diabetes. She is a multi-genre author and her works cater to YA, NA, and Adults.`,
     ],
   },
 ];
