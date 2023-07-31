@@ -2160,4 +2160,24 @@ Currently working on Book 3 of The Mercy Aymes Series & edits on two standalones
       `Tory Richards is an author who writes smut with a plot. She's an Amazon bestselling author in erotic romance and romantic suspense categories. Born in Maine, she's lived most of her life in Florida where she went to school, married, and raised her daughter. She's retired from Disney and spends her time with family and friends, traveling, and writing.`,
     ],
   },
+  {
+    firstName: "Alycin",
+    lastName: "Hayes",
+    website: "https://www.echohillproductions.com/",
+    socialMedia: {
+      facebook: "https://www.facebook.com/alycin.hayes",
+      twitter: "https://twitter.com/AlycinHayes",
+      instagram: "https://www.instagram.com/alycinhayes.adventurer/",
+    },
+    umbrellaGenre: ["childrens", "nonfiction"],
+    subGenre: ["Adventure", "Travel Memoir"],
+    bio: [
+      `Alycin Hayes is a writer of poetry, prose and song, a singer, actress, filmmaker, producer and a wildlife conservationist. Her articles on animal behavior research have been published internationally.`,
+      `She is the author of the award winning children's book "Milo and The Mustang", winner of the 2020 R. Morrow Book Award for "Great Kid Books for Road Trips"`,
+      `Alycin’s poetry has been displayed at the Gainesville Fine Arts Association Art Gallery in Gainesville, Florida.`,
+      `Her article "Writing About Travel, Writing About Journeys'' was published in the Writers Alliance of Gainesville's blog "Hogtown Quill". She was an exhibitor at the Sunshine State Book Festival for several years and a guest speaker last year.`,
+      `Alycin’s internationally popular adventure travel memoir "Amazon Hitchhiker: A Woman’s Adventures from Canada to Brazil" is the extraordinary true story of her adventures hitchhiking alone in the 1970’s from Canada to South America where she became lost paddling a leaky dugout canoe into the rivers and mystical rainforests of the wild Amazon Basin.`,
+      `For more information about Alycin Hayes go to her website: https://www.echohillproductions.com/contributor-bios.html`
+    ],
+  },
 ];
