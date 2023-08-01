@@ -63,25 +63,6 @@ export const Authors = [
     ],
   },
   {
-    firstName: "Miriam A",
-    lastName: "Maddock",
-    website: "https://mamaddockauthor.ie",
-    socialMedia: {
-      instagram: "https://www.instagram.com/ma.maddock_author",
-      facebook: "https://www.facebook.com/thesixthamuletseries",
-      goodreads: "https://www.goodreads.com/author/show/21176498.M_A_Maddock",
-      twitter: "https://twitter.com/mamaddock1_a?t=kW8VZpxP001bt4JBk8S0DQ&s=09",
-    },
-    umbrellaGenre: ["fantasy"],
-    subGenre: ["Historical Fantasy Fiction"],
-    bio: [
-      `My name is Miriam and I was born and raised in Dublin, Ireland.`,
-      `Having dabbled in other ‘interests’ over the years (I won’t bore you), in the background, however, I was always an avid reader, with words constantly floating around in my mind yet doing nothing about them—in a literary sense. I used to always say, ‘One day, I’ll write that book!’ But never seemed to get around to doing it. I think the mere thought of putting those words—along with my imagination—to literary use, was daunting, therefore, I was always putting it off. That is, until 2011 when I finally took the plunge and picked up that pen and notebook (still have them, too!). I began to string those words into sentences, then paragraphs, then pages, eventually joining them together to create my first novel—The Sixth Amulet - Book One (released October 2022). Then my imagination had other plans; it didn’t want to stop at just one. Why would it? And so, novel one turned into another, The Moon Chasers - Book Two of The Sixth Amulet - released June 2023) . Who knows where it will end?`,
-      `I believe everyone has a story to tell, a potential book tucked away inside them, dying to get out. And all that’s needed to create it is a simple recipe: a pen and a notebook. So, open your mind and let your imagination roam through the endless possibilities it has to offer … then simply write! `,
-      `I hope you enjoy reading The Sixth Amulet and The Moon Chasers and promise to have part three of my epic adventure – A Flutter on the Wind - out by Spring 2024. Happy reading!`,
-    ],
-  },
-  {
     firstName: "Becky",
     lastName: "Wright",
     website: "https://beckywrightauthor.com/",
@@ -1217,21 +1198,6 @@ I am not a particularly physical being. I was always terrible at sport and have 
     ],
   },
   {
-    firstName: "Andre",
-    lastName: "Gonzalez",
-    website: "",
-    socialMedia: {
-      instagram: "https://www.instagram.com/monito0408/",
-      facebook: "https://www.facebook.com/groups/andregonzalezreaders/",
-    },
-    umbrellaGenre: ["thriller"],
-    subGenre: ["Time Travel"],
-    bio: [
-      `Andre Gonzalez is the international bestselling author of the Wealth of Time Series, and co-owner of M4L Publishing. He writes time-travel, thriller, and horror books after spending many years reading and studying the works of Stephen King and Dean Koontz. Keeping readers up late and their hearts pumping a bit faster than normal is his ultimate goal when cracking open one of his books. Andre is the recipient of the Rocky Mountain Fiction Writers 2021 Independent Writer of the Year award.`,
-      `When he’s not writing, you can find Andre buried underneath a long to-do list and/or his three hyper children. He and his wife are raising their family in their hometown of Denver, CO.`,
-    ],
-  },
-  {
     firstName: "Josephine",
     lastName: "Strand",
     website: "https://josephinestrand.com/",
@@ -1451,22 +1417,6 @@ I am not a particularly physical being. I was always terrible at sport and have 
     bio: [
       `Kimberly Ann lives in BC, Canada with her husband, two children and ridiculously cute German Shepherd. When she’s not dreaming of stories, she homeschools her two children as they explore the world together, reads anything she can get her hands on, and drinks a lot of coffee.`,
       `Growing up with her head lost in a book, it was no surprise when she picked up a pen, or her laptop, to write her own. Kimberly Ann’s stories are based on the world around her as she brings her imagination to life with stories of small towns, swoon-worthy men, and the women that keep them on their toes.`,
-    ],
-  },
-  {
-    firstName: "Collings",
-    lastName: "MaCrae",
-    website: "http://collingsmaccrae.com/",
-    socialMedia: {
-      instagram: "https://instagram.com/collings_maccrae",
-      twitter: "https://twitter.com/CollingsMacCrae",
-      tiktok: "https://tiktok.com/@collingsmaccrae",
-    },
-    umbrellaGenre: ["thriller"],
-    subGenre: ["Mystery", "Crime"],
-    bio: [
-      `Collings MacCrae writes Fox Argall Mysteries, a mystery thriller series starring a neurodiverse, wildly overeducated detective. The series focuses on the relationships surrounding Fox, as the ensemble cast unravels twisty mysteries.`,
-      `Collings grew up in Appalachia in a wildly neurodiverse family. She may also be at least mildly over-educated.`,
     ],
   },
   {
@@ -2192,6 +2142,33 @@ Currently working on Book 3 of The Mercy Aymes Series & edits on two standalones
     subGenre: ["Suspense", "Action"],
     bio: [
       `Jessica is a writer in a wheelchair and has Type 1 Diabetes. She is a multi-genre author and her works cater to YA, NA, and Adults.`,
+    ],
+  },
+  {
+    firstName: "Maia",
+    lastName: "Terry",
+    website: "http://authormaiaterry.com/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/authormaiaterry/",
+      tiktok: "https://www.tiktok.com/@maiaterryauthor",
+    },
+    umbrellaGenre: ["romance"],
+    subGenre: ["YA Contemporary", "Spicy Mafia"],
+    bio: [
+      `Maia Terry is a small town author from Kentucky where she lives with her husband and two amazing kids. Picking up writing at a young age, Maia loved creating a world that she could control, one where she could escape. Now, after a fourteen year hiatus, she builds on that love as she continues to use writing as an outlet. The real life aspects in her works hit home for so many, allowing them to connect on a deeper level with each character. Writing not only allowed herself to escape, but she wanted to create a world where she could give that reprieve to others as well.`,
+    ],
+  },
+  {
+    firstName: "Madeline",
+    lastName: "Vaughn",
+    website: "https://www.madelinevaughnbooks.com/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/madelinevaughnbooks/",
+    },
+    umbrellaGenre: ["thriller"],
+    subGenre: ["Crime", "Suspense"],
+    bio: [
+      `I'm Madeline Vaughn from Kansas City, MO. I have always been passionate about writing and storytelling. I would describe myself as a curious author who loves exploring different themes and motifs. As part of my writing process, I love to immerse myself into my projects—dive headfirst into the research, production, and fine-tuning of the stories that I feel are the most worthy of telling.`,
     ],
   },
 ];
