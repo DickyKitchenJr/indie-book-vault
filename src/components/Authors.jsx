@@ -2171,4 +2171,18 @@ Currently working on Book 3 of The Mercy Aymes Series & edits on two standalones
       `I'm Madeline Vaughn from Kansas City, MO. I have always been passionate about writing and storytelling. I would describe myself as a curious author who loves exploring different themes and motifs. As part of my writing process, I love to immerse myself into my projects—dive headfirst into the research, production, and fine-tuning of the stories that I feel are the most worthy of telling.`,
     ],
   },
+  {
+    firstName: "Kathy",
+    lastName: "Brandon",
+    website: "https://kathybrandonauthor.com/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/kathy.brandon.author.1222/",
+      goodreads: "https://www.goodreads.com/author/show/15584103.Kathy_Brandon",
+    },
+    umbrellaGenre: ["childrens"],
+    subGenre: ["Community"],
+    bio: [
+      `When Kathy became an educator, it was an easy transition to spread the joy of reading to students of all ages, knowing that there was a genre and book out there for every child to delve into with enthusiasm. Opening the pages of a book is the start of a brand new adventure for children and Kathy knew she wanted to contribute to the excitement children feel when they do so, as well as, sharing her passion for community, nature and animals. When she decided to write her first book, it was important to combine reading and interactive learning through a guide for children and adults to engage as well. She has three children, three in-laws and three grandsons who all bring her immense joy, adventures and so much laughter. With her husband and four-legged companion, you will find them all on the trails as much as possible, exploring the sights, sounds, smells and touch of nature all around them.`,
+    ],
+  },
 ];
