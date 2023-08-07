@@ -2185,4 +2185,56 @@ Currently working on Book 3 of The Mercy Aymes Series & edits on two standalones
       `When Kathy became an educator, it was an easy transition to spread the joy of reading to students of all ages, knowing that there was a genre and book out there for every child to delve into with enthusiasm. Opening the pages of a book is the start of a brand new adventure for children and Kathy knew she wanted to contribute to the excitement children feel when they do so, as well as, sharing her passion for community, nature and animals. When she decided to write her first book, it was important to combine reading and interactive learning through a guide for children and adults to engage as well. She has three children, three in-laws and three grandsons who all bring her immense joy, adventures and so much laughter. With her husband and four-legged companion, you will find them all on the trails as much as possible, exploring the sights, sounds, smells and touch of nature all around them.`,
     ],
   },
+  {
+    firstName: "J.G.",
+    lastName: "MacLeod",
+    website: "https://www.jgmacleod.com/",
+    socialMedia: {
+      twitter: "https://twitter.com/jgmacleodauthor",
+    },
+    umbrellaGenre: ["romance", "historicalfiction"],
+    subGenre: [
+      "Romantic Comedy",
+      "Romantic Suspense",
+      "Time Travel",
+      "Science Fiction Romance",
+      "Contemporary Romance",
+    ],
+    bio: [
+      `J.G. MacLeod is an award-winning, Canadian author with 8 published novels in romance sub-genres, and an experienced copy editor with 21+ years in the education sector. She edits everything from memoirs to romance novels. J.G. is active in the writing community on Twitter and enjoys supporting indie authors through beta reading and reviews. J.G. enjoys mocha frappes and cottage life with her daughters.`,
+    ],
+  },
+  {
+    firstName: "Kirk",
+    lastName: "Burris",
+    website: "https://www.kirkburris.com/",
+    socialMedia: {
+      twitter: "https://twitter.com/BurrisKirk",
+      facebook: "https://www.facebook.com/KirkBurrisAuthor",
+      instagram: "https://www.instagram.com/kirkburrisauthor",
+    },
+    umbrellaGenre: ["thriller"],
+    subGenre: ["Mystery"],
+    bio: [
+      `Multi-genre author Kirk Burris is an Amazon Best-selling author. His Book, 12 PILLS, cracked the top 100 Mystery books in 2022, landing him a space right between James Patterson and Michael Connelly. This was a huge honor as both of those authors are among his favorites.`,
+      `Having grown up in Missouri, where he earned a B.A. in Psychology from the University of Missouri, Kirk now makes his home in South Florida and swears he doesn't miss shoveling snow and ice to free his car. A fan of Kansas City, it has become the primary backdrop to his books thus far, though they also explore Miami, Washington D.C. and his romantic favorite, Paris, France.`,
+      `A travel bug, Kirk is often abroad. He can be found snorkeling the waters of the Caribbean, walking the streets of Paris, or taking in a Broadway show in New York. At home, Kirk is a food and cooking enthusiast. He also enjoys zipping along the exhilarating tracks of major roller coasters while he plots his next adventure.`,
+    ],
+  },
+  {
+    firstName: "Haley Anna",
+    lastName: "Marie",
+    website: "https://www.elementasseries.com/",
+    socialMedia: {
+      twitter: "https://twitter.com/ElementasSeries",
+      facebook: "https://www.facebook.com/elementasseries/",
+      instagram: "https://www.instagram.com/ElementasSeries/",
+      tiktok: "https://www.tiktok.com/@authorofelementasseries",
+    },
+    umbrellaGenre: ["fantasy"],
+    subGenre: ["Dark Fantasy"],
+    bio: [
+      `Due to childhood deafness, I would create stories to match the pictures in the books. Once my hearing was corrected, I fell in love with stories. In fourth grade, I wrote six short stories, and in fifth grade, I singlehandedly wrote and performed in a school play. The fantasy series, Elementas, is my prized possession, and I can't wait to share all of it with the world.`,
+    ],
+  },
 ];
