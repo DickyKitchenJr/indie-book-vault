@@ -2237,4 +2237,19 @@ Currently working on Book 3 of The Mercy Aymes Series & edits on two standalones
       `Due to childhood deafness, I would create stories to match the pictures in the books. Once my hearing was corrected, I fell in love with stories. In fourth grade, I wrote six short stories, and in fifth grade, I singlehandedly wrote and performed in a school play. The fantasy series, Elementas, is my prized possession, and I can't wait to share all of it with the world.`,
     ],
   },
+  {
+    firstName: "Felicity",
+    lastName: "Niven",
+    website: "https://www.felicityniven.com/",
+    socialMedia: {
+      facebook: "https://www.facebook.com/felicityniven",
+      instagram: "https://www.instagram.com/felicitynivenauthor/",
+      tiktok: "https://www.tiktok.com/@felicitynivenauthor",
+    },
+    umbrellaGenre: ["romance"],
+    subGenre: ["Steamy Historical Romance", "Regency Romance"],
+    bio: [
+      `Felicity Niven is a hopeful romantic. Writing Regency romance is her third career after two degrees from Harvard. And you know what they say about third things? Yep, it’s a charm. She splits her time between the temperate South in the winter and the cool Great Lakes in the summer and thinks there can be no greater comforts than a pot of soup on the stove, a set of clean sheets on the bed, and a Jimmy Stewart film on a screen in the living room. "Felicity Niven's writing is sharp and exquisite." — Julia Quinn`,
+    ],
+  },
 ];
