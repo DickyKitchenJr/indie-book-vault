@@ -2252,4 +2252,18 @@ Currently working on Book 3 of The Mercy Aymes Series & edits on two standalones
       `Felicity Niven is a hopeful romantic. Writing Regency romance is her third career after two degrees from Harvard. And you know what they say about third things? Yep, it’s a charm. She splits her time between the temperate South in the winter and the cool Great Lakes in the summer and thinks there can be no greater comforts than a pot of soup on the stove, a set of clean sheets on the bed, and a Jimmy Stewart film on a screen in the living room. "Felicity Niven's writing is sharp and exquisite." — Julia Quinn`,
     ],
   },
+  {
+    firstName: "Brittany",
+    lastName: "Dean",
+    website: "",
+    socialMedia: {
+      instagram: "http://www.instagram.com/author_brittanydean",
+      twitter: "http://www.twitter.com/GlitzyGirlBD",
+    },
+    umbrellaGenre: ["thriller"],
+    subGenre: ["Suspense", "Psychological Thriller"],
+    bio: [
+      `Brittany Dean is a writer, volunteer, student, and voracious reader. Originally from Hillsboro, Missouri, she is currently based in Southern California with her partner and their two fur babies. She has been reading and writing since the age of three, with multiple poetry entries and a nomination for the League for Innovation International Literary Competition from St. Louis Community College in 2009. After a decade long hiatus, she is currently enrolled at Maryville University online to obtain a BA in Criminology. When not writing, you can find her sipping coffee, food tasting, or chasing those hard-to-find Funko Pops. “A Darkened Mind” is her first novel.`,
+    ],
+  },
 ];
