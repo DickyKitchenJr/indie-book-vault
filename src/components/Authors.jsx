@@ -1323,7 +1323,7 @@ I am not a particularly physical being. I was always terrible at sport and have 
       instagram: "http://www.instagram.com/skywatcher_hl",
       twitter: "https://www.twitter.com/skywatcher_hl",
     },
-    umbrellaGenre: ["romance", "fantasy"],
+    umbrellaGenre: ["romance", "fantasy", "historicalfiction"],
     subGenre: ["Time Travel", "Historical Romance", "Women's Fiction"],
     bio: [
       `Heather Lynn, born in Toronto, Ontario, lives with her family just north of the city. Her education in biology and health sciences has supported an ongoing interest in physiology and the potential of herbal healing. In addition, she has been intrigued by the possibility and impossibility of time travel since childhood.  When she's not writing, Heather enjoys family time, working in her garden, and learning more about the 'power' of stones.`,
@@ -2264,6 +2264,36 @@ Currently working on Book 3 of The Mercy Aymes Series & edits on two standalones
     subGenre: ["Suspense", "Psychological Thriller"],
     bio: [
       `Brittany Dean is a writer, volunteer, student, and voracious reader. Originally from Hillsboro, Missouri, she is currently based in Southern California with her partner and their two fur babies. She has been reading and writing since the age of three, with multiple poetry entries and a nomination for the League for Innovation International Literary Competition from St. Louis Community College in 2009. After a decade long hiatus, she is currently enrolled at Maryville University online to obtain a BA in Criminology. When not writing, you can find her sipping coffee, food tasting, or chasing those hard-to-find Funko Pops. “A Darkened Mind” is her first novel.`,
+    ],
+  },
+  {
+    firstName: "Krystal",
+    lastName: "Harris",
+    website: "https://theimpatientalpaca.com/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/maraca_the_alpaca/",
+      facebook: "https://www.facebook.com/profile.php?id=100086266890541",
+    },
+    umbrellaGenre: ["childrens"],
+    subGenre: ["Picture Book"],
+    bio: [
+      `Author Krystal Harris never imagined herself as a children’s book author. She started writing after her daughter was born, and likes to think that her daughter was and continues to be her inspiration. The most important aspect of every story Krystal writes, is that it must have a strong message and lesson to inspire her young readers—she truly believes that there is a lesson to be learned from everything.`,
+    ],
+  },
+  {
+    firstName: "Alivia",
+    lastName: "Fleur",
+    website: "https://aliviafleur.com/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/aliviafleur_writes/",
+      facebook: "https://www.facebook.com/aliviafleurwrites",
+      goodreads: "https://www.goodreads.com/alivia-fleur",
+    },
+    umbrellaGenre: ["romance"],
+    subGenre: ["Historical Romance"],
+    bio: [
+      `Alivia is a historical romance author who moved form writing short stories to novels when her characters kept showing up with copious amounts of emotional baggage, demanding it be explored. Her love of the Victorian era, combined with a flair for creating memorable characters, led her to start writing her first historical romance series, Tales from Honeysuckle Street.`,
+      `Alivia lives on a farm along way from anywhere interesting, with her husband, four dogs, and a charismatic chicken named Persephone.`,
     ],
   },
 ];
