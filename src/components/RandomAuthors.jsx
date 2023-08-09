@@ -157,7 +157,7 @@ function RandomAuthors({ authors }) {
                             })}
                         <br />
                         <br />
-                        <h4 className={styles.modalH4}>Website:</h4>
+                        {author.website ? <div> <h4 className={styles.modalH4}>Website:</h4>
                         <p>
                           ▪{" "}
                           <a
@@ -170,7 +170,8 @@ function RandomAuthors({ authors }) {
                           </a>
                         </p>
                         <br />
-                        <br />
+                        <br /> </div> :null}
+                        
                         <h4 className={styles.modalH4}>Social Media:</h4>
                         <ul className={styles.modalUl}>
                           {author.socialMedia.instagram ? (
