@@ -2296,4 +2296,19 @@ Currently working on Book 3 of The Mercy Aymes Series & edits on two standalones
       `Alivia lives on a farm along way from anywhere interesting, with her husband, four dogs, and a charismatic chicken named Persephone.`,
     ],
   },
+  {
+    firstName: "Lyv",
+    lastName: "Lamere",
+    website: "https://www.lyvlamere.com/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/lyvlamere/",
+    },
+    umbrellaGenre: ["romance"],
+    subGenre: ["Contemporary", "Instalove", "Low-Angst", "Erotica"],
+    bio: [
+      `Lyv Lamere grew up in Germany and still lives there with her husband, their two cats, and her snake, even though they plan to relocate in the future.`,
+      `After successfully studying veterinary medicine and working at a laboratory, and working as a contractor in the tech industry, one day she found she had developed yet another passion – writing – and her first novel was completed sooner than expected.
+She's currently focusing on writing her second novel.`,
+    ],
+  },
 ];
