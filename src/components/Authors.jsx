@@ -2311,4 +2311,40 @@ Currently working on Book 3 of The Mercy Aymes Series & edits on two standalones
 She's currently focusing on writing her second novel.`,
     ],
   },
+  {
+    firstName: "Marie",
+    lastName: "Landry",
+    website: "https://www.marielandryauthor.com/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/marielandry.author/",
+      facebook: "https://www.facebook.com/MarieLandryAuthor/",
+      tiktok: "https://www.tiktok.com/@marielandrybooks",
+    },
+    umbrellaGenre: ["romance"],
+    subGenre: ["Contemporary Romance", "Romantic Comedy"],
+    bio: [
+      `Marie Landry lives and writes in a cozy apartment in Ontario, Canada, surrounded by books and Funko Pops. An avid reader from a young age, she loves getting lost in characters’ worlds, whether they’re of her own making or someone else’s. She particularly loves stories with as much of an emphasis on self-discovery and friendship as on romance...but don’t leave out the romance!`,
+      `When not doing bookish things, you can often find her taking pictures, cooking, scrolling Instagram (find her at @marielandry.author), daydreaming about frolicking through the Scottish Highlands, or listening to the same music she's loved since the '90s. She's an unapologetic nerd and fangirl, and that, along with her mental health advocacy, is often woven into her books.`,
+    ],
+  },
+  {
+    firstName: "Dr. Stuart",
+    lastName: "Knott",
+    website: "http://www.drkwaitingroom.com/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/dr.kauthor/",
+      facebook: "https://www.facebook.com/skteamos",
+      twitter: "https://twitter.com/drk_phd?lang=en",
+    },
+    umbrellaGenre: ["thriller", "scifi", "horror"],
+    subGenre: [
+      "Body Horror",
+      "Supernatrual Horror",
+      "Horror Collections",
+      "Short Stories",
+    ],
+    bio: [
+      `A lifelong fan of videogames, comic books, and horror, action, and science-fiction films, Dr. Stuart Knott writes fiction with the intent on infusing the mundane nature of everyday life with dark comedy and macabre events.`,
+    ],
+  },
 ];
