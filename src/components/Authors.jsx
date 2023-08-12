@@ -2321,4 +2321,18 @@ She's currently focusing on writing her second novel.`,
       `A lifelong fan of videogames, comic books, and horror, action, and science-fiction films, Dr. Stuart Knott writes fiction with the intent on infusing the mundane nature of everyday life with dark comedy and macabre events.`,
     ],
   },
+  {
+    firstName: "Matthew",
+    lastName: "Romeo",
+    website: "https://themavenknight.wixsite.com/website",
+    socialMedia: {
+      instagram: "https://www.instagram.com/housemontegue/",
+      facebook: "https://www.facebook.com/housemontegue/",
+    },
+    umbrellaGenre: ["scifi"],
+    subGenre: ["Fantasy", "Thriller"],
+    bio: [
+      `Matthew Romeo is a warrior poet. He has a healthy obsession with Star Wars, the Stormlight Archive, Cobra Kai, and Halo. When it comes to his career as a writer, he’s been inspired by the likes of Frank Herbert, Bandon Sanderson, and Pierce Brown. Pure chaos is the way of his writing style, often flitting between methodical outlining or just winging the story as he goes. Outside of being an author, he works for an international shipping company, is a loving husband, and a dad of two cats named Korra and Toph. He spends much of his free time playing Dungeons&Dragons, learning swordsmanship, practicing martial arts, and crafting entertaining stories.`,
+    ],
+  },
 ];
