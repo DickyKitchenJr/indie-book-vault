@@ -1016,7 +1016,7 @@ I am not a particularly physical being. I was always terrible at sport and have 
   {
     firstName: "Samantha",
     lastName: "Michaels",
-    website: "https://www.samanthamichaelsbooks.com/",
+    website: "https://www.samantha-michaels.com/",
     socialMedia: {
       instagram: "https://www.instagram.com/samanthamichaelsauthor/",
       facebook: "https://www.facebook.com/SamanthaMichaelsBooks",
