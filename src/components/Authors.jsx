@@ -2335,4 +2335,60 @@ She's currently focusing on writing her second novel.`,
       `Matthew Romeo is a warrior poet. He has a healthy obsession with Star Wars, the Stormlight Archive, Cobra Kai, and Halo. When it comes to his career as a writer, he’s been inspired by the likes of Frank Herbert, Bandon Sanderson, and Pierce Brown. Pure chaos is the way of his writing style, often flitting between methodical outlining or just winging the story as he goes. Outside of being an author, he works for an international shipping company, is a loving husband, and a dad of two cats named Korra and Toph. He spends much of his free time playing Dungeons&Dragons, learning swordsmanship, practicing martial arts, and crafting entertaining stories.`,
     ],
   },
+  {
+    firstName: "SF",
+    lastName: "Benson",
+    website: "https://www.authorsfbenson.com/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/authorsfbenson/",
+      facebook: "https://www.facebook.com/BensonSF/",
+      twitter: "https://twitter.com/BensonShantella",
+    },
+    umbrellaGenre: ["romance", "fantasy"],
+    subGenre: ["Romantic Fantasy"],
+    bio: [
+      `SF Benson, the talented author behind the captivating paranormal suspense series, The Spell Caster Diaries, resides in sunny Southern California with her husband and daughter, despite her extensive knowledge of Falls Creek, New York, and its supernatural inhabitants. When she isn't crafting stories of resilient heroes and heroines overcoming challenges, she indulges in her passion for romance and fantasy novels or immerses herself in her favorite DC Universe shows and Marvel movies.`,
+    ],
+  },
+  {
+    firstName: "Richard",
+    lastName: "Houlden",
+    website: "https://richardhouldenauthor.wordpress.com/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/richhoulden/",
+    },
+    umbrellaGenre: ["fantasy", "scifi"],
+    subGenre: ["Short Story", "Anthology"],
+    bio: [
+      `I’m a self published, indie author from West Yorkshire, UK.`,
+      `Though my career is in finance, I’ve always yearned to be an author with a passion for writing being discovered at a very young age. Of all the genres, I gravitate toward science fiction primarily because of the freedom and range of possibilities available to me.`,
+      `Though I started writing with the aim of full length novels, releasing my first in June 2022, I’ve developed a great love for short stories and the little snippets of excitement I can bring with the release of The Cartographer’s Vault in June 2023.`,
+    ],
+  },
+  {
+    firstName: "Danielle",
+    lastName: "Paquette-Harvey",
+    website: "http://www.daniellephauthor.com/",
+    socialMedia: {
+      instagram: "http://instagram.com/daniellephauthor/",
+    },
+    umbrellaGenre: ["romance", "fantasy"],
+    subGenre: ["Dark Fantasy Romance"],
+    bio: [
+      `Danielle Paquette-Harvey is an Award-Winning Amazon International Best Selling author of paranormal romance and steamy vampire romance fantasy. Her books include werewolves and vampires, myths and dark prophecies, magic, and witches, dragons and fairies, adventure and war, goddesses and demons. Her books have sold thousands of copies in 12 different countries worldwide and are being considered for a movie adaptation. Her books have been translated into French, and Italian. She is a self-published author living on the south shore of Montreal, Canada, with her husband, children, two cats, and an Australian Shepherd.`,
+    ],
+  },
+  {
+    firstName: "Marian",
+    lastName: "Pattechat",
+    website: "https://www.marianpattechat.com/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/marianpattechat/",
+    },
+    umbrellaGenre: ["romance"],
+    subGenre: ["Sci-Fi", "Fantasy"],
+    bio: [
+      `I write science fiction and fantasy romance books that are sweet, steamy, and sprinkled with a hearty dose of humor. Join my sassy heroines and cinnamon roll heroes as they discover new worlds - and love - together!`,
+    ],
+  },
 ];
