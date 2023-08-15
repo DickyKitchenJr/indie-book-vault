@@ -2391,4 +2391,66 @@ She's currently focusing on writing her second novel.`,
       `I write science fiction and fantasy romance books that are sweet, steamy, and sprinkled with a hearty dose of humor. Join my sassy heroines and cinnamon roll heroes as they discover new worlds - and love - together!`,
     ],
   },
+  {
+    firstName: "Stephanie",
+    lastName: "Ruth",
+    website: "http://www.stephanie-ruth.com/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/ruth_writes_nz/",
+      tiktok: "https://www.tiktok.com/@_ruth_writes_nz",
+      facebook: "https://facebook.com/stephanie.ruth.nz",
+      twitter: "https://twitter.com/ruth_writes_nz",
+    },
+    umbrellaGenre: ["romance"],
+    subGenre: ["Oceania", "Multicultural", "Contemporary"],
+    bio: [
+      `Writing contemporary romance with heat, heart, and a sense of home, Stephanie Ruth is a multi-award winning indy author from Te Waipounamu, Aotearoa. She is currently working on her second New Zealand based contemporary romance series.`,
+      `If it doesn't have a happy ending in some form or other, Stephanie's not writing it!`,
+    ],
+  },
+  {
+    firstName: "Lilla",
+    lastName: "Nicholas-Holt",
+    website: "http://picketybooks.com/",
+    socialMedia: {
+      facebook: "http://facebook.com/picketybooks",
+    },
+    umbrellaGenre: ["childrens"],
+    subGenre: ["Rhyming Children's Stories"],
+    bio: [
+      `Lilla is a New Zealand author who has self-published three novels; her latest, Soldier Sailor Lover Slave: A Story of a Woman's Nine Past Lives published under her maiden name, E F Holt. She has also self-published a collection of children’s stories, which she invites you to view on her website picketybooks.com. In her teenage years she wrote limericks with dark humour in birthday cards for friends and family, which delivered a few laughs.`,
+      `The author grew up on a sheep farm in Waimate North, NZ, enjoying all the wonderful experiences and freedom of the great outdoors. Apart from enjoying her love of writing, she paints portraits, lately of her grandchildren, as well as creating “quiet books” for her grandchildren.`,
+      `The concept of reincarnation fascinates her. She has read books written by Dr. Brian Weiss, Dr. Ian Stevenson, Edgar Cayce, and Shakti Gawain, but her favourite and most influential are the Seth Books written by Jane Roberts.`,
+      `Lilla is responsible for three adult children and four grandchildren.`,
+    ],
+  },
+  {
+    firstName: "Elora",
+    lastName: "Canne",
+    website: "",
+    socialMedia: {
+      instagram: "https://www.instagram.com/elora_canne",
+      facebook: "https://www.facebook.com/eloracanne",
+    },
+    umbrellaGenre: ["nonfiction"],
+    subGenre: ["Memoir", "Travel"],
+    bio: [
+      `Elora Canne originates from South Africa, now living in Sydney, Australia. Her memoir, En Route, outlines the travels of a gap year her and her husband took, to travel the world. EN ROUTE: The Best is Yet To Be, is available in ebook and paperback on Amazon.`,
+      `~~Road trips and relationships, what could possibly go wrong`,
+    ],
+  },
+  {
+    firstName: "Ivy",
+    lastName: "Fairbanks",
+    website: "",
+    socialMedia: {
+      tiktok: "https://www.tiktok.com/@ivyfairbanksbooks",
+      instagram: "https://instagram.com/ivyfairbanksbooks",
+    },
+    umbrellaGenre: ["romance"],
+    subGenre: ["Romantic Comedy"],
+    bio: [
+      `Ivy Fairbanks is a shameless consumer of rom-com books, hazelnut coffee, and Hozier music. Not necessarily in that order. Living with chronic pain has made her a believer in the power of fictional escapism and happy endings. She lives in Clearwater, Florida with her husband and son. At any given moment, she is probably trapped under a sleeping tabby cat.`,
+    ],
+  },
 ];
