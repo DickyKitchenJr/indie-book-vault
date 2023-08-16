@@ -2266,6 +2266,7 @@ Currently working on Book 3 of The Mercy Aymes Series & edits on two standalones
     umbrellaGenre: ["romance"],
     subGenre: ["Historical Romance"],
     bio: [
+      `2023 RUBY winner for Best Historical Novella`,
       `Alivia is a historical romance author who moved form writing short stories to novels when her characters kept showing up with copious amounts of emotional baggage, demanding it be explored. Her love of the Victorian era, combined with a flair for creating memorable characters, led her to start writing her first historical romance series, Tales from Honeysuckle Street.`,
       `Alivia lives on a farm along way from anywhere interesting, with her husband, four dogs, and a charismatic chicken named Persephone.`,
     ],
@@ -2414,6 +2415,7 @@ She's currently focusing on writing her second novel.`,
     website: "http://picketybooks.com/",
     socialMedia: {
       facebook: "http://facebook.com/picketybooks",
+      instagram: "https://www.instagram.com/picketybooks/",
     },
     umbrellaGenre: ["childrens"],
     subGenre: ["Rhyming Children's Stories"],
@@ -2436,7 +2438,7 @@ She's currently focusing on writing her second novel.`,
     subGenre: ["Memoir", "Travel"],
     bio: [
       `Elora Canne originates from South Africa, now living in Sydney, Australia. Her memoir, En Route, outlines the travels of a gap year her and her husband took, to travel the world. EN ROUTE: The Best is Yet To Be, is available in ebook and paperback on Amazon.`,
-      `~~Road trips and relationships, what could possibly go wrong`,
+      `~~Road trips and relationships, what could possibly go wrong?`,
     ],
   },
   {
@@ -2451,6 +2453,29 @@ She's currently focusing on writing her second novel.`,
     subGenre: ["Romantic Comedy"],
     bio: [
       `Ivy Fairbanks is a shameless consumer of rom-com books, hazelnut coffee, and Hozier music. Not necessarily in that order. Living with chronic pain has made her a believer in the power of fictional escapism and happy endings. She lives in Clearwater, Florida with her husband and son. At any given moment, she is probably trapped under a sleeping tabby cat.`,
+    ],
+  },
+  {
+    firstName: "Brooke",
+    lastName: "Gilbert",
+    website: "https://www.brookegilbertauthor.com/",
+    socialMedia: {
+      tiktok: "https://www.tiktok.com/@brookegilbertauthor",
+      instagram: "http://instagram.com/enchantingbrookevoiceover",
+      twitter: "http://twitter.com/brookegauthor",
+    },
+    umbrellaGenre: ["romance", "comedy"],
+    subGenre: [
+      "OwnVoice",
+      "Romantic-Comedy",
+      "Women's Fiction",
+      "Disability Fiction",
+      "Religious Romance",
+      "Travel Romance",
+    ],
+    bio: [
+      `Brooke Gilbert is a Tennessee native, a microbiology graduate of the University of Tennessee, and a border collie mom. She is, as you may have already guessed, a hopeless romantic and a lover of Jane Austen. When she isn’t writing, she works as a jewelry designer, an audiobook narrator, and a graphic designer. Her writing features characters with autoimmune disorders, something she deals with herself. She believes it is important for these types of characters to be seen in modern literature and started writing so she could see someone like herself in literature. She is considered a medical mystery and has several rare autoimmune disorders. These disorders caused her to withdraw from Physician Assistant School, but she is happy to be pursuing her dreams of designing, creating, and writing. She thanks God for leading her heart on this new path and recites “perhaps this is the moment for which you were created” in times of doubt (Esther 4:14).`,
+      `She loves watching classic ﬁlms (thrillers and romantic comedies, too), reading, playing the ukulele, painting, dancing, Pilates, and spending time with her dog, family, and friends. One of her favorite quotes is from Flashdance: “When you give up on your dreams, you die.” She believes that if you’re waiting to pursue your dreams, stop waiting and start doing. Your time is now. And may you never stop being a hopeless romantic. Contrary to popular belief, it’s a very good quality. She’s still looking for her Mr. Darcy. Visit brookegilbertauthor.com to connect and stay updated on her latest projects.`,
     ],
   },
 ];
