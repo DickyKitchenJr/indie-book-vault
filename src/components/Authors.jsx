@@ -2478,4 +2478,17 @@ She's currently focusing on writing her second novel.`,
       `She loves watching classic ﬁlms (thrillers and romantic comedies, too), reading, playing the ukulele, painting, dancing, Pilates, and spending time with her dog, family, and friends. One of her favorite quotes is from Flashdance: “When you give up on your dreams, you die.” She believes that if you’re waiting to pursue your dreams, stop waiting and start doing. Your time is now. And may you never stop being a hopeless romantic. Contrary to popular belief, it’s a very good quality. She’s still looking for her Mr. Darcy. Visit brookegilbertauthor.com to connect and stay updated on her latest projects.`,
     ],
   },
+  {
+    firstName: "J.N.",
+    lastName: "Stein",
+    website: "",
+    socialMedia: {
+      instagram: "https://www.instagram.com/j.n.stein",
+    },
+    umbrellaGenre: ["romance"],
+    subGenre: ["Shifter Romance", "Paranormal Romance"],
+    bio: [
+      `J. N. Stein is a new-to-the-scene indie author. Her stories feature strong female main characters and plots with plenty of twists. Let's not forget steamy scenes to inspire your newest fantasies. If you're looking for relatable, complex characters, shifter romances, and happily ever afters, check out her books.`,
+    ],
+  },
 ];
