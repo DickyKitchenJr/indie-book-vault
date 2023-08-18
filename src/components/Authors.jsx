@@ -2491,4 +2491,19 @@ She's currently focusing on writing her second novel.`,
       `J. N. Stein is a new-to-the-scene indie author. Her stories feature strong female main characters and plots with plenty of twists. Let's not forget steamy scenes to inspire your newest fantasies. If you're looking for relatable, complex characters, shifter romances, and happily ever afters, check out her books.`,
     ],
   },
+  {
+    firstName: "Tiffany",
+    lastName: "Ryan",
+    website: "https://tiffanyryanwrites.com/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/tiffany_ryan_author/",
+      facebook: "https://www.facebook.com/TiffanyRyanAuthor",
+      tiktok: "https://www.tiktok.com/@tiffanyryanwrites",
+    },
+    umbrellaGenre: ["comedy"],
+    subGenre: ["Sarcastic Humor"],
+    bio: [
+      `Tiffany currently resides in North Georgia with her husband and two children. When she's not writing, you will often find her cheering her daughter on at soccer games, listening patiently to her son regale her with stories of his wild antics, hiking and frequenting North Georgia wineries with her husband, reading anthropological thrillers, or relaxing with a good paint by numbers.`,
+    ],
+  },
 ];
