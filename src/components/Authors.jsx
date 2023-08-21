@@ -2506,4 +2506,64 @@ She's currently focusing on writing her second novel.`,
       `Tiffany currently resides in North Georgia with her husband and two children. When she's not writing, you will often find her cheering her daughter on at soccer games, listening patiently to her son regale her with stories of his wild antics, hiking and frequenting North Georgia wineries with her husband, reading anthropological thrillers, or relaxing with a good paint by numbers.`,
     ],
   },
+  {
+    firstName: "AM",
+    lastName: "Scott",
+    website: "https://www.amscottwrites.com/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/amscottwrites/",
+      facebook: "https://www.facebook.com/AMScottWrites/",
+      twitter: "http://twitter.com/AM_Scottwrites",
+    },
+    umbrellaGenre: ["scifi"],
+    subGenre: ["Space Opera"],
+    bio: [
+      `After twenty years as a US Air Force space operations officer, AM now operates a laptop, trading in real satellites for fictional spaceships. She writes classic-style science fiction for today’s world, full of adventure, hope and heart.`,
+      `AM’s writing cave is deep in the mountains of western Montana; check out Montana, The Amazing Sleeping Man and Zoe, their slightly crazy German Shepherd, on Instagram. AM is also a volunteer leader with Team Rubicon Disaster Response.`,
+    ],
+  },
+  {
+    firstName: "Stacy",
+    lastName: "Kristen",
+    website: "https://www.stacykristenauthor.com/",
+    socialMedia: {
+      instagram: "http://www.instagram.com/stacykristenauthor",
+      facebook: "http://www.facebook.com/StacyKristenAuthor2",
+      tiktok: "http://tiktok.com/@stacykristenauthor",
+    },
+    umbrellaGenre: ["romance"],
+    subGenre: ["Romantic Suspense"],
+    bio: [
+      `Stacy Kristen is an indie author who writes spicy romance and romantic suspense novellas with HEAs for those who just want a short, steamy read. She's an avid reader of romance and enjoys baking, drinking lots of caffeine, traveling, and laughing at the squirrels in her backyard.`,
+    ],
+  },
+  {
+    firstName: "Christopher",
+    lastName: "Candy",
+    website: "http://www.christophercandy.co.nz/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/christophercandy.author/",
+      facebook: "https://www.facebook.com/authorchristophercandy",
+      twitter: "https://twitter.com/author_candy",
+    },
+    umbrellaGenre: ["childrens"],
+    subGenre: ["Children's Picture Books"],
+    bio: [
+      `Christopher Candy. Author of the Comet the Red Bus book series. Including Around the City and Comet Goes to the Beach.`,
+      `After the outstanding success of his first children's picture book, Comet the Red Bus - Around the City, Author Christopher Candy has continued to write the next book in the Comet the Red Bus series. Working full-time as a Manager for Tranzit Coachlines, Christopher has many years of bus-related experience that brings his characters to life. Christopher is based in the Tararua region and enjoys spending time with his partner, farm animals and pet dog, Tupance.`,
+    ],
+  },
+  {
+    firstName: "L.",
+    lastName: "Cuzidora",
+    website: "https://cuzidora.podia.com/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/l.cuzidora/",
+    },
+    umbrellaGenre: ["dystopian"],
+    subGenre: ["Romance", "Thriller"],
+    bio: [
+      `L is a proud rat mother from Transylvania, Eastern Europe. She studied Sociology and Environmental Sciences and wishes she’d had started writing at an earlier age. Now she’s determined to make up for all the years spent jumping from one passion to another and devote herself to exploring even more flawed characters.`,
+    ],
+  },
 ];
