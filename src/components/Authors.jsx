@@ -2566,4 +2566,20 @@ She's currently focusing on writing her second novel.`,
       `L is a proud rat mother from Transylvania, Eastern Europe. She studied Sociology and Environmental Sciences and wishes she’d had started writing at an earlier age. Now she’s determined to make up for all the years spent jumping from one passion to another and devote herself to exploring even more flawed characters.`,
     ],
   },
+  {
+    firstName: "Anne M.",
+    lastName: "Scott",
+    website: "https://www.amscottwrites.com/romance/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/annemscott_author",
+      facebook: "https://www.facebook.com/AnneMScottAuthor",
+      twitter: "https://twitter.com/AnneScottAuthor",
+    },
+    umbrellaGenre: ["romance"],
+    subGenre: ["Romantic Suspense"],
+    bio: [
+      `After twenty years in the US Air Force, Anne M. Scott traded her sword for a pen. Well, a laptop. She writes about strong women and men, love that grows slowly in small western towns, with suspense, action and adventure, and anything more than kisses behind closed doors.`,
+      `Anne is lucky to live, hike, and ski in the Bitterroot Mountains of Montana. On the rare occasions she leaves, Anne volunteers with Team Rubicon, a veteran-led disaster response organization.`,
+    ],
+  },
 ];
