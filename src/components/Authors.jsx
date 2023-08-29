@@ -2582,4 +2582,49 @@ She's currently focusing on writing her second novel.`,
       `Anne is lucky to live, hike, and ski in the Bitterroot Mountains of Montana. On the rare occasions she leaves, Anne volunteers with Team Rubicon, a veteran-led disaster response organization.`,
     ],
   },
+  {
+    firstName: "David",
+    lastName: "Thomas",
+    website: "https://lunanovel.squarespace.com/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/luna.novel/",
+    },
+    umbrellaGenre: ["scifi"],
+    subGenre: ["Grounded Sci-Fi"],
+    bio: [
+      `Born in Dublin, Ireland, I graduated with a BA (Hons) degree in English Literature in 2006.`,
+      `Since then, I’ve lived and worked in the US, Scotland and Germany.`,
+      `Currently based in England, “Luna” is my first novel and it’s a love letter to ‘grounded’ science fiction - a tale set in the not too distant future, placing ordinary people in extraordinary circumstances.`,
+    ],
+  },
+  {
+    firstName: "Bonnie",
+    lastName: "Callahan",
+    website: "https://www.bonniecallahanbooks.com/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/authorbonniecallahan/",
+      tiktok: "https://www.tiktok.com/@authorbonniecallahan",
+    },
+    umbrellaGenre: ["romance", "fantasy", "thriller", "historicalfiction"],
+    subGenre: ["Romantic Comedy", "YA Historical Fiction", "Romantic Thriller"],
+    bio: [
+      `Bonnie was born in Tucson, Arizona, where she went on to study Classics and Italian at the University of Arizona. After seven years in Italy, she is now back in the Sonoran Desert, where she lives with her Italian study abroad sweetheart, their two kids, and a few bilingual pets. Bonnie is the author of Remy vs. Rome, a rom-com adventure novel, and Road of Stars and Flame, a YA historical fantasy. She is currently working on her first romantic thriller, based in a medieval Italian hill town and inspired by true events. Her idea of a happily ever after includes a solid serving of food, wine, and adorable animals.`,
+    ],
+  },
+  {
+    firstName: "Jessica",
+    lastName: "Scachetti",
+    website: "https://jscachetti.wixsite.com/authorsite",
+    socialMedia: {
+      instagram: "https://www.instagram.com/jessica_scachetti_author/",
+      facebook: "https://www.facebook.com/jessicascachettiromanceauthor/",
+      twitter: "http://twitter.com/jessScachetti",
+    },
+    umbrellaGenre: ["romance"],
+    subGenre: ["Christian"],
+    bio: [
+      `Writes gritty Christian romance books. Edgier Christian love stories containing sinful characters who make or have made poor choices. Despite each books use of flawed characters, violence and profanity, each gritty representation showcases the immorality of those sinful actions and displays an overall message of redemption and salvation through Jesus Christ.`,
+      `Each of my books is part of a series of interconnected standalone novels/novellas, and you can find them exclusively on Amazon.`,
+    ],
+  },
 ];
