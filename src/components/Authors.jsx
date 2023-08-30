@@ -2627,4 +2627,33 @@ She's currently focusing on writing her second novel.`,
       `Each of my books is part of a series of interconnected standalone novels/novellas, and you can find them exclusively on Amazon.`,
     ],
   },
+  {
+    firstName: "D.H.",
+    lastName: "Gibbs",
+    website: "http://www.dhgibbs.com/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/dhgibbs_author/",
+      tiktok: "https://www.tiktok.com/@dhgibbsauthor",
+    },
+    umbrellaGenre: ["fantasy"],
+    subGenre: ["Low Spice Fantasy"],
+    bio: [
+      `D.H. Gibbs is a USA Today Bestselling Author and Newsday T&T Choice finalist. She enjoys writing fantasy, contemporary romance, and children’s books. When not navigating the adventures of her kick-ass female leads, she’s a complete Starbucks and book addict who binge-watches TV series like Lucifer, Carnival Row, and Warrior. A Trinidadian native, she currently lives and creates new worlds in Japan.`,
+    ],
+  },
+  {
+    firstName: "Rebecca",
+    lastName: "Marsh",
+    website: "https://www.rebeccalmarsh.com/",
+    socialMedia: {
+      facebook: "https://www.facebook.com/RebeccaLynnMarsh",
+      twitter: "https://twitter.com/RebeccaLMarsh1",
+    },
+    umbrellaGenre: ["drama"],
+    subGenre: ["Women's Fiction"],
+    bio: [
+      `Rebecca L. Marsh is an award winning author of women's fiction and a member of the Paulding County Writer's Guild. She grew up in the mountains of Western North Carolina and now lives in Dallas, Georgia with her husband and daughter.`,
+      `When not writing, she enjoys spending time with her family (cats and dog included), watching movies, and reading a good book. Rebecca occasionally makes home-made candy and works on her scrapbooks (she is woefully behind).`,
+    ],
+  },
 ];
