@@ -2656,4 +2656,22 @@ She's currently focusing on writing her second novel.`,
       `When not writing, she enjoys spending time with her family (cats and dog included), watching movies, and reading a good book. Rebecca occasionally makes home-made candy and works on her scrapbooks (she is woefully behind).`,
     ],
   },
+  {
+    firstName: "A.R.",
+    lastName: "Grosjean",
+    website: "https://argrosjeanauthor.wixsite.com/home",
+    socialMedia: {
+      facebook: "https://www.facebook.com/WriterA.R.Grosjean",
+      instagram: "https://www.instagram.com/a.r.grosjeanauthor/",
+    },
+    umbrellaGenre: ["romance", "fantasy", "thriller", "scifi", "childrens"],
+    subGenre: ["Paranormal Thriller"],
+    bio: [
+      `Explore where only the mind can reach! A.R. Grosjean is an author of Fantasy, Romance, Mystery, Paranormal, Thriller, Science Fiction, and beyond. With A.R. Grosjean (aka Amber), there's an adventure waiting to be explored. The sky is the limit--it's where Amber resides! View her books and find your next adventure!`,
+      `Amber began her life's journey in a small farm community where she was bullied by her peers and family members. By the age of ten, she was ready to give up and attempted suicide. A year later, she discovered writing and the world she could create with her words. She was already a storyteller at heart. Since finding herself, she was able to turn her focus on healing and acceptance. She found where she belonged. Amber continues writing, creating new places to explore, and wants you to explore with her.`,
+      `Amber lives in Fort Wayne with her husband of more than twenty-five years. She has released more than twenty books and continues to write. Her books have something different, making her unique in her own right. Visit her website for more information.`,
+      `Amber believes that dreams can truly come true. Don't give up.`,
+      `You can also sign up for her bi-weekly newsletter for updates, events, special news, and to learn about Amber and other writers as she supports other Indie Authors at subscribepage.io/p5o9p7 where you can find free gifts for signing up!`,
+    ],
+  },
 ];
