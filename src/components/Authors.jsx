@@ -2661,7 +2661,7 @@ She's currently focusing on writing her second novel.`,
     lastName: "Grosjean",
     website: "https://argrosjeanauthor.wixsite.com/home",
     socialMedia: {
-      facebook: "https://www.facebook.com/WriterA.R.Grosjean",
+      facebook: "https://www.facebook.com/argrosjeanauthorwriter",
       instagram: "https://www.instagram.com/a.r.grosjeanauthor/",
     },
     umbrellaGenre: ["romance", "fantasy", "thriller", "scifi", "childrens"],
@@ -2672,6 +2672,53 @@ She's currently focusing on writing her second novel.`,
       `Amber lives in Fort Wayne with her husband of more than twenty-five years. She has released more than twenty books and continues to write. Her books have something different, making her unique in her own right. Visit her website for more information.`,
       `Amber believes that dreams can truly come true. Don't give up.`,
       `You can also sign up for her bi-weekly newsletter for updates, events, special news, and to learn about Amber and other writers as she supports other Indie Authors at subscribepage.io/p5o9p7 where you can find free gifts for signing up!`,
+    ],
+  },
+  {
+    firstName: "Beronika",
+    lastName: "Keres",
+    website: "https://www.beronikakeres.com/",
+    socialMedia: {
+      facebook: "https://www.facebook.com/AuthorBeronikaKeres",
+      instagram: "https://www.instagram.com/beronikakeres/",
+    },
+    umbrellaGenre: ["fantasy"],
+    subGenre: ["Thriller", "Vampire", "Dark Fantasy"],
+    bio: [
+      `Beronika Keres is the Canadian author of the dark fantasy thriller series, Cracked Coffins. She decided in the second grade that she wanted to be an author and has spent her life honing her craft and pursuing her dream. She can often be found chasing plot bunnies and writing books.`,
+      `When she’s not writing, she enjoys spending time with her family, or listening to some gothic rock, punk, or metal while working on her newest spike and patch-covered project.`,
+    ],
+  },
+  {
+    firstName: "Havelah",
+    lastName: "McLat",
+    website: "http://havelahmclat.wixsite.com/home",
+    socialMedia: {
+      instagram: "https://www.instagram.com/havelahmclatwriter",
+    },
+    umbrellaGenre: ["romance"],
+    subGenre: [
+      "Second Chance Romance",
+      "Small Town",
+      "Clean & Wholesome Romance",
+    ],
+    bio: [
+      `Havelah McLat grew up on a small farm in rural Ohio with her family. As a kid, she spent hours drawing and then crafting short stories to go along with her illustrations. As she got older, her passion grew to write stories about the world, faith, and topics that matter the most to her. She has written several short fictions that have been featured in different anthologies. When she isn’t writing, she reads books, draws, helps with activity events in the local church and community, and spends time with her family.`,
+    ],
+  },
+  {
+    firstName: "Rian F.",
+    lastName: "Holes",
+    website: "",
+    socialMedia: {
+      instagram: "https://www.instagram.com/rianf.holes",
+      twitter: "https://twitter.com/holes_f?t=PHUcyaLvpJ7DnsZeH_40zg&s=09",
+      tiktok: "http://tiktok.com/@rianf.holes",
+    },
+    umbrellaGenre: ["thriller"],
+    subGenre: ["Mystery", "Suspense", "Techno-Thriller"],
+    bio: [
+      `Rian F. Holes has started writing when he was seven years old by writing short stories about a teddy bear. Later as a teenager he wrote poetry, crime and science-fiction novels. While still being at school he started working as a freelance reporter for a local newspaper. He had studied HR and organizational man-agement and Catholic Theology. He is a for-mer business consultant and works as a teacher now. He had already published stories for children and articles about business management in international journals. Ice and Prey is his first internationally published novel for adults. He is married and father of two sons. Together with his family and a small dog he lives in a village in western Germany.`,
     ],
   },
 ];
