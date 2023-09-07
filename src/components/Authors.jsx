@@ -2743,4 +2743,20 @@ She's currently focusing on writing her second novel.`,
       `A native New Englander who has spent over half her life in North Carolina, she’s an empty nester, leaving only her husband and "faux" Golden Retriever at her mercy.`,
     ],
   },
+  {
+    firstName: "Roy L.",
+    lastName: "Pickering Jr.",
+    website: "http://roypickering.weebly.com/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/avaappelsawse/",
+      facebook: "https://www.facebook.com/PatchesOfGrey/",
+      tiktok: "https://www.tiktok.com/@mudhousebooks",
+      twitter: "https://twitter.com/AuthorofPatches",
+    },
+    umbrellaGenre: ["childrens", "drama"],
+    subGenre: ["Contemporary", "Literary", "African American"],
+    bio: [
+      `Roy Pickering is the author of the novels Patches of Grey and Matters of Convenience, a children's book entitled The Absolutely Amazing Adventures of Ava Appelsawse, and the novella Feeding the Squirrels. He is currently at work on his third novel. Anthologies that house Roy's shorter fiction include Proverbs for the People, Role Call, The Game: Short Stories About the Life, Prose to be Read Aloud and Forever Travels. He writes the blog A Line A Day which charts his diverse interests, and maintains Roy's Book Reviews, the YouTube channel where he shares his thoughts on books along with readings of children's books.`,
+    ],
+  },
 ];
