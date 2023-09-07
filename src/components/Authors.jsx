@@ -2721,4 +2721,26 @@ She's currently focusing on writing her second novel.`,
       `Rian F. Holes has started writing when he was seven years old by writing short stories about a teddy bear. Later as a teenager he wrote poetry, crime and science-fiction novels. While still being at school he started working as a freelance reporter for a local newspaper. He had studied HR and organizational man-agement and Catholic Theology. He is a for-mer business consultant and works as a teacher now. He had already published stories for children and articles about business management in international journals. Ice and Prey is his first internationally published novel for adults. He is married and father of two sons. Together with his family and a small dog he lives in a village in western Germany.`,
     ],
   },
+  {
+    firstName: "C.S.",
+    lastName: "Smith",
+    website: "https://www.cssmithauthor.com/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/c.s.smithauthor/",
+      facebook: "https://www.facebook.com/CSSmithAuthor19",
+      tiktok: "https://www.tiktok.com/@c.s.smithauthor",
+      goodreads: "https://www.goodreads.com/author/show/23127493.C_S_Smith",
+    },
+    umbrellaGenre: ["romance"],
+    subGenre: [
+      "Romantic Suspense/Thriller",
+      "Military Romance",
+      "Action/Adventure Romance",
+    ],
+    bio: [
+      `C.S. Smith writes steamy romantic suspense featuring former special operators. She admits to having a thing for alpha males. The bigger and badder, the harder they fall!`,
+      `Her love of spine-tingling romance can be traced to her formative years in DC, surrounded by intrigue and handsome men in uniform—including the one she married.`,
+      `A native New Englander who has spent over half her life in North Carolina, she’s an empty nester, leaving only her husband and "faux" Golden Retriever at her mercy.`,
+    ],
+  },
 ];
