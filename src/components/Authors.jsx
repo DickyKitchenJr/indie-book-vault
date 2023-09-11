@@ -2759,4 +2759,30 @@ She's currently focusing on writing her second novel.`,
       `Roy Pickering is the author of the novels Patches of Grey and Matters of Convenience, a children's book entitled The Absolutely Amazing Adventures of Ava Appelsawse, and the novella Feeding the Squirrels. He is currently at work on his third novel. Anthologies that house Roy's shorter fiction include Proverbs for the People, Role Call, The Game: Short Stories About the Life, Prose to be Read Aloud and Forever Travels. He writes the blog A Line A Day which charts his diverse interests, and maintains Roy's Book Reviews, the YouTube channel where he shares his thoughts on books along with readings of children's books.`,
     ],
   },
+  {
+    firstName: "Susanne",
+    lastName: "Perry",
+    website: "https://susanneperrybooks.com/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/booksbysusanneperry",
+    },
+    umbrellaGenre: ["thriller"],
+    subGenre: ["Mystery", "Short Stories"],
+    bio: [
+      `Susanne Perry is the author of the City Streets series of mysteries — Runaway, Veteran and Gutter Punk—set within the street community of the Pacific Northwest. Her short story, Prep Work was included in Riversong Books Best Short Stories of 2022.  A second short story entitled Karma and Santayana, was selected in 2023. Swan Song is set in Arizona and is her fourth novel.`,
+    ],
+  },
+  {
+    firstName: "Jae",
+    lastName: "Greyn",
+    website: "https://jaegreyn.com/",
+    socialMedia: {
+      facebook: "https://www.facebook.com/jaegreyn",
+    },
+    umbrellaGenre: ["romance", "fantasy"],
+    subGenre: ["LGBTQ Paranormal"],
+    bio: [
+      `Jae Greyn is the author of the Fire Ridge Pride Series. Born in the United States, Jae is an advocate for being good humans to animals and people. A consumer of coffee, chocolate, and romances. If you have any questions, you can check out https://jaegreyn.com`,
+    ],
+  },
 ];
