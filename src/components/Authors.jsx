@@ -2785,4 +2785,24 @@ She's currently focusing on writing her second novel.`,
       `Jae Greyn is the author of the Fire Ridge Pride Series. Born in the United States, Jae is an advocate for being good humans to animals and people. A consumer of coffee, chocolate, and romances. If you have any questions, you can check out https://jaegreyn.com`,
     ],
   },
+  {
+    firstName: "Anne",
+    lastName: "Daly",
+    website: "https://annedaly.com/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/careersforgirls/",
+      facebook: "https://www.facebook.com/Careers-for-Girls-107861405140547",
+    },
+    umbrellaGenre: ["childrens", "nonfiction"],
+    subGenre: [
+      "Informational",
+      "Expository Descriptive",
+      "Reference",
+      "STEM",
+      "Jobs",
+    ],
+    bio: [
+      `Anne Daly has worked in management and in the STEM sector, in Ireland and America, building, repairing and troubleshooting computers. She has written for MsCareerGirl.com and BooksIrelandMagazine.com and the EU-funded ‘Gearing Roles’ project, and is a member of ALLi and Writing.ie. Anne is a mother of two teenagers and she credits them for inspiring in her a passion to help children understand life; this has become the driving force behind her books. Born in 1969 and raised on the north side of Dublin, Ireland, Anne now lives in the rural midlands of Ireland, in a little bungalow, with her husband, two children, three stray cats and a big loud dog. Find out more about Anne’s animal friends, and her books, at AnneDaly.com.`,
+    ],
+  },
 ];
