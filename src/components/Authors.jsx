@@ -2805,4 +2805,37 @@ She's currently focusing on writing her second novel.`,
       `Anne Daly has worked in management and in the STEM sector, in Ireland and America, building, repairing and troubleshooting computers. She has written for MsCareerGirl.com and BooksIrelandMagazine.com and the EU-funded ‘Gearing Roles’ project, and is a member of ALLi and Writing.ie. Anne is a mother of two teenagers and she credits them for inspiring in her a passion to help children understand life; this has become the driving force behind her books. Born in 1969 and raised on the north side of Dublin, Ireland, Anne now lives in the rural midlands of Ireland, in a little bungalow, with her husband, two children, three stray cats and a big loud dog. Find out more about Anne’s animal friends, and her books, at AnneDaly.com.`,
     ],
   },
+  {
+    firstName: "Brianna R.",
+    lastName: "Shaffery",
+    website: "http://brswrites.com/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/brs_writes/",
+      facebook: "https://www.facebook.com/BRSWritesOfficial",
+      twitter: "https://twitter.com/brswrites",
+      tiktok: "http://tiktok.com/@brswrites",
+    },
+    umbrellaGenre: ["fantasy"],
+    subGenre: ["Gaslamp Fantasy", "High Fantasy", "Magical Realism"],
+    bio: [
+      `Brianna R. Shaffery is a fantasy and speculative fiction author known for her young adult fantasy trilogy, the Heirs of Tenebris. Always looking toward her next project, Brianna has also written several novellas of various genres that can be read on her website, BRSwrites.com.`,
+      `Aside from her love of literature, Brianna can often be found engaged in some kind of craft or whipping up one of her favorite desserts. Living happily on the East Coast, Brianna enjoys making new memories with friends and family set to a background of whatever’s playing on the radio.`,
+      `Follow along on her journey by following Brianna on social media or by signing up for her newsletter at BRSwrites.com/newsletter, which includes exclusive insights, writing updates, and bonus content from her books.`,
+    ],
+  },
+  {
+    firstName: "K.",
+    lastName: "Iwancio",
+    website: "http://www.kiwancio.com/",
+    socialMedia: {
+      instagram: "https://instagram.com/k.iwancio_writes",
+      facebook: "https://facebook.com/pages/K-Iwancio-Writes",
+      tiktok: "https://www.tiktok.com/@kiwancio_writes",
+    },
+    umbrellaGenre: ["romance"],
+    subGenre: ["Romantic Comedy", "Paranormal Romance"],
+    bio: [
+      `Don’t let those cartoony covers fool you. Even though they’re full of Hallmark-y romcom goodness, finger those pages deeper to the smut within! K. Iwancio has been an interior designer, artist, teacher, and volunteer. She has visited far-off planets, been on movie sets, and even checked some things off her Bucket List. She lives in South Central Pennsylvania.`,
+    ],
+  },
 ];
