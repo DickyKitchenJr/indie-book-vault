@@ -2838,4 +2838,46 @@ She's currently focusing on writing her second novel.`,
       `Don’t let those cartoony covers fool you. Even though they’re full of Hallmark-y romcom goodness, finger those pages deeper to the smut within! K. Iwancio has been an interior designer, artist, teacher, and volunteer. She has visited far-off planets, been on movie sets, and even checked some things off her Bucket List. She lives in South Central Pennsylvania.`,
     ],
   },
+  {
+    firstName: "Amy",
+    lastName: "Cocke",
+    website: "https://www.amycocke.com/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/authoramycocke/",
+    },
+    umbrellaGenre: ["fantasy"],
+    subGenre: ["High Fantasy"],
+    bio: [
+      `Amy has always been a writer, but after years of doing “practical” and “responsible” things, she decided it was time to see one of those stories in book form.`,
+      `When she’s not writing or working her day job, she’s riding her horse, reading, or occasionally doing outdoorsy things.`,
+    ],
+  },
+  {
+    firstName: "Steffy",
+    lastName: "Smith",
+    website: "https://steffysmithbooks.com/",
+    socialMedia: {
+      instagram: "https://instagram.com/steffysmithbooks",
+      facebook: "https://www.facebook.com/profile.php?id=100078881846211",
+      tiktok: "http://www.tiktok.com/@steffysmithbooks",
+    },
+    umbrellaGenre: ["romance"],
+    subGenre: ["Historical Romance"],
+    bio: [
+      `For years I have loved to curl up with a romance novel and escape to a different era of love. Stepping back into the ballroom during the Regency era, swept away on a journey through the Scottish Highlands or whisked off to a majestic castle in medieval England. My own fantasies have whirled around in my mind and it is in these novels I can express a story of my own and dreams of another time.`,
+    ],
+  },
+  {
+    firstName: "Michelle",
+    lastName: "Matteson",
+    website: "",
+    socialMedia: {
+      instagram: "https://www.instagram.com/thosethatglowgold/",
+    },
+    umbrellaGenre: ["fantasy"],
+    subGenre: ["New Adult"],
+    bio: [
+      `Michelle Matteson is a new author residing in Central Florida, although she wouldn't turn down the lifestyle of a swamp witch with unlimited wifi and chocolate. She relishes being an unapologetic geek, loving the fantasy, horror, and sci-fi genres. It was always her dream to write a book, and hopefully, with time and plenty of pizza, she can continue crafting stories for many years to come.`,
+    ],
+  },
 ];
