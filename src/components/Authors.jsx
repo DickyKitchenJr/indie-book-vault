@@ -2880,4 +2880,21 @@ She's currently focusing on writing her second novel.`,
       `Michelle Matteson is a new author residing in Central Florida, although she wouldn't turn down the lifestyle of a swamp witch with unlimited wifi and chocolate. She relishes being an unapologetic geek, loving the fantasy, horror, and sci-fi genres. It was always her dream to write a book, and hopefully, with time and plenty of pizza, she can continue crafting stories for many years to come.`,
     ],
   },
+  {
+    firstName: "Sara",
+    lastName: "Kate",
+    website: "http://www.sarakateauthor.com/",
+    socialMedia: {
+      instagram: "https://instagram.com/sarakateauthor",
+      tiktok: "http://www.tiktok.com/@sarakateauthor",
+      facebook: "https://www.facebook.com/sarakateauthor",
+    },
+    umbrellaGenre: ["thriller"],
+    subGenre: ["Crime Fiction", "Mystery", "Psychological Thriller"],
+    bio: [
+      `Sara Kate started her writing career as a scriptwriter for promotional videos and short films.`,
+      `Years later, she wrote her first mystery novel. She writes crime fiction mysteries and psychological thrillers in her RV.`,
+      `Aside from writing, she enjoys rollerblading, photography, painting, and anything thriller/mystery related.`,
+    ],
+  },
 ];
