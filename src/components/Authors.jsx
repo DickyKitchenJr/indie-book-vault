@@ -2897,4 +2897,20 @@ She's currently focusing on writing her second novel.`,
       `Aside from writing, she enjoys rollerblading, photography, painting, and anything thriller/mystery related.`,
     ],
   },
+  {
+    firstName: "Caroline",
+    lastName: "Corvin",
+    website: "https://carolinecorvin.com/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/carolinecorvin/",
+      facebook: "https://www.facebook.com/CarolineCorvinWrites",
+    },
+    umbrellaGenre: ["romance"],
+    subGenre: ["Time Travel", "Contemporary", "Small Town", "Paranormal"],
+    bio: [
+      `Caroline Corvin is a writer of romantic fiction. Before publishing her first novel, Caroline had a career in education, from classroom teacher of lively little people, to principal of a large primary school. Mother of fur kids—dogs, cats and vertically challenged horses—she’s sometimes described as animal obsessed. But she’s made room in her life for her other magnificent obsessions - travel, genealogy, history, some stargazing and, of course, books.`,
+      `Raised under the shadow of a volcano in provincial New Zealand, she now lives on the edge of Auckland, the City of Sails with stunning beaches and good coffee (and surrounded by more volcanoes, fortunately extinct).`,
+      `Caroline didn’t set out to write romance, but her characters took control the moment she let them loose on the page, reminding her that finding happy ever afters are the reason she’s one of those people who sometimes reads the last page first—just to be safe.`,
+    ],
+  },
 ];
