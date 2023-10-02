@@ -2913,4 +2913,19 @@ She's currently focusing on writing her second novel.`,
       `Caroline didn’t set out to write romance, but her characters took control the moment she let them loose on the page, reminding her that finding happy ever afters are the reason she’s one of those people who sometimes reads the last page first—just to be safe.`,
     ],
   },
+  {
+    firstName: "Rosali",
+    lastName: "Penunuri",
+    website: "https://rosalipenunuribooks.wixsite.com/rosalipenunuribooks",
+    socialMedia: {
+      instagram: "https://www.instagram.com/rosaliwrites",
+      tiktok: "https://www.tiktok.com/@rosaliwrites",
+    },
+    umbrellaGenre: ["romance", "fantasy"],
+    subGenre: ["Young Adult", "New Adult"],
+    bio: [
+      `Rosali Penunuri grew up in Southern California with a huge family in a tiny home. She would daydream about escaping reality and have something all her own. This led to storytelling and, eventually, writing. After graduating college with a B.A. in English Literature, she moved across the country.`,
+      `She lives with her husband and daughters, their troublemaker dogs Sam and Dean, and a small cat army.`,
+    ],
+  },
 ];
