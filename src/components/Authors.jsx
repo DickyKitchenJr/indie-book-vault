@@ -2928,4 +2928,34 @@ She's currently focusing on writing her second novel.`,
       `She lives with her husband and daughters, their troublemaker dogs Sam and Dean, and a small cat army.`,
     ],
   },
+  {
+    firstName: "Arleta",
+    lastName: "Rae",
+    website: "https://araebooks.wixsite.com/arletarae",
+    socialMedia: {
+      instagram: "http://www.instagram.com/authorarletarae",
+    },
+    umbrellaGenre: ["fantasy"],
+    subGenre: ["Paranormal Romance"],
+    bio: [
+      `Arleta is a New England native. She lives surrounded by beautiful rolling hills with her cat, Ubba, and her dog, Lily. Arleta's mind has always been wrapped in a wild fantasy world, whether its of her own creation or one she's reading. When she isn't writing, you can find her with a book, hiking, or with friends and a mocha latte in hand. She just received her MA in ecopsychology from Naropa University where she wrote a lengthy thesis on language and myth and nature. Her love of nature is woven into her fantasy stories.`,
+    ],
+  },
+  {
+    firstName: "Xyvah M.",
+    lastName: "Okoye",
+    website: "http://www.xmokoye.com/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/xmokoye/",
+      tiktok: "https://www.tiktok.com/@xmokoye",
+    },
+    umbrellaGenre: ["fantasy", "nonfiction"],
+    subGenre: ["Epic Fantasy", "Poetry", "Christian Literature (non-fiction"],
+    bio: [
+      `Xyvah M. Okoye is an epic fantasy author and believer.`,
+      `When she isn’t tinkering with the mechanics of another story, she might be refuelling her magic in a pool, on the beach, or close to some other body of water. And at times like that, with her pointy ears twitching and her button nose buried in a book, if you look close enough, you just might see the shimmering veil around her… The veil between this world, and hers… Between what is, and what possibly could be.`,
+      `To find out more, visit www.xmokoye.com`,
+      `Follow her on social media: @xmokoye`,
+    ],
+  },
 ];
