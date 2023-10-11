@@ -2936,7 +2936,7 @@ She's currently focusing on writing her second novel.`,
       instagram: "http://www.instagram.com/authorarletarae",
     },
     umbrellaGenre: ["fantasy"],
-    subGenre: ["Paranormal Romance"],
+    subGenre: ["New Adult Fantasy","Paranormal Romance", "Portal Fantasy"],
     bio: [
       `Arleta is a New England native. She lives surrounded by beautiful rolling hills with her cat, Ubba, and her dog, Lily. Arleta's mind has always been wrapped in a wild fantasy world, whether its of her own creation or one she's reading. When she isn't writing, you can find her with a book, hiking, or with friends and a mocha latte in hand. She just received her MA in ecopsychology from Naropa University where she wrote a lengthy thesis on language and myth and nature. Her love of nature is woven into her fantasy stories.`,
     ],
