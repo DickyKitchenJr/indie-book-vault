@@ -2986,4 +2986,37 @@ She's currently focusing on writing her second novel.`,
       `Eliza Lane lives near Kansas City, Missouri, with her husband and many pets. She became invested in her first fictional couple at the ripe age of nine, and the rest is history. Somebody to Love You is her debut novel.`,
     ],
   },
+  {
+    firstName: "Julie",
+    lastName: "Zantopoulos",
+    website: "https://www.juliezee.com/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/according2jewls/",
+      tiktok: "https://www.tiktok.com/@juliezeeauthor",
+      twitter: "https://twitter.com/According2Jewls",
+    },
+    umbrellaGenre: ["romance"],
+    subGenre: ["Fantasy Romance"],
+    bio: [
+      `Julie is the author of the adult fantasy romance In Ash series. `,
+      `She grew up in the Philadelphia suburbs and now resides in Central Pennsylvania where she can view the mountains from her library window as she writes, which is perfect, because mountains have always held magic for her.`,
+      `Julie graduated from Cabrini University with a degree in psychology. She prides herself on strong character building and relationship work as a result of her fascination with the connections people make. Her love of reading started before kindergarten, and she remains an avid reader, but writing is her true passion.`,
+      `She's built a fantastic bookish community on YouTube where she discuss her love of writing and passion for reading with 10,000 followers. She is active on Instagram and Twitter, in love with TheStoryGraph (a Goodreads alternative), and mainly scrolls through TikTok instead of posting. Julie is quasi addicted to gummibears, loves tea (and has never tried coffee), and will drop everything for a fantastically ill produced SyFy channel movie. `,
+      `She publishes under Julie Zantopoulos for her fantasy novels and hopes to publish contemporary romance through the name Julie Zee. The website is spelled as such for the ease of not typing a Greek last name. *you're welcome!`,
+    ],
+  },
+  {
+    firstName: "Milagros S.",
+    lastName: "Johnson",
+    website: "https://www.milagrossjohnson.com/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/miljhnsn_author/",
+    },
+    umbrellaGenre: ["childrens"],
+    subGenre: ["Financial Education"],
+    bio: [
+      `Milagros is passionate about teaching and empowering others of the importance of financial literacy. When she found herself having to put together a school project on a subject matter she could out into action in her community, Lolita’s Rainy Day book came to  fruition.`,
+      `She has dedicated over two decades of consumer advocacy work, and knows first hand that children , as much as adults, merit to learn the concept of money and savings for them to achieve financial independence and success in the future. Her motto is “Every penny counts!”`,
+    ],
+  },
 ];
