@@ -3019,4 +3019,19 @@ She's currently focusing on writing her second novel.`,
       `She has dedicated over two decades of consumer advocacy work, and knows first hand that children , as much as adults, merit to learn the concept of money and savings for them to achieve financial independence and success in the future. Her motto is “Every penny counts!”`,
     ],
   },
+  {
+    firstName: "Meadoe",
+    lastName: "Hora",
+    website: "https://www.meadoehora.com/",
+    socialMedia: {
+      facebook: "https://www.facebook.com/meadoehorawrites/",
+      instagram: "https://www.instagram.com/meadoehorawrites/",
+      tiktok: "https://www.tiktok.com/@meadoehorawrites",
+    },
+    umbrellaGenre: ["fantasy"],
+    subGenre: ["YA Fantasy", "YA Urban Fantasy"],
+    bio: [
+      `Meadoe Hora is a writer, working mom, dog rescuer, and lover of beautiful words. She writes books for teens with strong female leads and classic mythology. She is the author of Ariadne’s Crown and the Furious Legacy series. In addition, her work has appeared in Chicken Soup for the Soul, Literary Mama, Sweatpants and Coffee, and other websites. You can find her at www.meadoehora.com. She lives in the US (WI) with her family, two spoiled basset hounds and a black lab who may or may not be a hellhound.`,
+    ],
+  },
 ];
