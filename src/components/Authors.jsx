@@ -3015,8 +3015,9 @@ She's currently focusing on writing her second novel.`,
     umbrellaGenre: ["childrens"],
     subGenre: ["Financial Education"],
     bio: [
-      `Milagros is passionate about teaching and empowering others of the importance of financial literacy. When she found herself having to put together a school project on a subject matter she could out into action in her community, Lolita’s Rainy Day book came to  fruition.`,
-      `She has dedicated over two decades of consumer advocacy work, and knows first hand that children , as much as adults, merit to learn the concept of money and savings for them to achieve financial independence and success in the future. Her motto is “Every penny counts!”`,
+      `Milagros’ commitment and passion for financial literacy is demonstrated in her children’s picture book, Lolita’s Rainy Day. The story not only teaches the concept of money, from counting it to earning an allowance, it also inspires children (and their parents) to save money for a rainy day. The story is written in a way that is both humorous and educational.`,
+      `She wrote the book hoping to plant a seed for the children to nurture so they can achieve financial independence and success in their adulthood.`,
+      `Milagros has dedicated her career to her community, and her personal life to her loving and supportive family.`,
     ],
   },
   {
