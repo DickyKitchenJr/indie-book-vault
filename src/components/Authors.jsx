@@ -3035,4 +3035,17 @@ She's currently focusing on writing her second novel.`,
       `Meadoe Hora is a writer, working mom, dog rescuer, and lover of beautiful words. She writes books for teens with strong female leads and classic mythology. She is the author of Ariadne’s Crown and the Furious Legacy series. In addition, her work has appeared in Chicken Soup for the Soul, Literary Mama, Sweatpants and Coffee, and other websites. You can find her at www.meadoehora.com. She lives in the US (WI) with her family, two spoiled basset hounds and a black lab who may or may not be a hellhound.`,
     ],
   },
+  {
+    firstName: "C.K.",
+    lastName: "Sorens",
+    website: "http://www.cksorens.com/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/ck_sorens/",
+    },
+    umbrellaGenre: ["fantasy"],
+    subGenre: ["Urban Fantasy", "Speculative Fiction"],
+    bio: [
+      `C.K. Sorens is the USA Today Bestselling author of Eighteen Wishes, the Trimarked Series, and her short story collection, Vision of Misfortune. She is also a writing coach at Quill and Cup with a focus on mindset, craft, and creating a sustainable career.`,
+    ],
+  },
 ];
