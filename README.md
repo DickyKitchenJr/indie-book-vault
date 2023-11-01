@@ -1,4 +1,6 @@
-# indie-book-vault
+# Indie Book Vault (user-facing front-end)
+#### Live site: [https://indiebookvault.com/]
+#### Full Project Repo: [https://github.com/DickyKitchenJr/Indie-Book-Vault-Full-Project]
 
 ## Purpose:
 
@@ -19,6 +21,11 @@
 - GitHub
 - https://formsubmit.co/ to handle the backend submission of the author application form and email the results to the desired email address
 
+## Copyright
+
+- This project and the code within are the idea(s) and property of Dicky Kitchen Jr and not permitted to be used/copied without written permission (which must include time and usage limitations)
+
 ### Challenges along the way:
 
 - using the Fisher-Yates shuffle algorithm to handle shuffling the list of authors on page load after the main authors list has been divided into genre specific list so that the user is shown the authors in a random order every time the page is loaded
+
