@@ -728,20 +728,6 @@ I am not a particularly physical being. I was always terrible at sport and have 
     ],
   },
   {
-    firstName: "Alexandra",
-    lastName: "Peel",
-    website: "https://www.sticksandstonesbooks.com/",
-    socialMedia: {
-      instagram: "https://www.instagram.com/alexandra.peel/",
-      twitter: "https://twitter.com/alexandrapeel",
-    },
-    umbrellaGenre: ["fantasy"],
-    subGenre: ["Steampunk"],
-    bio: [
-      `Visual artist turned author, with a Degree in Fine Art, Sculpture. Has been a freelance community artist, painter, graphics tutor, and bookseller; currently works as a Learning Support Practitioner in F.E.`,
-    ],
-  },
-  {
     firstName: "Mark O",
     lastName: "Piggott",
     website: "https://authormarkpiggott.com/",
@@ -3046,6 +3032,20 @@ She's currently focusing on writing her second novel.`,
     subGenre: ["Urban Fantasy", "Speculative Fiction"],
     bio: [
       `C.K. Sorens is the USA Today Bestselling author of Eighteen Wishes, the Trimarked Series, and her short story collection, Vision of Misfortune. She is also a writing coach at Quill and Cup with a focus on mindset, craft, and creating a sustainable career.`,
+    ],
+  },
+  {
+    firstName: "O.J.",
+    lastName: "Barré",
+    website: "https://ojbarre.com/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/authorojbarre",
+      facebook: "https://facebook.com/authorojbarre",
+    },
+    umbrellaGenre: ["fantasy"],
+    subGenre: ["Urban Fantasy", "Fantasy Romance", "Myths & Legends"],
+    bio: [
+      `O.J. Barré hails from the lushly forested, red-clay hills near Atlanta, Georgia. From birth, O.J. was a force of nature. Barefoot and freckled, headstrong and gifted; she was, and is, sensitive to a fault. Books became her refuge as a young child, allowing O.J. to escape the confines of her turbulent alcoholic home on adventures to untold places and times. Her daddy's mother was a Willoughby, making O.J. a direct descendant of William the Conqueror. Her Awen series is a love letter to that distant past. O.J. currently resides in Cheyenne, Wyoming, US, with her 24-pound Maine Coon mix cat Rambo.`,
     ],
   },
 ];
