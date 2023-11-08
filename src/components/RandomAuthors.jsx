@@ -218,7 +218,7 @@ function RandomAuthors({ authors }) {
                                 target="_blank"
                                 rel="noreferrer"
                               >
-                                Mastadon
+                                Mastodon
                               </a>
                             </li>
                           ) : null}
