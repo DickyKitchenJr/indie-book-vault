@@ -1520,6 +1520,8 @@ I am not a particularly physical being. I was always terrible at sport and have 
     website: "",
     socialMedia: {
       instagram: "https://www.instagram.com/netts_shorts/",
+      goodreads:
+        "https://www.goodreads.com/author/show/18633215.Nannette_Kreitzman",
     },
     umbrellaGenre: [
       "romance",
@@ -3046,6 +3048,51 @@ She's currently focusing on writing her second novel.`,
     subGenre: ["Urban Fantasy", "Fantasy Romance", "Myths & Legends"],
     bio: [
       `O.J. Barré hails from the lushly forested, red-clay hills near Atlanta, Georgia. From birth, O.J. was a force of nature. Barefoot and freckled, headstrong and gifted; she was, and is, sensitive to a fault. Books became her refuge as a young child, allowing O.J. to escape the confines of her turbulent alcoholic home on adventures to untold places and times. Her daddy's mother was a Willoughby, making O.J. a direct descendant of William the Conqueror. Her Awen series is a love letter to that distant past. O.J. currently resides in Cheyenne, Wyoming, US, with her 24-pound Maine Coon mix cat Rambo.`,
+    ],
+  },
+  {
+    firstName: "S.G.",
+    lastName: "Blaise",
+    website: "https://sgblaise.com/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/sgblaiseofficial/",
+      facebook: "https://www.facebook.com/thelastlumenian",
+      twitter: "https://twitter.com/SGBlaiseAuthor",
+      tiktok: "https://www.tiktok.com/@sgblaiseofficial",
+    },
+    umbrellaGenre: ["romance", "scifi", "fantasy"],
+    subGenre: ["Action Adventure", "Space Opera", "Galactic Empire"],
+    bio: [
+      `S.G. was born in a faraway land of castles, monarchies and fallen dictatorships, aka Hungary. Hollywood movies were largely forbidden under Soviet oppression during her childhood, but her dad smuggled them in anyway, risking his life so that his children could experience the magic and hope inherent in those stories. She watched rebellions unfold in real time. Journeyed across the Atlantic Ocean for love. She ended up in sunny California, where she is living her dream — writing stories and annoying family members.`,
+    ],
+  },
+  {
+    firstName: "Kate",
+    lastName: "Harris",
+    website: "https://www.kateharris.co.uk/",
+    socialMedia: {
+      instagram: "https://www.instagram.com/katelifecoach",
+      facebook: "https://facebook.com/kate.harris.12979",
+      twitter: "https://twitter.com/hometoyourheart",
+    },
+    umbrellaGenre: ["nonfiction"],
+    subGenre: ["Memoir", "Poetry", "Self-help", "Art"],
+    bio: [
+      `Kate is an author, artist and life coach in Devon, England. Inspired by nature, she has created a blend of memoir, poetry and paintings to reveal the essence of freedom, hope and joy within the evolution of our lives. A glimmer of sun on a dull day to light the way forward for you to fly home to your heart.`,
+      `Kate was an Occupational Therapist for many years in the mental health service, where creativity was the door to recovery for many people.`,
+    ],
+  },
+  {
+    firstName: "Olivia",
+    lastName: "Raymond",
+    website: "https://www.oliviaraymond.com/",
+    socialMedia: {
+      facebook: "https://www.facebook.com/authoroliviaraymond/",
+    },
+    umbrellaGenre: ["thriller", "drama"],
+    subGenre: ["Mystery"],
+    bio: [
+      `Olivia Raymond was born in the small town of Greensburg, Indiana, best known for the mulberry tree growing out of its courthouse tower. Olivia's family moved to Indianapolis when she was just seven years old, but by then, the small-town life had already taken root and made its lasting impression. Olivia had several careers before becoming a successful business entrepreneur. Her various life and career adventures provided her with many experiences that help shape her stories. She now resides in a small town with her family and sweet furry companion, Mr. Ralf, where she enjoys her time as a writer and volunteer for the arts in her community.`,
     ],
   },
 ];
