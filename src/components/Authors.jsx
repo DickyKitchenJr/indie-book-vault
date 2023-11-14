@@ -3051,22 +3051,6 @@ She's currently focusing on writing her second novel.`,
     ],
   },
   {
-    firstName: "S.G.",
-    lastName: "Blaise",
-    website: "https://sgblaise.com/",
-    socialMedia: {
-      instagram: "https://www.instagram.com/sgblaiseofficial/",
-      facebook: "https://www.facebook.com/thelastlumenian",
-      twitter: "https://twitter.com/SGBlaiseAuthor",
-      tiktok: "https://www.tiktok.com/@sgblaiseofficial",
-    },
-    umbrellaGenre: ["romance", "scifi", "fantasy"],
-    subGenre: ["Action Adventure", "Space Opera", "Galactic Empire"],
-    bio: [
-      `S.G. was born in a faraway land of castles, monarchies and fallen dictatorships, aka Hungary. Hollywood movies were largely forbidden under Soviet oppression during her childhood, but her dad smuggled them in anyway, risking his life so that his children could experience the magic and hope inherent in those stories. She watched rebellions unfold in real time. Journeyed across the Atlantic Ocean for love. She ended up in sunny California, where she is living her dream — writing stories and annoying family members.`,
-    ],
-  },
-  {
     firstName: "Kate",
     lastName: "Harris",
     website: "https://www.kateharris.co.uk/",
