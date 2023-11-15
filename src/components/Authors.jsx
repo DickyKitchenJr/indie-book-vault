@@ -3037,20 +3037,6 @@ She's currently focusing on writing her second novel.`,
     ],
   },
   {
-    firstName: "O.J.",
-    lastName: "Barré",
-    website: "https://ojbarre.com/",
-    socialMedia: {
-      instagram: "https://www.instagram.com/authorojbarre",
-      facebook: "https://facebook.com/authorojbarre",
-    },
-    umbrellaGenre: ["fantasy"],
-    subGenre: ["Urban Fantasy", "Fantasy Romance", "Myths & Legends"],
-    bio: [
-      `O.J. Barré hails from the lushly forested, red-clay hills near Atlanta, Georgia. From birth, O.J. was a force of nature. Barefoot and freckled, headstrong and gifted; she was, and is, sensitive to a fault. Books became her refuge as a young child, allowing O.J. to escape the confines of her turbulent alcoholic home on adventures to untold places and times. Her daddy's mother was a Willoughby, making O.J. a direct descendant of William the Conqueror. Her Awen series is a love letter to that distant past. O.J. currently resides in Cheyenne, Wyoming, US, with her 24-pound Maine Coon mix cat Rambo.`,
-    ],
-  },
-  {
     firstName: "Kate",
     lastName: "Harris",
     website: "https://www.kateharris.co.uk/",
