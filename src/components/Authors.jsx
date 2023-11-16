@@ -1046,38 +1046,6 @@ I am not a particularly physical being. I was always terrible at sport and have 
     ],
   },
   {
-    firstName: "Bridget",
-    lastName: "Van der Eyk",
-    website: "https://www.10datesnovel.com/",
-    socialMedia: {
-      instagram: "http://www.instagram.com/10datesnovel",
-      facebook: "http://www.facebook.com/10datesnovel",
-      tiktok: "http://www.tiktok.com/10datesnovel",
-    },
-    umbrellaGenre: ["romance"],
-    subGenre: ["Contemporary Romance"],
-    bio: [
-      `Bridget Van der Eyk is an up and coming contemporary romance author - “10 Dates” is her debut novel. She lives in country NSW, Australia on a 5-acre property with her husband (Josh), 2 children (Zoe and Max), and 2 dogs (Kevin and Stella).`,
-      `Apart from being published, her dream for “10 Dates” is to see it be turned into a Netflix mini-series starring Kendall Jenner and Harry Styles.`,
-      `When Bridget is not working a full-time teaching job or binging Korean zombie shows on Netflix, she is busy writing her next novel. "3000 Words" (the sequel to "10 Dates" is due to release at the end of 2023).`,
-    ],
-  },
-  {
-    firstName: "Monique",
-    lastName: "Edenwood",
-    website: "https://moniqueedenwood.com/",
-    socialMedia: {
-      instagram: "https://www.instagram.com/monique_edenwood_author/",
-      facebook: "https://www.facebook.com/moniqueedenwood",
-      tiktok: "https://www.tiktok.com/@moniqueedenwood",
-    },
-    umbrellaGenre: ["romance"],
-    subGenre: ["Dark Romance"],
-    bio: [
-      `Award-winning author of deliciously dark romantic suspense including the Black Oak series and the Hunger duet.`,
-    ],
-  },
-  {
     firstName: "Josephine",
     lastName: "Strand",
     website: "https://josephinestrand.com/",
@@ -1238,21 +1206,6 @@ I am not a particularly physical being. I was always terrible at sport and have 
       `As an author and recovering yo-yo dieter who struggled with body image for most of my life, I am inspired by the theme of embracing your body regardless of its shape and size and discovering your own intrinsic worth. I want to bring my readers stories that are real, relatable, and entertaining—where strong protagonists with hidden truths and troubled pasts tug at your heartstrings, turn you on, and have you cheering for a beautiful, forever love.`,
       `Originally from Cleveland, Ohio, I’m now a proud adopted Canuck, living in Calgary, Alberta, with my husband, daughter, and our Havanese, who thinks he’s a baby. The winters are frigid, but the sun shines 335 days of the year. Tanning in a parka—it happens! Most nights, you will find me sitting at my computer, tapping out the countless storylines in my head.`,
       `I liken writing a great romance to a box of Godiva—decadent and delicious! You can’t stop at just one.`,
-    ],
-  },
-  {
-    firstName: "KC",
-    lastName: "Bear",
-    website: "https://kc-bear-gufvsd.mailerpage.io/",
-    socialMedia: {
-      facebook: "https://www.facebook.com/kcbear.author",
-    },
-    umbrellaGenre: ["romance"],
-    subGenre: ["Erotica", "Contemporary"],
-    bio: [
-      `KC Bear has been writing as an amateur her entire life, and has many works in progress she's in the middle of writing; maybe one day, the voices in her head will actually help her finish something and get it published ;) Her writing plans include romance that blurs the line into erotica, women who love other women, supernatural romance with werewolves, vampires, and hybrids - oh my!`,
-      `While she can't experience fangs or wolfing out, she does know a thing or two about BDSM, which plays heavily into her novels. With darker themes of sadism, unconventional relationships with menages, and cursing like a sailor, her writings aren't meant for younger eyes.`,
-      `When she isn't writing or creating entire worlds in her head, she spends her days in Kentucky with her very own Dominant and Pandora the spoiled cat on their 10 acres.`,
     ],
   },
   {
