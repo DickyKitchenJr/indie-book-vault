@@ -481,27 +481,6 @@ I am not a particularly physical being. I was always terrible at sport and have 
     ],
   },
   {
-    firstName: "Maxine",
-    lastName: "Keith",
-    website: "https://authormaxinekeith.com/",
-    socialMedia: {
-      instagram: "https://www.instagram.com/maxine_keith_",
-      facebook: "https://www.facebook.com/maxinekeith",
-    },
-    umbrellaGenre: ["romance"],
-    subGenre: [
-      "YA",
-      "Contemporary",
-      "Supernatural",
-      "Athletic",
-      "Erotica",
-      "Adult",
-    ],
-    bio: [
-      `Maxine Keith is an indie author with 50 books across the romance genre. There is something for everyone. All her books are available on Kindle, KU, and Amazon.`,
-    ],
-  },
-  {
     firstName: "Annie",
     lastName: "Charme",
     website: "https://anniecharme.com/",
