@@ -114,26 +114,7 @@ export const Authors = [
       `Engineer, husband, and father of three wonderful girls by day. Fantasy fiction writer by night (and other random times he's not taxiing kids, pulling hair out of drains, helping with math and science homework, coaching soccer, remodeling rooms, and walking the dogs).`,
     ],
   },
-  {
-    firstName: "Cheryl",
-    lastName: "Burman",
-    website: "https://cherylburman.com/",
-    socialMedia: {
-      instagram: "https://www.instagram.com/cherylburmanauthor/",
-      facebook: "https://www.facebook.com/CherylBurmanAuthor/",
-      twitter: "https://twitter.com/cr_burman",
-    },
-    umbrellaGenre: ["fantasy", "drama", "childrens", "historicalfiction"],
-    subGenre: [
-      "Historical Fiction",
-      "Historical Fantasy",
-      "Children's Fantasy",
-    ],
-    bio: [
-      `Originally from Australia, Cheryl Burman now lives in the Forest of Dean, UK, a place which has inspired the likes of Tolkien and Rowling. She’s the author of two award winning novels and a novella for grownups, and a trilogy and its prequel for youngsters (although Mum, Dad and the grans love them too). Her flash fiction and short stories have won various awards and some of these are included in her collection, Dragon Gift while several are published in various anthologies.`,
-      `As Cheryl Mayo, she is the chair of Dean Writers Circle and a founder of Dean Scribblers, which encourages creative writing among young people in her community.`,
-    ],
-  },
+  
   {
     firstName: "Louise",
     lastName: "Murchie",
@@ -483,22 +464,6 @@ I am not a particularly physical being. I was always terrible at sport and have 
     subGenre: ["Epic Fantasy"],
     bio: [
       `Garrett is a fantasy novelist from Central California where he lives with his family. He holds a BA in Creative Writing from CSU Monterey Bay and an MAR in Biblical Studies from Liberty University Theological Seminary. When he is not writing or publishing he hosts The Write Way on his YouTube channel.`,
-    ],
-  },
-  {
-    firstName: "S.E.",
-    lastName: "Green",
-    website: "https://segreenauthor.com/",
-    socialMedia: {
-      instagram: "https://www.instagram.com/segreen.author/",
-      facebook: "https://www.facebook.com/segreen.author",
-      tiktok: "https://www.tiktok.com/@authorsegreen?lang=en",
-    },
-    umbrellaGenre: ["romance"],
-    subGenre: ["Contemporary", "Why Choose", "Erotica"],
-    bio: [
-      `I'm a contemporary romance author that enjoys writing M/F romances as well as Why Choose with a variety of different tropes. My books tend to focus on heavy topics, but I wouldn't quite label them as Dark Romance.`,
-      `~building romance around dreams~`,
     ],
   },
   {
