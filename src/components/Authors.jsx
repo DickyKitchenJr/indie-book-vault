@@ -1104,21 +1104,6 @@ I am not a particularly physical being. I was always terrible at sport and have 
     ],
   },
   {
-    firstName: "Shail",
-    lastName: "Rajan",
-    website: "https://www.shailrajan.com/",
-    socialMedia: {
-      facebook: "https://www.facebook.com/shailrajanauthor",
-      instagram: "https://www.instagram.com/shailrajanauthor/",
-    },
-    umbrellaGenre: ["romance", "drama"],
-    subGenre: ["Women's Fiction"],
-    bio: [
-      `Shail is a women's fiction author whose heartwarming stories are character driven and embrace the role of family, friendships, and food in our everyday lives. Readers have described her books as feel-good reads with characters you'd want as friends and food you'd like to eat.`,
-      `She was born in India, raised in beautiful Upstate NY, and is now settled in Northern California with her husband and three children. When she's not lost in books, she loves spending time with her family, volunteering, cooking, tackling the occasional DIY project, and obsessing over her vegetable garden.`,
-    ],
-  },
-  {
     firstName: "Stefanie K",
     lastName: "Steck",
     website: "http://stefanieksteckbooks.com/",
