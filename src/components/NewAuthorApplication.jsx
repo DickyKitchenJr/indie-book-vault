@@ -32,8 +32,7 @@ const AuthorApplication = () => {
   });
   const [userChoice, setUserChoice] = useState("");
 
-// TODO: input correct apiAddress
-  const apiAddress = "" //import.meta.env.VITE_API_ADDRESS;
+  const apiAddress = import.meta.env.VITE_API_ADDRESS;
 
   //handlers for firstName, lastName, email, and links
 
