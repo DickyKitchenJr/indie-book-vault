@@ -33,7 +33,7 @@ const AuthorApplication = () => {
   });
   const [userChoice, setUserChoice] = useState("");
 
-  const apiAddress = import.meta.env.VITE_API_ADDRESS;
+  const apiAddress = import.meta.env.VITE_API_ADDRESS_FOR_FORM;
 
   //handlers for firstName, lastName, email, and links
 
