@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+// TODO: add honeypot and possibly recaptcha
 
 const AuthorApplication = () => {
   const [formData, setFormData] = useState({
