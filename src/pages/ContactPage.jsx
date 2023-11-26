@@ -2,7 +2,7 @@ import React from "react";
 import Nav from "../components/Nav";
 import Footer from "../components/Footer";
 import styles from "../styles/contact-page.module.css";
-import AuthorApplication from "../components/AuthorApplication";
+import NewAuthorApplication from "../components/NewAuthorApplication";
 
 function ContactPage() {
   return (
@@ -57,7 +57,7 @@ function ContactPage() {
               application without notice.**
             </p>
           </div>
-          <AuthorApplication />
+          <NewAuthorApplication />
           <p className={styles.explanation}>
             Feel free to reach out to us on social media on{" "}
             <a
