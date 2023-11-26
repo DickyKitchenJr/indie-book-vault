@@ -18,8 +18,9 @@ const Romance = lazy(() => import("./pages/GenrePages/Romance"));
 const SciFi = lazy(() => import("./pages/GenrePages/SciFi"));
 const Thriller = lazy(() => import("./pages/GenrePages/Thriller"));
 const Western = lazy(() => import("./pages/GenrePages/Western"));
+const HistoricalFiction = lazy(() => import("./pages/GenrePages/HistoricalFiction"));
+const ThankYouPage = lazy(() => import("./pages/ThankYouPage.jsx"));
 import { Authors } from "./components/Authors";
-import HistoricalFiction from "./pages/GenrePages/HistoricalFiction";
 
 const childrensGenre = [];
 const comedyGenre = [];
@@ -114,6 +115,14 @@ const router = createBrowserRouter([
     element: (
       <Suspense fallback={<h3 style={{ textAlign: "center" }}>Loading...</h3>}>
         <ContactPage />
+      </Suspense>
+    ),
+  },
+  {
+    path: "thankyou",
+    element: (
+      <Suspense fallback={<h3 style={{ textAlign: "center" }}>Loading...</h3>}>
+        <ThankYouPage />
       </Suspense>
     ),
   },
