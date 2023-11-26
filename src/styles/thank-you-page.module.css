@@ -24,18 +24,9 @@
   padding-top: 1rem;
 }
 
-.standOut{
-  font-style: italic;
-  text-decoration: underline;
-}
-
 @media only screen and (min-width: 700px) {
   .h1 {
     font-size: 8vw;
-  }
-
-  .about{
-    padding: 2rem;
   }
 }
 
