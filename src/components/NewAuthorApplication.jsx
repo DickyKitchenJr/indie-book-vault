@@ -160,7 +160,7 @@ const NewAuthorApplication = () => {
 
   const handleSubmit = async (e) => {
     e.preventDefault();
-    alert("Your form is processing. Please be patient and you will be redirected when the form successfully submits.")
+    alert("Your form is processing. Please be patient and do not exit this page. You will be redirected when the form successfully submits.")
     const isFirstNameValid = isInputValid("firstName", formData.firstName);
     const isLastNameValid = isInputValid("lastName", formData.lastName);
     const isEmailValid = isInputValid("email", formData.email);
