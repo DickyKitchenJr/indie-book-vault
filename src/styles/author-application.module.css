@@ -1,3 +1,13 @@
+.termsp{
+  padding: .4rem;
+  text-align: center;
+}
+
+.terms{
+  display: flex;
+  justify-content: center;
+}
+
 .form {
   display: flex;
   flex-direction: column;
@@ -30,8 +40,25 @@
   justify-content: flex-start;
 }
 
-.checkboxLabels{
+.checkboxLabels {
   align-self: center;
+  padding-left: .1rem;
+  padding-right: .1rem;
+}
+
+.subgenreadd {
+  display: grid;
+  grid-template-columns: auto auto;
+}
+
+.subgenreaddbutton{
+  font-weight: bold;
+}
+
+.currentsubgenre{
+  font-weight: normal;
+  display: grid;
+  grid-template-columns: auto auto;
 }
 
 .submit {
@@ -44,31 +71,43 @@
 }
 
 @media only screen and (min-width: 1000px) {
+  .terms{
+    font-size: 1.25vw;
+  } 
+  
+  .termsp{
+    font-size: 1.25vw;
+  }
+
   .h2 {
     font-size: 1.7vw;
   }
 
-  .label{
+  .label {
     font-size: 1.6vw;
   }
 
-  .checkboxItems{
+  .checkboxItems {
     font-size: 1.6vw;
   }
 
-  input.text{
+  input.text {
     font-size: 1.4vw;
   }
 
-  input.inputBox{
+  input.inputBox {
     width: 1vw;
   }
 
-  textarea.text{
+  .currentsubgenre {
     font-size: 1.4vw;
   }
 
-  .submit{
+  textarea.text {
+    font-size: 1.4vw;
+  }
+
+  .submit {
     font-size: 1.4vw;
   }
 }
