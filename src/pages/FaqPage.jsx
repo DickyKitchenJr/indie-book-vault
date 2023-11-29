@@ -152,15 +152,23 @@ function FaqPage() {
               </li>
               <li className={styles.innerLi}>
                 Authors that <span className={styles.underline}>do not</span>{" "}
-                have a website can be considered if they are willing to create
-                monthly social media promotions to help readers find Indie Book
-                Vault
+                have a website can be considered if they are willing to create a
+                social media promotion to help readers find Indie Book Vault and
+                make a $15 (USD) annual membership donation on our{" "}
+                <a
+                  href="https://www.buymeacoffee.com/indiebookvault"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  donation page
+                </a>
+                .
               </li>
             </ul>
           </ul>
           <h2 className={styles.h2}>
             Why is it so important that authors include a link or their website
-            for Indie Book Vault or do monthly social media promotions?
+            for Indie Book Vault and do at least one social media promotion?
           </h2>
           <ul className={styles.ul}>
             <li>
