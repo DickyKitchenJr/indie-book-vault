@@ -43,8 +43,8 @@ const NewAuthorApplication = () => {
 
   //handler for terms checkbox
   const handleTermsChecked = () => {
-    setTermsChecked(!termsChecked)
-  }
+    setTermsChecked(!termsChecked);
+  };
 
   //handler for reCAPTCHA checkbox
   const handleRecapBox = () => {
@@ -160,7 +160,9 @@ const NewAuthorApplication = () => {
 
   const handleSubmit = async (e) => {
     e.preventDefault();
-    alert("Your form is processing. Please be patient and do not exit this page. You will be redirected when the form successfully submits.")
+    alert(
+      "Your form is processing. Please be patient and do not exit this page. You will be redirected when the form successfully submits. Please click 'OK' and wait."
+    );
     const isFirstNameValid = isInputValid("firstName", formData.firstName);
     const isLastNameValid = isInputValid("lastName", formData.lastName);
     const isEmailValid = isInputValid("email", formData.email);
@@ -236,12 +238,19 @@ const NewAuthorApplication = () => {
       });
 
       if (response.ok) {
-        navigate('/thankyou');
+        navigate("/thankyou");
       } else {
-        // Handle errors, e.g., show an error message to the user
-        alert(
-          "Form submission failed. Please recheck your information and try again"
-        );
+        const responseBody = await response.json();
+
+        if (response.status === 400) {
+          // Handle specific error for 400 status (Bad Request)
+          alert(responseBody.error);
+        } else {
+          // Handle other errors, e.g., show a generic error message to the user
+          alert(
+            "Form submission failed. Please recheck your information and try again"
+          );
+        }
       }
     } catch (error) {
       console.error("Error:", error);
@@ -250,19 +259,21 @@ const NewAuthorApplication = () => {
 
   return (
     <>
-    {/* terms of agreement section */}
-    <p className={styles.termsp}>Do you agree to the terms and requirements?</p>
-    <div className={styles.terms}>
-      <input
-        type="checkbox"
-        id="terms"
-        onChange={handleTermsChecked}
-        checked={termsChecked}
-      />
-      <label htmlFor="terms">Agree</label>
-    </div>
-      
-    {/* author application form */}
+      {/* terms of agreement section */}
+      <p className={styles.termsp}>
+        Do you agree to the terms and requirements?
+      </p>
+      <div className={styles.terms}>
+        <input
+          type="checkbox"
+          id="terms"
+          onChange={handleTermsChecked}
+          checked={termsChecked}
+        />
+        <label htmlFor="terms">Agree</label>
+      </div>
+
+      {/* author application form */}
       <form onSubmit={handleSubmit} className={styles.form}>
         <h2 className={styles.h2}>Author Application</h2>
 
