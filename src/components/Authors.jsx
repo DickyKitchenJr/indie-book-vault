@@ -783,39 +783,6 @@ I am not a particularly physical being. I was always terrible at sport and have 
     ],
   },
   {
-    firstName: "JC",
-    lastName: "Paulson",
-    website: "https://www.jcpaulsonwriter.com/",
-    socialMedia: {
-      twitter: "https://twitter.com/joanne_paulson",
-      facebook: "https://www.facebook.com/jcpaulsonauthor/",
-      instagram: "https://www.instagram.com/paulson.joanne/",
-    },
-    umbrellaGenre: ["thriller", "childrens"],
-    subGenre: ["Mystery Romance"],
-    bio: [
-      `Joanne (J.C.) Paulson, a long-time Saskatoon journalist, has been published in newspapers including The StarPhoenix, The Western Producer, the Saskatoon Express, allSaskatchewan and a variety of magazines.`,
-      `She is the author of an independently-published mystery series including the novels Adam’s Witness, Broken Through, Fire Lake, Griffin’s Cure, and Two Hundred Bones, a novella. She has also written a historical fiction/western novel entitled Blood and Dust, and a wee children’s book, Magic Mack and The Mischief-Makers.`,
-    ],
-  },
-  {
-    firstName: "Tina McLachlan",
-    lastName: "Brassington",
-    website: "https://travelsintheeastandoest.com/",
-    socialMedia: {
-      instagram: "https://instagram.com/tinamcbauthor",
-      facebook: "https://www.facebook.com/profile.php?id=100087952794320",
-    },
-    umbrellaGenre: ["thriller"],
-    subGenre: ["Cosy Mystery"],
-    bio: [
-      `After years of studying and working in boring stuff like City banking, business and law, Tina (a Scot) retrained as a further education teacher, which she enjoyed enormously.`,
-      `She then moved abroad and rebuilt and developed a derelict farm into a successful eco small holding business with her husband.`,
-      `Latterly, after bidding a fond farewell to the farm and menagerie, Tina is now sailing around the Med with her husband and cat - there was no room for the pigs, goats, turkeys, hens, ducks and geese, sadly...`,
-      `Between writing and travelling, she enjoys taking on silly roles in TV advertising and doing voice overs.`,
-    ],
-  },
-  {
     firstName: "R. M.",
     lastName: "Krogman",
     website: "https://rmkrogman.com/",
@@ -1330,24 +1297,6 @@ I am not a particularly physical being. I was always terrible at sport and have 
     bio: [
       `Julie Embleton is a paranormal fantasy author from Dublin, Ireland. She writes tenacious, kick-ass females who can rescue themselves, thanks very much, gutsy heroes with tender hearts, and heinous villains who thrive on chaos. Her stories weave suspense, romance, and magick, mostly with happy endings, but she does enjoy leaving her readers hanging with the occasional cliffhanger. Julie lives by the shores of the moody Irish Sea, and when not writing, can be found with her second great love; tarot. Her Me-Time typically includes reading, enjoying the outdoors, or watching Turkish soap operas.`,
       `Want to be the first to hear about new releases, giveaways, and exclusive sneak peeks? Sign up to Julie’s newsletter by visiting www.julieembleton.com`,
-    ],
-  },
-  {
-    firstName: "J.M.",
-    lastName: "Irving",
-    website: "",
-    socialMedia: {
-      instagram: "https://instagram.com/jmirvinggauthor",
-    },
-    umbrellaGenre: ["fantasy", "thriller", "horror"],
-    subGenre: [
-      "Murder-Mystery",
-      "True Crime",
-      "Psychological Thriller",
-      "Suspense",
-    ],
-    bio: [
-      `J.M. Irving is a 25 year old author, born in Clovis, New Mexico, but currently lives in the great state of Texas. He's written the thrillers, "BRITAIN'S BAY"  "MR.POSTMAN", "ELECTRIFY: A SUPERHERO THRILLER," and "PERMAFROST: AN ELECTRIFY NOVELLA."`,
     ],
   },
   {
