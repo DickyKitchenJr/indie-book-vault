@@ -20,9 +20,9 @@
 - Corel PaintShop Pro for editing pictures used
 - GitHub
 
-## Accomplishments:
+## Achievements:
 
-- implemented the Fisher-Yates shuffle algorithm to handle shuffling the list of authors on page load after the main authors list has been divided into genre specific list so that the user is shown the authors in a random order every time the page is loaded
+- implemented a dynamic author listing feature using the Fisher-Yates shuffle algorithm, ensuring a randomized display for users on every site visit
 
 - implemented form validation to ensure the user has input the information appropriately before submitting
 
