@@ -132,13 +132,13 @@ const NewAuthorApplication = () => {
   const isInputValid = (name, value) => {
     switch (name) {
       case "firstName":
-        return value.length > 0;
+        return value !== null && value.length > 0;
       case "lastName":
-        return value.length > 0;
+        return value !== null && value.length > 0;
       case "email":
-        return value.length > 0;
+        return value !== null && value.length > 0;
       case "bio":
-        return value.length > 0;
+        return value !== null && value.length > 0;
       case "website":
       case "instagram":
       case "facebook":
@@ -150,9 +150,12 @@ const NewAuthorApplication = () => {
       case "threads":
       case "bookbub":
         // URL validation logic
-        const urlRegex =
+        if(value !== null){
+          const urlRegex =
           /^(https?:\/\/)?([a-zA-Z0-9-]+\.)+[a-zA-Z]{2,}\/?([^\s]*)?$/;
         return urlRegex.test(value);
+        }
+        return false;
       default:
         return false;
     }
@@ -160,9 +163,6 @@ const NewAuthorApplication = () => {
 
   const handleSubmit = async (e) => {
     e.preventDefault();
-    alert(
-      "Your form is processing. Please be patient and do not exit this page. You will be redirected when the form successfully submits. Please click 'OK' and wait."
-    );
     const isFirstNameValid = isInputValid("firstName", formData.firstName);
     const isLastNameValid = isInputValid("lastName", formData.lastName);
     const isEmailValid = isInputValid("email", formData.email);
@@ -179,24 +179,25 @@ const NewAuthorApplication = () => {
       (!formData.goodreads || isInputValid("goodreads", formData.goodreads)) &&
       (!formData.bookbub || isInputValid("bookbub", formData.bookbub));
 
+      
     // Check if First Name contains a response
     if (!isFirstNameValid) {
       alert("Please enter a first name");
       return;
     }
-
+    
     // Check if Last Name contains a response
     if (!isLastNameValid) {
       alert("Please enter a last name");
       return;
     }
-
+    
     // Check if Email contains a response
     if (!isEmailValid) {
       alert("Please enter an email address");
       return;
     }
-
+    
     // Check if at least one social media link is included
     if (!socialMediaLink) {
       alert(
@@ -204,29 +205,34 @@ const NewAuthorApplication = () => {
       );
       return;
     }
-
+    
     // Check if links are in valid URL format
     if (!isLinkURL) {
       alert("All links must be in a valid format (ex. https://linkname.com)");
       return;
     }
-
+    
     // Check if at least one umbrellaGenre is selected
     if (formData.umbrellaGenre.length === 0) {
       alert("Please select at least one Umbrella Genre");
       return;
     }
-
+    
     // Check if at least one subGenre is added
     if (formData.subGenre.length === 0) {
       alert("Please add at least one SubGenre");
       return;
     }
-
+    
     // Check if Bio contains a response
     if (!isBioValid) {
       alert("Please enter a bio");
+      return
     }
+    
+    alert(
+      "Your form is processing. Please be patient and do not exit this page. You will be redirected when the form successfully submits. Please click 'OK' and wait."
+    );
 
     try {
       const response = await fetch(apiAddress, {
