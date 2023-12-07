@@ -2899,7 +2899,7 @@ She's currently focusing on writing her second novel.`,
     ],
   },
   {
-    firstName: "Finely K.",
+    firstName: "Finley K.",
     lastName: "James",
     email: "finley.k.james29@gmail.com",
     website: "https://finleykjames.com/",
