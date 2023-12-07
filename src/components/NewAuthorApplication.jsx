@@ -553,13 +553,7 @@ const NewAuthorApplication = () => {
               {subGenre}&nbsp;
               {/* removes the selected item from the array */}
               <span
-                // TODO: convert style to external css
-                style={{
-                  cursor: "pointer",
-                  color: "red",
-                  fontWeight: "bold",
-                  fontSize: "1.25rem",
-                }}
+                className={styles.removedash}
                 onClick={() => handleRemoveSubGenre(index)}
               >
                 -
