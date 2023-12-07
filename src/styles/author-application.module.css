@@ -1,9 +1,9 @@
-.termsp{
-  padding: .4rem;
+.termsp {
+  padding: 0.4rem;
   text-align: center;
 }
 
-.terms{
+.terms {
   display: flex;
   justify-content: center;
 }
@@ -42,8 +42,8 @@
 
 .checkboxLabels {
   align-self: center;
-  padding-left: .1rem;
-  padding-right: .1rem;
+  padding-left: 0.1rem;
+  padding-right: 0.1rem;
 }
 
 .subgenreadd {
@@ -51,11 +51,11 @@
   grid-template-columns: auto auto;
 }
 
-.subgenreaddbutton{
+.subgenreaddbutton {
   font-weight: bold;
 }
 
-.currentsubgenre{
+.currentsubgenre {
   font-weight: normal;
   display: grid;
   grid-template-columns: auto auto;
@@ -78,11 +78,11 @@
 }
 
 @media only screen and (min-width: 1000px) {
-  .terms{
+  .terms {
     font-size: 1.25vw;
-  } 
-  
-  .termsp{
+  }
+
+  .termsp {
     font-size: 1.25vw;
   }
 
