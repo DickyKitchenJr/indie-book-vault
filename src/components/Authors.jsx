@@ -3,7 +3,11 @@ export const Authors = [
     firstName: "Dicky",
     lastName: "Kitchen Jr",
     website: "https://dickykitchenjr.com/",
-    socialMedia: { instagram: "https://www.instagram.com/dicky_kitchen_jr/" },
+    socialMedia: {
+      instagram: "https://www.instagram.com/dicky_kitchen_jr/",
+      amazonBio:
+        "https://www.amazon.com/stores/Dicky-Kitchen-Jr/author/B088DNQ4Q7",
+    },
     umbrellaGenre: ["thriller", "childrens"],
     subGenre: [
       "Psychological Thriller",
@@ -912,6 +916,9 @@ I am not a particularly physical being. I was always terrible at sport and have 
       facebook: "http://www.facebook.com/mariejoneswriter",
       twitter: "http://www.twitter.com/mariejones14057",
       tiktok: "http://www.tiktok.com/marie_jones_author",
+      amazonBio:
+        "https://www.amazon.com/stores/Marie%20Jones/author/B01FCFAYZI/about",
+      threads: "https://www.threads.net/@mariejoneswriter",
     },
     umbrellaGenre: ["romance", "thriller"],
     subGenre: ["Women's", "Suspense", "Crime"],
