@@ -39,7 +39,7 @@ function RandomAuthors({ authors }) {
             {authors.map((author) => {
               return (
                 <>
-                {/* author box showing abreviated author info for user to click to open modal */}
+                  {/* author box showing abreviated author info for user to click to open modal */}
                   <div
                     className={styles.authorBox}
                     key={authors[authors.indexOf(author)] + author.lastName}
@@ -157,22 +157,27 @@ function RandomAuthors({ authors }) {
                             })}
                         <br />
                         <br />
-                        {author.website ? <div> <h4 className={styles.modalH4}>Website:</h4>
-                        <p>
-                          ▪{" "}
-                          <a
-                            className={styles.modalA}
-                            href={author.website}
-                            target="_blank"
-                            rel="noreferrer"
-                          >
-                            {author.website}
-                          </a>
-                        </p>
-                        <br />
-                        <br /> </div> :null}
-                        
-                        <h4 className={styles.modalH4}>Social Media:</h4>
+                        {author.website ? (
+                          <div>
+                            {" "}
+                            <h4 className={styles.modalH4}>Website:</h4>
+                            <p>
+                              ▪{" "}
+                              <a
+                                className={styles.modalA}
+                                href={author.website}
+                                target="_blank"
+                                rel="noreferrer"
+                              >
+                                {author.website}
+                              </a>
+                            </p>
+                            <br />
+                            <br />{" "}
+                          </div>
+                        ) : null}
+
+                        <h4 className={styles.modalH4}>Additional Links:</h4>
                         <ul className={styles.modalUl}>
                           {author.socialMedia.instagram ? (
                             <li>
@@ -243,6 +248,42 @@ function RandomAuthors({ authors }) {
                                 rel="noreferrer"
                               >
                                 TikTok
+                              </a>
+                            </li>
+                          ) : null}
+                          {author.socialMedia.threads ? (
+                            <li>
+                              ▪{" "}
+                              <a
+                                href={author.socialMedia.threads}
+                                target="_blank"
+                                rel="noreferrer"
+                              >
+                                Threads
+                              </a>
+                            </li>
+                          ) : null}
+                          {author.socialMedia.amazonBio ? (
+                            <li>
+                              ▪{" "}
+                              <a
+                                href={author.socialMedia.amazonBio}
+                                target="_blank"
+                                rel="noreferrer"
+                              >
+                                Amazon
+                              </a>
+                            </li>
+                          ) : null}
+                          {author.socialMedia.bookbub ? (
+                            <li>
+                              ▪{" "}
+                              <a
+                                href={author.socialMedia.bookbub}
+                                target="_blank"
+                                rel="noreferrer"
+                              >
+                                BookBub
                               </a>
                             </li>
                           ) : null}
