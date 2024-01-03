@@ -215,11 +215,11 @@ function RandomAuthors({ authors }) {
                               </a>
                             </li>
                           ) : null}
-                          {author.socialMedia.mastadon ? (
+                          {author.socialMedia.mastodon ? (
                             <li>
                               ▪{" "}
                               <a
-                                href={author.socialMedia.mastadon}
+                                href={author.socialMedia.mastodon}
                                 target="_blank"
                                 rel="noreferrer"
                               >
