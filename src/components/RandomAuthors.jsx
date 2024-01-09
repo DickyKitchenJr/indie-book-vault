@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import styles from "../styles/genre-pages.module.css";
 import { Link } from "react-router-dom";
+import { bioForListing } from "../helpers/bioForListing";
 
 function RandomAuthors({ authors }) {
   let [isModalOpen, setIsModalOpen] = useState(false);
@@ -74,8 +75,8 @@ function RandomAuthors({ authors }) {
                     </p>
                     <br />
                     <p className={styles.authorBoxP}>
-                      Bio:{" "}
-                      {author.bio.length === 1
+                      Bio: {bioForListing(author.bio)}
+                      {/* {author.bio.length === 1
                         ? author.bio[0]
                         : author.bio.map((sentence) => {
                             return (
@@ -92,7 +93,7 @@ function RandomAuthors({ authors }) {
                                 <br />
                               </>
                             );
-                          })}
+                          })} */}
                     </p>
                     <p className={styles.authorBoxModalArrow}>▼</p>
                   </div>
@@ -136,26 +137,26 @@ function RandomAuthors({ authors }) {
                         )}
                         <br />
                         <h4 className={styles.modalH4}>Bio:</h4>
-                        {author.bio.length === 1
-                          ? author.bio[0]
-                          : author.bio.map((sentence) => {
-                              return (
-                                <>
-                                  <p
-                                    className={styles.modalP}
-                                    key={
-                                      author.bio[author.bio.indexOf(sentence)] +
-                                      "B" +
-                                      author.lastName
-                                    }
-                                  >
-                                    {sentence}
-                                  </p>
-                                  <br />
-                                </>
-                              );
-                            })}
-                        <br />
+                        {console.log(bioForListing(author.bio))}
+                        {bioForListing(author.bio).map(
+                          (sentence, index, array) => {
+                            return (
+                              <>
+                                <p
+                                  className={styles.modalP}
+                                  key={
+                                    author.bio[author.bio.indexOf(sentence)] +
+                                    "B" +
+                                    author.lastName
+                                  }
+                                >
+                                  {sentence}
+                                </p>
+                                {index !== array.length - 1 && <br />}
+                              </>
+                            );
+                          }
+                        )}
                         <br />
                         {author.website ? (
                           <div>
@@ -179,11 +180,11 @@ function RandomAuthors({ authors }) {
 
                         <h4 className={styles.modalH4}>Additional Links:</h4>
                         <ul className={styles.modalUl}>
-                          {author.socialMedia.instagram ? (
+                          {author.instagram ? (
                             <li>
                               ▪{" "}
                               <a
-                                href={author.socialMedia.instagram}
+                                href={author.instagram}
                                 target="_blank"
                                 rel="noreferrer"
                               >
@@ -191,11 +192,11 @@ function RandomAuthors({ authors }) {
                               </a>
                             </li>
                           ) : null}
-                          {author.socialMedia.facebook ? (
+                          {author.facebook ? (
                             <li>
                               ▪{" "}
                               <a
-                                href={author.socialMedia.facebook}
+                                href={author.facebook}
                                 target="_blank"
                                 rel="noreferrer"
                               >
@@ -203,11 +204,11 @@ function RandomAuthors({ authors }) {
                               </a>
                             </li>
                           ) : null}
-                          {author.socialMedia.twitter ? (
+                          {author.twitter ? (
                             <li>
                               ▪{" "}
                               <a
-                                href={author.socialMedia.twitter}
+                                href={author.twitter}
                                 target="_blank"
                                 rel="noreferrer"
                               >
@@ -215,11 +216,11 @@ function RandomAuthors({ authors }) {
                               </a>
                             </li>
                           ) : null}
-                          {author.socialMedia.mastodon ? (
+                          {author.mastodon ? (
                             <li>
                               ▪{" "}
                               <a
-                                href={author.socialMedia.mastodon}
+                                href={author.mastodon}
                                 target="_blank"
                                 rel="noreferrer"
                               >
@@ -227,11 +228,11 @@ function RandomAuthors({ authors }) {
                               </a>
                             </li>
                           ) : null}
-                          {author.socialMedia.goodreads ? (
+                          {author.goodreads ? (
                             <li>
                               ▪{" "}
                               <a
-                                href={author.socialMedia.goodreads}
+                                href={author.goodreads}
                                 target="_blank"
                                 rel="noreferrer"
                               >
@@ -239,11 +240,11 @@ function RandomAuthors({ authors }) {
                               </a>
                             </li>
                           ) : null}
-                          {author.socialMedia.tiktok ? (
+                          {author.tiktok ? (
                             <li>
                               ▪{" "}
                               <a
-                                href={author.socialMedia.tiktok}
+                                href={author.tiktok}
                                 target="_blank"
                                 rel="noreferrer"
                               >
@@ -251,11 +252,11 @@ function RandomAuthors({ authors }) {
                               </a>
                             </li>
                           ) : null}
-                          {author.socialMedia.threads ? (
+                          {author.threads ? (
                             <li>
                               ▪{" "}
                               <a
-                                href={author.socialMedia.threads}
+                                href={author.threads}
                                 target="_blank"
                                 rel="noreferrer"
                               >
@@ -263,11 +264,11 @@ function RandomAuthors({ authors }) {
                               </a>
                             </li>
                           ) : null}
-                          {author.socialMedia.amazonBio ? (
+                          {author.amazonBio ? (
                             <li>
                               ▪{" "}
                               <a
-                                href={author.socialMedia.amazonBio}
+                                href={author.amazonBio}
                                 target="_blank"
                                 rel="noreferrer"
                               >
@@ -275,11 +276,11 @@ function RandomAuthors({ authors }) {
                               </a>
                             </li>
                           ) : null}
-                          {author.socialMedia.bookbub ? (
+                          {author.bookbub ? (
                             <li>
                               ▪{" "}
                               <a
-                                href={author.socialMedia.bookbub}
+                                href={author.bookbub}
                                 target="_blank"
                                 rel="noreferrer"
                               >
