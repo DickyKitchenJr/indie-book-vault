@@ -76,24 +76,6 @@ function RandomAuthors({ authors }) {
                     <br />
                     <p className={styles.authorBoxP}>
                       Bio: {bioForListing(author.bio)}
-                      {/* {author.bio.length === 1
-                        ? author.bio[0]
-                        : author.bio.map((sentence) => {
-                            return (
-                              <>
-                                <span
-                                  key={
-                                    author.bio[author.bio.indexOf(sentence)] +
-                                    "B" +
-                                    author.lastName
-                                  }
-                                >
-                                  {sentence}
-                                </span>
-                                <br />
-                              </>
-                            );
-                          })} */}
                     </p>
                     <p className={styles.authorBoxModalArrow}>▼</p>
                   </div>
