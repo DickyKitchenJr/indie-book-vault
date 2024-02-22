@@ -2043,4 +2043,131 @@ export const Authors = [
     amazonBio: "https://www.amazon.com/author/chantal_agapiti",
     bio: "Hi, it took me 41 years to find the courage to let my voice be heard through writing. I was invisible due to the many struggles I went through. But I want to continue healing and help others in the process. Therefore I share my life's story and lessons learned to support fellow trauma survivors and chronic illness/pain warriors. Your struggles don't define who you are, mindset is your driving force.",
   },
+
+  {
+    firstName: "Sabina",
+    lastName: "Millar",
+    website: "https://www.thetattooedauthor.com/",
+    umbrellaGenre: ["romance"],
+    subGenre: [
+      "Contemporary Romance",
+      "Women's Fiction",
+      "Romantic Comedy",
+      "Steamy Romance",
+    ],
+    instagram: "https://www.instagram.com/smillar_writes/",
+    facebook: "https://www.facebook.com/smillarauthor",
+    goodreads: "https://www.goodreads.com/author/show/43763611.Sabina_Millar",
+    amazonBio: "https://www.amazon.ca/stores/Sabina-Millar/author",
+    bio: "Sabina Millar is a Canadian author of contemporary romance novels. When she’s not writing, Sabina enjoys reading, painting, getting tattoos, and drinking copious amounts of coffee. She currently lives in Calgary, Alberta.\n\nShe shares all of her writing updates on social media, and she would love for you to follow her journey! \n\nYou can find her on Instagram,\n​Facebook, Amazon, StoryGraph, and Goodreads. ",
+  },
+
+  {
+    firstName: "E. M. ",
+    lastName: "Williams",
+    website: "https://www.emwilliams.ca/",
+    umbrellaGenre: ["fantasy"],
+    subGenre: ["", "Urban", "Action", "Contemporary"],
+    instagram: "https://www.instagram.com/emwilliamscanada/",
+    facebook: "https://www.facebook.com/EMWilliamsCanada/",
+    tiktok: "https://www.tiktok.com/@emwilliamscanada?",
+    goodreads: "https://www.goodreads.com/author/show/22364914.E_M_Williams",
+    amazonBio: "https://www.amazon.ca/stores/E.-M.-Williams/author/B09Y3XR46T",
+    threads: "https://www.threads.net/@emwilliamscanada",
+    bookbub:
+      "https://www.bookbub.com/profile/e-m-williams-8e79b302-d537-42dc-bac2-8dfb9b99232e",
+    bio: "Born in Northern Ontario, E. M. Williams has written all her life. Chaos Calling: Book I of the Xenthian Cycle is her first published novel.\n\nShe earned a Bachelor of Arts in English Literature from the University of Waterloo and a Master of Arts in Literary Theory from the University of Guelph. She also completed a course in writing speculative fiction through the University of Toronto’s School of Continuing Studies, and is a former member of the Science Fiction Research Association. \n\nIn 2012, she gave a TedxTalk on women, superheroes and power. Originally intended to make her past scholarship work more accessible to a wider audience, it inadvertently supercharged her writing. \n\nE. M. Williams is a member of the Writer’s Union of Canada and the Canadian Science Fiction and Fantasy Association. She currently lives with her family in Toronto, where she works in the technology sector.",
+  },
+
+  {
+    firstName: "Cassandra",
+    lastName: "Aston",
+    website: "https://www.cassandraastonauthor.com/",
+    umbrellaGenre: ["fantasy"],
+    subGenre: ["Dark Fantasy"],
+    instagram: "https://www.instagram.com/cassandra.aston.author/",
+    tiktok: "https://www.tiktok.com/@indie.author.cass",
+    amazonBio:
+      "https://www.amazon.com/stores/Cassandra-Aston/author/B0BMV2C12N?ref=ap_rdr&isDramIntegrated=true&shoppingPortalEnabled=true",
+    bio: "Cassandra Aston grew up near Austin, TX on a ranch just outside the city. She holds a BA in Communications and an MS in Psychology, from USC. Her love of reading and writing began when she was nine years old. She is a fan of all things fantasy but especially loves the Fae. Although her first series Prophecies of Angels and Demons doesn’t delve into the realm of the Fae, her 2022 NaNoWriMo project, which will be released in 2025, is an urban fantasy, stand-alone story that will take the reader deep into the world of Faerie.\n\nCassandra currently lives in Houston, TX with her family of four.\n\nStay up to date on everything Cassandra is working on by following her on any of the social media sites linked below.",
+  },
+
+  {
+    firstName: "Lori",
+    lastName: "Freeland",
+    website: "https://lorifreeland.com/",
+    umbrellaGenre: ["romance"],
+    subGenre: ["YA Fiction", "YA Romance"],
+    instagram: "https://www.instagram.com/lorifreeland",
+    facebook: "https://www.facebook.com/lorifreelandauthor",
+    twitter: "https://twitter.com/LoriAnnFreeland",
+    tiktok: "https://www.tiktok.com/@authorlorifreeland",
+    goodreads: "https://www.goodreads.com/author/show/6552757.Lori_Freeland",
+    amazonBio: "https://www.amazon.com/author/lorifreeland",
+    threads: "https://www.threads.net/@lorifreeland",
+    bookbub: "https://www.bookbub.com/profile/lori-freeland",
+    bio: "Lori Freeland wrote her first story at age five. It wasn’t good, but it left her with the belief that everyone has a story to tell. An author, editor, and writing coach, she writes everything from articles to novels, has taught at multiple writing conferences across the country, and calls Dallas home. She loves great books, happy endings, and the perfect kiss. When she’s not curled up with her dogs drinking too much coffee, she’s most likely messing with the lives of the imaginary people living inside her head. ",
+  },
+
+  {
+    firstName: "Shari T",
+    lastName: "Mitchell",
+    website: "https://sharitmitchell.com/",
+    umbrellaGenre: ["thriller"],
+    subGenre: ["Mystery", "Crime", "Paranormal"],
+    instagram: "https://www.instagram.com/sharitmitchell/",
+    facebook: "https://www.facebook.com/ShariTMitchellAuthor?mibextid=opq0tG",
+    twitter: "https://twitter.com/ShariTMitchell",
+    goodreads:
+      "https://www.goodreads.com/author/show/13895356.Shari_T_Mitchell",
+    amazonBio:
+      "https://www.amazon.com/stores/author/B00OEE1WN2?ingress=0&visitId=01538f56-4f52-4b2f-b609-e7111cac7bb3",
+    threads: "https://www.threads.net/@sharitmitchell",
+    bio: "Shari T. Mitchell is the author of the Marnie Reilly Mysteries thriller series, which includes Divine Guidance, Torn Veil, and Fatal Vow (coming July 2023).\n\nRaised in Northern New York State, Shari’s hometown and surrounds are the inspiration for her series’ fictional town of Creekwood, New York—which is located somewhere in the Adirondack Mountains.\n\nWhile Shari loves developing multidimensional characters with whom her readers can relate, her passion is plotting the twists and turns of a mystery. It feeds her analytical and creative mind.\n\nShe lives in North Carolina and shares her home with her partner in crime, Harper, and their crazy rescue dogs, Dougal, Callee, Midget, and Mags.\n\nA thirty-plus year marketer, Shari loves spending time with her family, cooking, hiking, traveling, gardening, and reading. She is often heard chatting with her characters because they natter at her constantly!",
+  },
+
+  {
+    firstName: "Cheryl",
+    lastName: "van Gent",
+    website: "https://www.cherylvangent.com",
+    umbrellaGenre: ["romance", "fantasy"],
+    subGenre: [
+      "Contemporary Romance",
+      "Small Town Romance",
+      "Romantic Fantasy",
+      "Epic Fantasy",
+      "Contemporary Fantasy",
+      "New Adult Romance",
+    ],
+    instagram: "https://www.instagram.com/authorcherylvgent",
+    facebook:
+      "https://www.facebook.com/profile.php?id=61553688393151&mibextid=kFxxJD",
+    tiktok: "https://www.tiktok.com/@authorcherylvgent",
+    goodreads: "https://www.goodreads.com/author/show/22063345.Cheryl_van_Gent",
+    amazonBio:
+      "https://www.amazon.com/stores/author/B0B14XB734/allbooks?ingress=0&visitId=5b2b1b52-255b-4c2b-a0ff-17f292a6dfb6&ref_=ap_rdr",
+    bio: "Cheryl van Gent is a self-published author who completed high school at the age of 16 in 2020 and graduated from college in 2024. Alongside writing, she works in a veterinary clinic and a pet store.\nRaised in the Netherlands, she mastered English as her second language. Being born in the Netherlands has never stopped her from learning English fluently; in fact, she prefers it.\nCreating stories has been something she loved since she was in middle school. Her interest in reading didn't spark until she read her first romance series in 2020 and continued buying more to fill up a newly bought bookcase, evolving into writing a book in 2021 and publishing in 2022.\nShe's immensely proud of the first duology she has published and loves continuously refining her writing with each upcoming book.\nBesides reading and writing, Cheryl enjoys traveling, riding horses, exploring the ocean, and spending time with her family, friends, and pets.\nYou can find Cheryl on social media as @authorcherylvgent.",
+  },
+
+  {
+    firstName: "Desi",
+    lastName: "Stowe",
+    website: "https://authordesistowe.weebly.com/",
+    umbrellaGenre: ["romance"],
+    subGenre: [
+      "Contemporary Fiction",
+      "Women's Fiction",
+      "Friendship Fiction",
+      "Workplace Romance",
+    ],
+    instagram: "https://www.instagram.com/desistowe/",
+    facebook:
+      "https://www.facebook.com/people/Desi-Stowe-Author/61551414924964/",
+    goodreads: "https://www.goodreads.com/book/show/201858961-done",
+    amazonBio:
+      "https://www.amazon.com/stores/Desi-Stowe/author/B0CMZNT5BT?ref=ap_rdr&isDramIntegrated=true&shoppingPortalEnabled=true",
+    bookbub:
+      "https://www.bookbub.com/books/done-sometimes-there-is-nothing-left-to-give-by-desi-stowe",
+    bio: "I'm a physical therapist turned aspiring author. I have always loved writing and I am excited to offer my debut novel, DONE.\n\nWriting has been a much needed escape into a fictional world, even if it's a world that mirrors real life.\n\nI'm an indie author. I wrote DONE in the span of a year. I have 2 children and a day job. Writing was sporadic between my other responsibilities.\n\nI'd find myself daydreaming about plot progression and character arcs. I've enjoyed creating the characters in my novel, I hope you will enjoy reading about them.\n\nThanks for checking out my debut novel, I hope it's the first of many more.",
+  },
 ];
