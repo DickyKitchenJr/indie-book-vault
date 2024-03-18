@@ -2063,70 +2063,6 @@ export const Authors = [
   },
 
   {
-    firstName: "E. M. ",
-    lastName: "Williams",
-    website: "https://www.emwilliams.ca/",
-    umbrellaGenre: ["fantasy"],
-    subGenre: ["", "Urban", "Action", "Contemporary"],
-    instagram: "https://www.instagram.com/emwilliamscanada/",
-    facebook: "https://www.facebook.com/EMWilliamsCanada/",
-    tiktok: "https://www.tiktok.com/@emwilliamscanada?",
-    goodreads: "https://www.goodreads.com/author/show/22364914.E_M_Williams",
-    amazonBio: "https://www.amazon.ca/stores/E.-M.-Williams/author/B09Y3XR46T",
-    threads: "https://www.threads.net/@emwilliamscanada",
-    bookbub:
-      "https://www.bookbub.com/profile/e-m-williams-8e79b302-d537-42dc-bac2-8dfb9b99232e",
-    bio: "Born in Northern Ontario, E. M. Williams has written all her life. Chaos Calling: Book I of the Xenthian Cycle is her first published novel.\n\nShe earned a Bachelor of Arts in English Literature from the University of Waterloo and a Master of Arts in Literary Theory from the University of Guelph. She also completed a course in writing speculative fiction through the University of Toronto’s School of Continuing Studies, and is a former member of the Science Fiction Research Association. \n\nIn 2012, she gave a TedxTalk on women, superheroes and power. Originally intended to make her past scholarship work more accessible to a wider audience, it inadvertently supercharged her writing. \n\nE. M. Williams is a member of the Writer’s Union of Canada and the Canadian Science Fiction and Fantasy Association. She currently lives with her family in Toronto, where she works in the technology sector.",
-  },
-
-  {
-    firstName: "Cassandra",
-    lastName: "Aston",
-    website: "https://www.cassandraastonauthor.com/",
-    umbrellaGenre: ["fantasy"],
-    subGenre: ["Dark Fantasy"],
-    instagram: "https://www.instagram.com/cassandra.aston.author/",
-    tiktok: "https://www.tiktok.com/@indie.author.cass",
-    amazonBio:
-      "https://www.amazon.com/stores/Cassandra-Aston/author/B0BMV2C12N?ref=ap_rdr&isDramIntegrated=true&shoppingPortalEnabled=true",
-    bio: "Cassandra Aston grew up near Austin, TX on a ranch just outside the city. She holds a BA in Communications and an MS in Psychology, from USC. Her love of reading and writing began when she was nine years old. She is a fan of all things fantasy but especially loves the Fae. Although her first series Prophecies of Angels and Demons doesn’t delve into the realm of the Fae, her 2022 NaNoWriMo project, which will be released in 2025, is an urban fantasy, stand-alone story that will take the reader deep into the world of Faerie.\n\nCassandra currently lives in Houston, TX with her family of four.\n\nStay up to date on everything Cassandra is working on by following her on any of the social media sites linked below.",
-  },
-
-  {
-    firstName: "Lori",
-    lastName: "Freeland",
-    website: "https://lorifreeland.com/",
-    umbrellaGenre: ["romance"],
-    subGenre: ["YA Fiction", "YA Romance"],
-    instagram: "https://www.instagram.com/lorifreeland",
-    facebook: "https://www.facebook.com/lorifreelandauthor",
-    twitter: "https://twitter.com/LoriAnnFreeland",
-    tiktok: "https://www.tiktok.com/@authorlorifreeland",
-    goodreads: "https://www.goodreads.com/author/show/6552757.Lori_Freeland",
-    amazonBio: "https://www.amazon.com/author/lorifreeland",
-    threads: "https://www.threads.net/@lorifreeland",
-    bookbub: "https://www.bookbub.com/profile/lori-freeland",
-    bio: "Lori Freeland wrote her first story at age five. It wasn’t good, but it left her with the belief that everyone has a story to tell. An author, editor, and writing coach, she writes everything from articles to novels, has taught at multiple writing conferences across the country, and calls Dallas home. She loves great books, happy endings, and the perfect kiss. When she’s not curled up with her dogs drinking too much coffee, she’s most likely messing with the lives of the imaginary people living inside her head. ",
-  },
-
-  {
-    firstName: "Shari T",
-    lastName: "Mitchell",
-    website: "https://sharitmitchell.com/",
-    umbrellaGenre: ["thriller"],
-    subGenre: ["Mystery", "Crime", "Paranormal"],
-    instagram: "https://www.instagram.com/sharitmitchell/",
-    facebook: "https://www.facebook.com/ShariTMitchellAuthor?mibextid=opq0tG",
-    twitter: "https://twitter.com/ShariTMitchell",
-    goodreads:
-      "https://www.goodreads.com/author/show/13895356.Shari_T_Mitchell",
-    amazonBio:
-      "https://www.amazon.com/stores/author/B00OEE1WN2?ingress=0&visitId=01538f56-4f52-4b2f-b609-e7111cac7bb3",
-    threads: "https://www.threads.net/@sharitmitchell",
-    bio: "Shari T. Mitchell is the author of the Marnie Reilly Mysteries thriller series, which includes Divine Guidance, Torn Veil, and Fatal Vow (coming July 2023).\n\nRaised in Northern New York State, Shari’s hometown and surrounds are the inspiration for her series’ fictional town of Creekwood, New York—which is located somewhere in the Adirondack Mountains.\n\nWhile Shari loves developing multidimensional characters with whom her readers can relate, her passion is plotting the twists and turns of a mystery. It feeds her analytical and creative mind.\n\nShe lives in North Carolina and shares her home with her partner in crime, Harper, and their crazy rescue dogs, Dougal, Callee, Midget, and Mags.\n\nA thirty-plus year marketer, Shari loves spending time with her family, cooking, hiking, traveling, gardening, and reading. She is often heard chatting with her characters because they natter at her constantly!",
-  },
-
-  {
     firstName: "Cheryl",
     lastName: "van Gent",
     website: "https://www.cherylvangent.com",
@@ -2169,5 +2105,24 @@ export const Authors = [
     bookbub:
       "https://www.bookbub.com/books/done-sometimes-there-is-nothing-left-to-give-by-desi-stowe",
     bio: "I'm a physical therapist turned aspiring author. I have always loved writing and I am excited to offer my debut novel, DONE.\n\nWriting has been a much needed escape into a fictional world, even if it's a world that mirrors real life.\n\nI'm an indie author. I wrote DONE in the span of a year. I have 2 children and a day job. Writing was sporadic between my other responsibilities.\n\nI'd find myself daydreaming about plot progression and character arcs. I've enjoyed creating the characters in my novel, I hope you will enjoy reading about them.\n\nThanks for checking out my debut novel, I hope it's the first of many more.",
+  },
+
+  {
+firstName: "Nick",
+lastName:"Snape",
+email:"nick@nicksnape.com",
+website:"https://www.nicksnape.com/",
+umbrellaGenre:["scifi"],
+subGenre:["Military"],
+instagram:"https://www.instagram.com/nick.snape.author/",
+facebook:null,
+twitter:"https://twitter.com/SnapeNick",
+tiktok:"https://www.tiktok.com/@nick.snape.author",
+goodreads:"https://www.goodreads.com/author/show/29749166.Nick_Snape",
+mastodon:null,
+amazonBio:"https://www.amazon.com/stores/Nick-Snape/author/B0BXQWYQN1",
+threads:"https://www.threads.net/@nick.snape.author",
+bookbub:"https://www.bookbub.com/authors/nick-snape",
+bio:"Nick Snape has been steeped in Science Fiction and Fantasy since his friends first dragged him from his schoolwork and stuck a book under his nose. Lost to the world of imagination he became a teacher by accident though he thoroughly enjoyed developing the joy of reading and writing in his pupils. Having retired after thirty years he thought it was high time to practise what he preached.",
   },
 ];
