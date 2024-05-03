@@ -1147,20 +1147,6 @@ export const Authors = [
   },
 
   {
-    firstName: "Nicky F",
-    lastName: "Webber",
-    website: "https://nickywebber.com/",
-    umbrellaGenre: ["romance", "thriller", "drama"],
-    subGenre: ["Suspense", "Psychological Thriller", "Domestic Thriller"],
-    instagram: "https://www.instagram.com/nickywebbernz/",
-    facebook: "https://www.facebook.com/nickywebbernz",
-    twitter: "https://twitter.com/nicky_author",
-    tiktok: "https://www.tiktok.com/nickywebberauthor",
-    amazonBio: "https://www.amazon.com/stores/author/B07N189YNH",
-    bio: "Nicky Webber is an award-winning author of Contemporary, Historical and Suspense Thrillers. She received international acclaim for her novel Duplicity, and Honourable Mention in the USA 2022 Top Shelf Magazine Awards for Fiction. She also writes psychological thrillers under the name N F Webber.\nWith her background in journalism, Nicky is a master at crafting suspenseful and emotionally-rich stories, filled with intrigue and a touch of romance.\nFor more details and to subscribe to her monthly newsletter visit www.nickywebber.com",
-  },
-
-  {
     firstName: "Jenn",
     lastName: "Howlett",
     website: "https://jennhowlett.com/",
