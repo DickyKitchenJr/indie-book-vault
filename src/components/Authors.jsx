@@ -2123,7 +2123,7 @@ export const Authors = [
       "Family and Relationships",
       "Spiritual",
     ],
-    instagram: "www.instagram.com/stephendiana_author/",
+    instagram: "https://www.instagram.com/stephendiana_author/?next=%2F",
     bio: "Stephen is a marriage and family therapist in New London, CT — this after spending the majority of his adult life working in veterinary medicine, biology, and scientific writing. He discovered his love for fiction as a voracious young reader and maintains a great fondness for well-placed words and beautiful and startling turns of phrase. Stephen is a hopeless wanderer and is fascinated by all things living and wild. He is a relentless gardener, an occasional home brewer, and a former pigeon fancier, beekeeper, and falconer. He makes a pork and apple pie that is second to none. Of Leaf, Wing, and Water is his debut novel.",
   },
 
