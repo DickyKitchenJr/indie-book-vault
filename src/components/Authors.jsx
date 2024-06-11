@@ -2214,4 +2214,120 @@ export const Authors = [
       "https://www.amazon.com/stores/L.B.-August/author/B0CQBZD1NL?ref=ap_rdr&isDramIntegrated=true&shoppingPortalEnabled=true",
     bio: "Born and raised in Ohio, where she still resides with her spouse, young child, and sweet senior dog, L.B. August’s most significant memories are Cedar Point and failing Hooked on Phonics (true story). Thrill seeking and difficulty reading followed L.B. into adulthood until, in 2022, she discovered a genre that tapped into the excitement of escapism and world building while capturing her attention and turning her into a voracious reader of fantasy. As she devoured book after book, L.B. found herself desperately wanting to read more empowered female characters within the genre, so she set off to write her own. Encouraged by her best friend, she wrote her debut novel, In The Shadows. Now she can be found hyper-fixating on new projects, downing copious amounts of black coffee, and pretending to be a corporate professional, all while crafting intricate, rich stories with captivating characters that she hopes will pass on her newfound passion for reading.",
   },
+
+  {
+    firstName: "Jennifer J. ",
+    lastName: "Coldwater",
+    website: "https://www.jenniferjcoldwater.com/",
+    umbrellaGenre: ["romance"],
+    subGenre: ["Contemporary", "RomCom"],
+    instagram: "https://www.instagram.com/jenniferjcoldwater_author/",
+    facebook: "https://www.facebook.com/profile.php?id=100085553546627",
+    goodreads:
+      "https://www.goodreads.com/author/show/22933325.Jennifer_J_Coldwater",
+    amazonBio:
+      "https://www.amazon.com/stores/Jennifer-J.-Coldwater/author/B0BDYBNB6W",
+    threads: "https://www.threads.net/@jenniferjcoldwater_author",
+    bookbub: "https://www.bookbub.com/authors/jennifer-j-coldwater",
+    bio: "Jennifer J. Coldwater’s stories feature diverse characters who (like Jen) believe love wins. She identifies as queer and has an invisible disability, so perhaps that why her characters love the way they do. \n\nBeyond writing contemporary romance novels, Jen works to create a safe space welcoming and respectful of everyone, including transwomen, those who are nonbinary, and gender non-conforming.\n\nAlways curious, always writing, Jen wanted to find work that fed her soul. The closest she could get to a career in Curiosity and Questioning was teaching English, journalism, and creative writing at a public high school in San Diego, California in the late ‘90s. \n\nJen lives her life as an ally and an advocate for the Jewish people. A small sliver of that is embodied in her collection of contemporary romance novels based on the women of the Hebrew Bible. \n\nTo learn more about Jen, visit jenniferjcoldwater.com. ",
+  },
+
+  {
+    firstName: "Dana C",
+    lastName: "Brentson",
+    website: "https://www.dcbrentson.com/",
+    umbrellaGenre: ["fantasy"],
+    subGenre: ["high fantasy", "romance"],
+    instagram: "https://www.instagram.com/dcbrentsonauthor/",
+    facebook: "https://www.facebook.com/profile.php?id=100087344372809",
+    goodreads: "https://www.goodreads.com/author/show/22517460.Dana_C_Brentson",
+    amazonBio:
+      "https://www.amazon.com/stores/Dana-C-Brentson/author/B0BBPTJQ93?ref=sr_ntt_srch_lnk_1&qid=1715643855&sr=8-1&isDramIntegrated=true&shoppingPortalEnabled=true",
+    threads:
+      "https://www.threads.net/@dcbrentsonauthor?xmt=AQGzd5na4tjKhiiepsqIpTCZ6AjgvDPok3IsR2t1GLZ5bYY",
+    bookbub: "https://www.bookbub.com/authors/dana-c-brentson",
+    bio: "Dana C Brentson writes adult fantasy in a world setting that she created. It started with an idea for a novel over a decade ago, and the world has grown over that time. She has enjoyed stories that twist reality, span worlds that aren't our own, and explore characters on epic quests and small moments. She loves games, especially Dungeons and Dragons.\n\nShe lives in the Puget Sound in Washington State with her husband, three children and two dogs. When not working or taking care of the family, she is usually found reading, playing video games, or writing. \n\n",
+  },
+
+  {
+    firstName: "Caitlin",
+    lastName: "Ball",
+    website: "http://www.caitlinball.org",
+    umbrellaGenre: ["scifi"],
+    subGenre: ["romance, horror, dystopian, fantasy"],
+    instagram: "https://www.instagram.com/caitlinj.ball/",
+    goodreads: "https://www.goodreads.com/httpwwwcaitlinballorg",
+    amazonBio: "https://www.amazon.com/stores/author/B0BTLHDK2V",
+    bookbub: "https://www.bookbub.com/profile/caitlin-ball",
+    bio: "Caitlin Ball is a writer and mother of three. She has traveled to each corner of the United States and currently resides in South Korea. As an avid bibliophile she houses over a thousand books in her home library, and has read even more in her quest to create better stories. She is an award-winning poet, has written many short stories and is currently working on a science fiction series spanning three generations. ",
+  },
+
+  {
+    firstName: "Barbara ",
+    lastName: "Randell",
+    website: "https://barbararandellwriter.com/",
+    umbrellaGenre: ["romance", "nonfiction", "childrens"],
+    subGenre: ["cosy mystery", "memoir", "middle grade"],
+    instagram: "https://www.instagram.com/barb__randell/",
+    amazonBio:
+      "https://www.amazon.com/stores/Barbara-Randell/author/B08PCNV6HY",
+    bio: "Barbara was born in a small Australian town in 1942, then educated for 9 years in a one-roomed school with all grades taught by a single teacher. She left home at 14, to spend 4 years in a girls’ boarding school, followed by 8 years at Universities. After marrying and raising 2 daughters, she taught in high schools, universities and adult education for 20 years. She is now widowed and has a teenage grandson.\n\nBarbara has been writing stories ever since childhood, her earliest reading loves were Jane Austen, Agatha Christie, and Ngaio Marsh. She writes stories set in small country towns, or their surroundings. The first was a memoir of her childhood on a farm in the Queensland Bush; then later she moved to clean and wholesome rural romance novellas, and cosy mystery-romance novellas, set in Australia. She has also published a book of Short Stories …cosy mysteries set in scattered sites across Australia, all of which she has visited, and knows well. Recently she has published a childrens’ book telling of a dog’s adventures in the Outback.\n\nShe also blogs about life in and around her home town in Queensland, its history in the 19th century, and the life she knew there in the 1940s, 1950s and 1960s.\n\nAll of her books are listed on the MY BOOKS page, and you can buy them on the SHOP page of this website. They are also available on Amazon Kindle and other sites, and paperbacks are also available on Amazon.",
+  },
+
+  {
+    firstName: "J.D.",
+    lastName: "Robinson",
+    website: "https://jdrobinson-author.com/",
+    umbrellaGenre: ["scifi"],
+    subGenre: ["space opera", "urban fantasy"],
+    facebook: "https://www.facebook.com/jeffrobinson.author",
+    goodreads: "https://www.goodreads.com/author/show/17491467.J_D_Robinson",
+    amazonBio: "https://www.amazon.com/stores/J.-D.-Robinson/author/B01DIICR0Q",
+    threads: "https://www.threads.net/@scamper",
+    bio: "J.D. Robinson writes twisty, humanist science fiction tales, speculating on the human condition as fallible characters face the most exotic existential questions.",
+  },
+
+  {
+    firstName: "D. L.",
+    lastName: "Lewellyn",
+    website: "https://bydllewellyn.com/",
+    umbrellaGenre: ["romance", "fantasy"],
+    subGenre: ["Paranormal Romance", "Urban Fantasy", "Historical Fantasy", ""],
+    instagram: "https://www.instagram.com/bydllewellyn/",
+    facebook: "https://www.facebook.com/byDLLewellyn",
+    tiktok: "https://www.tiktok.com/@bydllewellyn",
+    goodreads: "https://www.goodreads.com/author/show/21666290.D_L_Lewellyn",
+    amazonBio: "https://www.amazon.com/author/dllewellyn",
+    bio: "Hi, I’m D. L. Lewellyn, an independent author writing fantasy romance every chance I get. Tigris Vetus, the third book in my three-part series, The Starlight Chronicles, was published this year.\n\nA passion for writing took me by surprise in 2021 following a summer of voracious reading in the fantasy paranormal romance genres. Besides self-publishing my novels, five of my stories have found homes in anthologies published by Dragon Soul Press. Many more stories are in the works. Ask anyone who knows me, and they’ll tell you I’m a dedicated multi-crafter.\n\nI also enjoy blogging and chatting with authors on my Sunday Spotlight Feature at bydllewellyn.com",
+  },
+
+  {
+    firstName: "Rosemary",
+    lastName: "Nixon",
+    website: "https://rknixonbooks.com/",
+    umbrellaGenre: ["childrens"],
+    subGenre: ["Fantasy", "Picture book"],
+    instagram: "https://www.instagram.com/rknixonbooks/?hl=en-gb",
+    facebook: "https://www.facebook.com/R.K.NixonBooks/?locale=en_GB",
+    twitter: "https://x.com/RKNixon1",
+    tiktok: "https://www.tiktok.com/@rknixonbooks",
+    goodreads: "https://www.goodreads.com/author/show/21471356.R_K_Nixon",
+    amazonBio: "https://www.amazon.co.uk/stores/author/B08LKRBF5Q",
+    bio: "I always have stories floating around in my head, when my oldest was born I finally decided to write one of those stories down. Now I have published 4 books, who knows what will happen next!\n\nAs a Speech and Language Therapist and Mum, I know the importance of stories for developing children’s language skills. It’s exciting to be able to combine my two passions together.",
+  },
+
+  {
+    firstName: "Andie",
+    lastName: "James",
+    website: "https://www.andiejamesauthor.com/",
+    umbrellaGenre: ["romance"],
+    subGenre: ["Historical Romance", "Regency Romance"],
+    instagram: "https://www.instagram.com/andiejamesauthor/",
+    facebook: "https://www.facebook.com/andiejamesauthor",
+    goodreads: "https://www.goodreads.com/author/show/40711606.Andie_James",
+    amazonBio:
+      "https://www.amazon.com/stores/Andie-James/author/B0C9PTNYZ7?ref=ap_rdr&isDramIntegrated=true&shoppingPortalEnabled=true",
+    bookbub: "https://www.bookbub.com/authors/andie-james",
+    bio: "Andie has been a voracious reader her entire life. While she had read romance from time to time previously, it wasn’t until more recently that she truly fell in love with the genre. During the COVID pandemic, like many of us, she couldn’t bring herself to read anything heavy. Needing something lighter and joyful, she turned to romance—and the HEA (Happily Ever After) in romance fit the bill. After a 15 year career in student and academic development in higher education, she took a leap of faith and decided to try her hand at writing. Andie decided to start with a focus on historical romance as she loves the fantasy inherent to the genre, and the way a historical lens can provide a different perspective to understand contemporary issues.\n\nAndie happily lives in Tacoma, WA with her cat. She loves living in the Pacific Northwest and feels invigorated by the beauty of Puget Sound. There is nothing she enjoys more than curling up with a good book and some great coffee on a rainy day. Good food and time with family and friends fulfills her, she is fiercely political, and she appreciates a good story in any form (book, TV, movie, theatre, NPR reporting). When not reading or writing she enjoys attending musical theater performances and playing board games. Andie tries to live by the philosophy of Ted Lasso (and yes, Fated Mates, Roy Kent is a romance hero) and looks at life with a realistic optimism.",
+  },
 ];
