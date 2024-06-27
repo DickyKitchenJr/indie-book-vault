@@ -2298,7 +2298,7 @@ export const Authors = [
     tiktok: "https://www.tiktok.com/@bydllewellyn",
     goodreads: "https://www.goodreads.com/author/show/21666290.D_L_Lewellyn",
     amazonBio: "https://www.amazon.com/author/dllewellyn",
-    bio: "Hi, I’m D. L. Lewellyn, an independent author writing fantasy romance every chance I get. Tigris Vetus, the third book in my three-part series, The Starlight Chronicles, was published this year.\n\nA passion for writing took me by surprise in 2021 following a summer of voracious reading in the fantasy paranormal romance genres. Besides self-publishing my novels, five of my stories have found homes in anthologies published by Dragon Soul Press. Many more stories are in the works. Ask anyone who knows me, and they’ll tell you I’m a dedicated multi-crafter.\n\nI also enjoy blogging and chatting with authors on my Sunday Spotlight Feature at bydllewellyn.com",
+    bio: "D. L. Lewellyn is an independent author writing fantasy paranormal romance every chance she gets. A passion for writing took her by surprise in 2021 following a summer of voracious pandemic-induced reading in a new favorite genre, paranormal romance.\n\nBesides self-publishing The Starlight Chronicles novels, her stories have found homes in anthologies published by Dragon Soul Press, and many more are in the works. Ask anyone who knows her, and they'll tell you she's a dedicated multi-crafter.\n\nShe also enjoys blogging, chatting with authors and other creators on her monthly Sunday Spotlight, and classic cinema nights with her husband, dogs, and a big bowl of popcorn.",
   },
 
   {
