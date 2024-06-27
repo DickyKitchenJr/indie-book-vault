@@ -19,7 +19,7 @@ function ContactPage() {
               Have a question or want to say hi? Feel free to reach out to us on
               our social media accounts on either{" "}
               <a
-                href="https://www.instagram.com/indiebookvault/"
+                href="https://www.instagram.com/indiebv/"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -41,7 +41,10 @@ function ContactPage() {
               Vault, read the requirements and fill out the form below.
             </p>
             <br />
-            <p>By filling out the form you agree to the following terms and requirements:</p>
+            <p>
+              By filling out the form you agree to the following terms and
+              requirements:
+            </p>
             <ul className={styles.ul}>
               <li className={styles.li}>
                 Authors are required to be published and have their work(s)
