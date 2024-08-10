@@ -2275,19 +2275,6 @@ export const Authors = [
   },
 
   {
-    firstName: "J.D.",
-    lastName: "Robinson",
-    website: "https://jdrobinson-author.com/",
-    umbrellaGenre: ["scifi"],
-    subGenre: ["space opera", "urban fantasy"],
-    facebook: "https://www.facebook.com/jeffrobinson.author",
-    goodreads: "https://www.goodreads.com/author/show/17491467.J_D_Robinson",
-    amazonBio: "https://www.amazon.com/stores/J.-D.-Robinson/author/B01DIICR0Q",
-    threads: "https://www.threads.net/@scamper",
-    bio: "J.D. Robinson writes twisty, humanist science fiction tales, speculating on the human condition as fallible characters face the most exotic existential questions.",
-  },
-
-  {
     firstName: "D. L.",
     lastName: "Lewellyn",
     website: "https://bydllewellyn.com/",
