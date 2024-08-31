@@ -2379,4 +2379,47 @@ export const Authors = [
     bookbub: "https://www.bookbub.com/profile/dk-marie",
     bio: "DK Marie’s love for the written word knows no bounds and has been reading since a little kid. She fell head over heels with love during her college years. With a keen eye for the intricacies of the human heart and a passion for crafting tales of unexpected connections, second chances, and the life-altering power of love, DK Marie brings her unique voice to the world of romance.\n\nWith seven books under her belt, including six romance novels and one poetry collection, DK Marie has experienced the best of both worlds in traditional and self-publishing. Her readers can’t get enough of her relatable, swoon-worthy characters and the perfect blend of heart, heat, and humor that she infuses into every story. Keep an eye out for her upcoming steamy romance set in her beloved home state, featuring a cinnamon roll hero and a sweet (but delightfully flawed) heroine.\n\nWhen she’s not lost in the pages of her own stories or those of her favorite authors, you might find DK Marie exploring the great outdoors with her trusty camera, hitting the open road on her motorcycle, or simply curled up with a good book and a steaming cup of coffee (or bourbon). This Michigan native shares her life with her husband, two kids, and a feline writing buddy who keeps her company as she pens her next tantalizing tale. \n\nWhen she’s not devouring books or crafting her own, DK Marie is busy living life to the fullest with her family, planning her next adventure, and travel destination. Oh, and did we mention the boatloads of coffee and lively chats on social media? Because that’s just how this romance-loving, life-embracing author rolls!",
   },
+
+  {
+    firstName: "Heide",
+    lastName: "Rembold",
+    website: "https://heiderembold.com",
+    umbrellaGenre: ["childrens"],
+    subGenre: ["abc books", "farming", "ages 0-6", "homesteading "],
+    instagram: "https://instagram.com/heidekrembold/",
+    facebook: "https://www.facebook.com/heideremboldauthor",
+    goodreads: "https://www.goodreads.com/heiderembold",
+    amazonBio:
+      "https://www.amazon.com/stores/Heide-Rembold/author/B0D8LBF31D?ref=ap_rdr&isDramIntegrated=true&shoppingPortalEnabled=true",
+    threads: "https://www.threads.net/@heidekrembold",
+    bio: "Heide is a 20-something writer by passion, marketer by trade, and mother by blessing. When she's not writing children's books, she's crafting a novel, drinking too much coffee, muddling in the garden, or chasing her three little ones around. She dreams of living on a homestead and being a full-time author.",
+  },
+
+  {
+    firstName: "Kristin",
+    lastName: "Wolf",
+    website: "https://kristinwolfauthor.com",
+    umbrellaGenre: ["romance"],
+    subGenre: ["Regency", "Contemporary"],
+    instagram: "https://www.instagram.com/kristinwolfauthor/",
+    facebook: "https://www.facebook.com/kristinwolfauthor/",
+    tiktok: "https://www.tiktok.com/@kristinwolfauthor",
+    goodreads: "https://www.goodreads.com/kristinwolfauthor",
+    amazonBio: "https://www.amazon.com/author/kristinwolf",
+    bio: "Kristin Wolf has been reading and writing ever since she learned the alphabet. After getting her BA in Psychology from The Ohio State University, Kristin worked in a variety of office jobs before finally deciding to publish her first novel. Her debut novel, Secret of the Season, was published in March 2023 and was quickly followed by two sequels, The Dowager and the Detective and Holidays of Healing. Kristin is currently writing the final book of the Resilience and Redemption Series, Duty and Demons. She is also planning a series of six contemporary romance books.\n\nShe lives in Ohio with her husband of 14 years, two children, and adorably destructive cat, Butters. When she is not writing, she is binge-watching sitcoms, planning extravagant Christmases, and watching dog shows.",
+  },
+
+  {
+    firstName: "Dan",
+    lastName: "Hoskins",
+    website: "https://www.dhhoskins.com/",
+    umbrellaGenre: ["fantasy"],
+    subGenre: ["Political Fantasy", "High Fantasy"],
+    instagram: "https://www.instagram.com/d_h_hoskins/",
+    goodreads:
+      "https://www.goodreads.com/book/show/209283850-the-council-of-athyzia",
+    amazonBio:
+      "https://www.amazon.com/stores/D.-H.-Hoskins/author/B0D4J83R2G?ref=ap_rdr&isDramIntegrated=true&shoppingPortalEnabled=true",
+    bio: "D.H. Hoskins probably spends too much time thinking about maps of places that do not exist. When he is not writing, he enjoys playing basketball, boardgames, hiking, and hanging with his dog. He lives outside Boston with his wife and their two French Bulldogs, Millie and Rufus. \n\nFYI - I signed up earlier but my book wasn't out yet (I was a little too early). Now it is, and would love to be featured.\n\n",
+  },
 ];
