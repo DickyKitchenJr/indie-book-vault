@@ -19,7 +19,7 @@ function ContactPage() {
               Have a question or want to say hi? Feel free to reach out to us on
               our social media accounts on either{" "}
               <a
-                href="https://www.instagram.com/indiebv/"
+                href="https://www.instagram.com/indiebookvault/"
                 target="_blank"
                 rel="noreferrer"
               >
