@@ -2422,4 +2422,44 @@ export const Authors = [
       "https://www.amazon.com/stores/D.-H.-Hoskins/author/B0D4J83R2G?ref=ap_rdr&isDramIntegrated=true&shoppingPortalEnabled=true",
     bio: "D.H. Hoskins probably spends too much time thinking about maps of places that do not exist. When he is not writing, he enjoys playing basketball, boardgames, hiking, and hanging with his dog. He lives outside Boston with his wife and their two French Bulldogs, Millie and Rufus.\n\n",
   },
+
+  {
+    firstName: "Benjamin",
+    lastName: "Kamphuis",
+    website: "https://benkamphuis.com/",
+    umbrellaGenre: ["fantasy", "dystopian"],
+    subGenre: ["YA"],
+    instagram: "https://www.instagram.com/bengar_kamphuis/?hl=en",
+    tiktok: "https://www.tiktok.com/@bengar27",
+    goodreads:
+      "https://www.goodreads.com/author/show/50307361.Benjamin_Kamphuis",
+    amazonBio:
+      "https://www.amazon.com/stores/Benjamin-Kamphuis/author/B0D6WDZDM5?ref=ap_rdr&isDramIntegrated=true&shoppingPortalEnabled=true",
+    bio: "Yaron Meek has been confined to the walls of his home city, Toterrum, his entire life. Terror, oppression, and a tiered society drive him and his friends to obey while feeding into Yaron’s growing anxiety about himself and his world. On his eighteenth birthday, Yaron notices a mist above his mother’s head, launching him into dramatic change and freedom from the walls.\n\nThe mist is Aura and Yaron can control it. He soon learns from a Perceptionist named Aurora that there are five Auras—Vigor, Perception, Mentality, Luck, and Empathy. After escaping Toterrum, Yaron travels with Aurora and another friend to Flaunte, Perception’s capital, to learn what Aura he can manipulate.\n\nCorrupt history, partner beasts, exotic landscapes, betrayal, budding romance, developing mental health, and war all follow Yaron as he begins his adventure in the world of Biome.\n\nWill Yaron figure out his Aura? Will this newfound power turn into something malicious? Will escaping Toterrum help him escape his inner demons?\n",
+  },
+
+  {
+    firstName: "Gina R.",
+    lastName: "Briggs",
+    website: "https://www.ginarbriggswrites.com/",
+    umbrellaGenre: ["drama", "thriller", "childrens"],
+    subGenre: ["Coming-Of-Age", "New Adult", "Women's Fiction", "Mystery"],
+    instagram: "https://www.instagram.com/ginarbriggswrites/",
+    goodreads: "https://www.goodreads.com/ginarbriggswrites",
+    amazonBio: "https://www.amazon.com/stores/author/B0BD5XJ4JT/about",
+    bio: "Gina R. Briggs is a self-taught writer who refuses to stick to one genre. With a background in theatre and education, she wore many tiaras (because hats don't have enough sparkle) before finding her creative home in fiction. She holds a BFA in Acting from Belmont University and an MA in Human Communication Theory from Arizona State.\n\nCurrently residing in the Sunshine State, Gina lives with her husband, furry familiars, and daughter. After losing her first child, Gina has become an advocate for pregnancy and infant loss awareness. She is compelled to share her unique journey to motherhood with others in the hopes of shattering harmful stigmas. Her publishing house, Poppy & Rose Press, is named for her girls.",
+  },
+
+  {
+    firstName: "Naila",
+    lastName: "Syed",
+    website: "https://www.nailasyed.com",
+    umbrellaGenre: ["childrens"],
+    subGenre: ["Children’s science fiction"],
+    instagram:
+      "https://www.instagram.com/visit.the.stars?igsh=eDRxZ3o5dTFpeHN5&utm_source=qr",
+    facebook:
+      "https://www.facebook.com/profile.php?id=100064973594434&mibextid=LQQJ4d",
+    bio: "Naila Syed is a Physics Professor at a local community college. She is currently a Ph.D. student at Texas A&M University. She conducts STEM workshops for schools and community groups.\n\nAn Electrical Engineer by training, Naila loves sharing her understanding and passion of STEM with those around her. It is her hope through this book that she inspires children to ask questions and to always dream BIG.\n\nNaila lives in Texas with her husband and four children and enjoys being outdoors, exploring nature, and volunteering in her free time.",
+  },
 ];
