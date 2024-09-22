@@ -2410,7 +2410,7 @@ export const Authors = [
   },
 
   {
-    firstName: "Dan",
+    firstName: "D.H.",
     lastName: "Hoskins",
     website: "https://www.dhhoskins.com/",
     umbrellaGenre: ["fantasy"],
@@ -2420,6 +2420,6 @@ export const Authors = [
       "https://www.goodreads.com/book/show/209283850-the-council-of-athyzia",
     amazonBio:
       "https://www.amazon.com/stores/D.-H.-Hoskins/author/B0D4J83R2G?ref=ap_rdr&isDramIntegrated=true&shoppingPortalEnabled=true",
-    bio: "D.H. Hoskins probably spends too much time thinking about maps of places that do not exist. When he is not writing, he enjoys playing basketball, boardgames, hiking, and hanging with his dog. He lives outside Boston with his wife and their two French Bulldogs, Millie and Rufus. \n\nFYI - I signed up earlier but my book wasn't out yet (I was a little too early). Now it is, and would love to be featured.\n\n",
+    bio: "D.H. Hoskins probably spends too much time thinking about maps of places that do not exist. When he is not writing, he enjoys playing basketball, boardgames, hiking, and hanging with his dog. He lives outside Boston with his wife and their two French Bulldogs, Millie and Rufus.\n\n",
   },
 ];
