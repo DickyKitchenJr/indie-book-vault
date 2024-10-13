@@ -2462,4 +2462,18 @@ export const Authors = [
       "https://www.facebook.com/profile.php?id=100064973594434&mibextid=LQQJ4d",
     bio: "Naila Syed is a Physics Professor at a local community college. She is currently a Ph.D. student at Texas A&M University. She conducts STEM workshops for schools and community groups.\n\nAn Electrical Engineer by training, Naila loves sharing her understanding and passion of STEM with those around her. It is her hope through this book that she inspires children to ask questions and to always dream BIG.\n\nNaila lives in Texas with her husband and four children and enjoys being outdoors, exploring nature, and volunteering in her free time.",
   },
+
+  {
+    firstName: "Sri",
+    lastName: "Savita",
+    website: "https://www.sri-savita.com/",
+    umbrellaGenre: ["romance"],
+    subGenre: ["Historical Romance", "Regency Romance"],
+    instagram: "https://www.instagram.com/sri_writes_here/",
+    facebook: "https://www.facebook.com/sri.writes.here/",
+    goodreads: "https://www.goodreads.com/srihere",
+    amazonBio: "https://www.amazon.com/author/sri-savita",
+    bookbub: "https://www.bookbub.com/authors/sri-savita",
+    bio: "Sri Savita loves writing about love, and she believes in the magic of a good story with hope, heart, & happily ever after. Sri’s work focuses on Indian representation in romance, and you can learn more about her projects on her website.\n\nWith a Ph.D. in Psychology, research is naturally part of the fun of crafting fiction for Sri, and she enjoys bringing her passion for learning, reading, language, and psychology to her characters and stories.\n\nSome of her tales are set in contemporary modern day, and others are set in historical, fantastical, or paranormal worlds. Some are about finding the magic in the mundane, and others are about magic beyond the everyday. Most of her writing is high heat. ",
+  },
 ];
