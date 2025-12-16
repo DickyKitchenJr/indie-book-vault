@@ -1,4 +1,4 @@
-# Indie Book Vault (live site front-end)
+# Indie Book Vault (user facing front-end)
 
 #### Full Project Repo: [https://github.com/DickyKitchenJr/Indie-Book-Vault-Full-Project]
 
